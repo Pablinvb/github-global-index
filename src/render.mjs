@@ -311,6 +311,7 @@ const CLIENT = `
   }
 
   function moveChip(e) {
+    if (!D.hasHistory) return '';
     if (e.status === 'new') return '<span class="chip new">nuevo</span>';
     if (e.status === 'reentry') return '<span class="chip new">reingreso</span>';
     if (e.rankChange > 0) return '<span class="chip up">\\u25b2 ' + e.rankChange + '</span>';
@@ -411,6 +412,11 @@ const CLIENT = `
   }
 
   function renderMovement() {
+    if (!D.hasHistory) {
+      el('movement').innerHTML = '<div class="move-col" style="grid-column:1/-1"><h3>Todavía no hay comparación</h3>' +
+        '<p class="empty-note">Esta es la instantánea base del índice. A partir de la próxima ejecución semanal esta sección mostrará qué repositorios subieron, cuáles bajaron, cuáles entraron al Top ' + D.top.length + ' y cuáles salieron, con la variación de puestos y la dimensión que explica cada movimiento.</p></div>';
+      return;
+    }
     var ups = D.top.filter(function (e) { return e.rankChange > 0; }).sort(function (a, b) { return b.rankChange - a.rankChange; });
     var downs = D.top.filter(function (e) { return e.rankChange < 0; }).sort(function (a, b) { return a.rankChange - b.rankChange; });
     var ins = D.top.filter(function (e) { return e.status === 'new' || e.status === 'reentry'; });

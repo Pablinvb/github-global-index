@@ -89,7 +89,7 @@ export function buildRanking(scored, previous, timeseries) {
   };
 
   const entries = ranked.map(decorate);
-  entries.forEach((e) => { e.explanation = explain(e); });
+  entries.forEach((e) => { e.explanation = explain(e, hasHistory); });
 
   const top = entries.slice(0, TOP_N);
   const exits = (previous?.entries || [])
@@ -130,11 +130,12 @@ export function buildRanking(scored, previous, timeseries) {
   };
 }
 
-function explain(e) {
+function explain(e, hasHistory) {
   const reasons = [];
   if (e.prevRank === null) {
     const top2 = [...e.pillars].sort((a, b) => b.points - a.points).slice(0, 2);
-    reasons.push(`Entra al índice apoyado en ${top2.map((p) => `${p.short.toLowerCase()} (${p.points.toFixed(1)} pts)`).join(' y ')}.`);
+    const led = top2.map((p) => `${p.short.toLowerCase()} (${p.points.toFixed(1)} pts)`).join(' y ');
+    reasons.push(hasHistory ? `Entra al índice apoyado en ${led}.` : `Posición sostenida sobre todo por ${led}.`);
   } else {
     const moves = e.pillars
       .filter((p) => p.prevPoints !== null)
@@ -183,7 +184,7 @@ function buildIndicators(entries, top, hasHistory) {
       ? `+${byGrowth[0].starsDelta.toLocaleString('es-ES')} estrellas en la semana`
       : `Aceleración de commits ${byGrowth[0].commitAccel.toFixed(1)}× y ${byGrowth[0].prsMerged30} PR fusionados en 30 días`)),
     mostActive: card(byActivity[0], byActivity[0] && `${byActivity[0].commits30} commits, ${byActivity[0].prsMerged30} PR fusionados y ${byActivity[0].uniqueAuthors30} autores distintos en 30 días`),
-    newEntry: card(entrants[0], entrants[0] && (entrants[0].status === 'reentry' ? `Reingresa al Top ${TOP_N} en el #${entrants[0].rank}` : `Nuevo en el Top ${TOP_N}, entra directo al #${entrants[0].rank}`)),
+    newEntry: hasHistory ? card(entrants[0], entrants[0] && (entrants[0].status === 'reentry' ? `Reingresa al Top ${TOP_N} en el #${entrants[0].rank}` : `Nuevo en el Top ${TOP_N}, entra directo al #${entrants[0].rank}`)) : undefined,
     emerging: card(emerging, emerging && `${emerging.ageYears.toFixed(1)} años de vida, puesto global #${emerging.rank} y ${Math.round(emerging.stars / emerging.ageYears).toLocaleString('es-ES')} estrellas por año`),
   };
 }
