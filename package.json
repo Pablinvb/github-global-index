@@ -1,0 +1,13 @@
+{
+  "name": "github-global-repository-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ranking semanal multidimensional de los 20 repositorios públicos de GitHub más relevantes del mundo.",
+  "scripts": {
+    "build": "node src/main.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
