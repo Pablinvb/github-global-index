@@ -2,9 +2,30 @@ import { graphql, searchRepositories, contributorCount } from './github.mjs';
 import { DISCOVERY, UNIVERSE_CAP, WINDOW_DAYS, RELEASE_WINDOW_DAYS } from './config.mjs';
 
 const REPO_BATCH = 10;
+const REPO_POOL = 3;
 const SEARCH_BATCH = 4; // 4 searches per repo -> 16 search nodes per query
+const SEARCH_POOL = 5;
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// GitHub's search resolver is slow enough that serialising the batches dominates the runtime.
+// A small pool keeps the job under ten minutes while staying clear of secondary rate limits.
+async function mapPool(items, limit, worker) {
+  const results = new Array(items.length);
+  let cursor = 0;
+  const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (cursor < items.length) {
+      const i = cursor++;
+      results[i] = await worker(items[i], i);
+    }
+  });
+  await Promise.all(runners);
+  return results;
+}
+
+function chunk(items, size) {
+  const out = [];
+  for (let i = 0; i < items.length; i += size) out.push(items.slice(i, i + size));
+  return out;
+}
 
 // A single oversized batch can time out on GitHub's side. Rather than losing the whole run,
 // split the batch and retry the halves; a batch of one that still fails is skipped.
@@ -151,34 +172,36 @@ export async function collect(universe) {
   const sinceDay = day(daysAgo(WINDOW_DAYS));
   const prevDay = day(daysAgo(WINDOW_DAYS * 2));
 
-  const collected = [];
-  for (let i = 0; i < universe.length; i += REPO_BATCH) {
-    const batch = universe.slice(i, i + REPO_BATCH);
+  let done = 0;
+  const repoBatches = await mapPool(chunk(universe, REPO_BATCH), REPO_POOL, async (batch) => {
     const results = await resilientBatch(batch, (b) => fetchRepoBatch(b, since, prevSince), 'lote de métricas');
-    for (const { request, repo } of results || []) {
+    done += batch.length;
+    console.log(`  · métricas ${done}/${universe.length}`);
+    return results || [];
+  });
+
+  const collected = [];
+  for (const results of repoBatches) {
+    for (const { request, repo } of results) {
       if (!repo || repo.isArchived || repo.isDisabled) continue;
       collected.push({ ...request, canonical: repo.nameWithOwner, gql: repo });
     }
-    console.log(`  · métricas ${Math.min(i + REPO_BATCH, universe.length)}/${universe.length}`);
   }
 
   const byCanonical = new Map(collected.map((r) => [r.canonical, r]));
-  for (let i = 0; i < collected.length; i += SEARCH_BATCH) {
-    const batch = collected.slice(i, i + SEARCH_BATCH);
+  let searched = 0;
+  await mapPool(chunk(collected, SEARCH_BATCH), SEARCH_POOL, async (batch) => {
     const results = await resilientBatch(batch, (b) => fetchSearchBatch(b, sinceDay, prevDay), 'lote de búsquedas');
     for (const res of results || []) {
       const target = byCanonical.get(res.fullName);
       if (target) target.search = res;
     }
-    if (i % 40 === 0) console.log(`  · búsquedas ${Math.min(i + SEARCH_BATCH, collected.length)}/${collected.length}`);
-    await sleep(600); // keep clear of GitHub's secondary rate limits on search
-  }
+    searched += batch.length;
+    if (searched % 40 < SEARCH_BATCH) console.log(`  · búsquedas ${searched}/${collected.length}`);
+  });
 
-  for (let i = 0; i < collected.length; i += 12) {
-    const batch = collected.slice(i, i + 12);
-    const counts = await Promise.all(batch.map((r) => contributorCount(r.canonical)));
-    counts.forEach((c, j) => { batch[j].contributors = c; });
-  }
+  const counts = await mapPool(collected, 8, (r) => contributorCount(r.canonical));
+  counts.forEach((c, i) => { collected[i].contributors = c; });
   console.log(`  · contribuidores resueltos para ${collected.length} repositorios`);
 
   return collected.map(toRawRecord).filter(Boolean);
