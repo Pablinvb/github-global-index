@@ -17,18 +17,22 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 export const stats = { graphqlCalls: 0, restCalls: 0, retries: 0 };
 
+const MAX_BACKOFF_MS = 120000;
+
 async function withRetry(label, fn, { attempts = 5 } = {}) {
   let wait = 1500;
   for (let i = 1; i <= attempts; i++) {
     try {
       return await fn();
     } catch (err) {
-      if (i === attempts) throw new Error(`${label} falló tras ${attempts} intentos: ${err.message}`);
+      if (err.permanent || i === attempts) {
+        throw new Error(`${label} falló${err.permanent ? '' : ` tras ${attempts} intentos`}: ${err.message}`);
+      }
       stats.retries++;
-      const backoff = err.retryAfter ? err.retryAfter * 1000 : wait;
+      const backoff = Math.min(err.retryAfter ? err.retryAfter * 1000 : wait, MAX_BACKOFF_MS);
       console.warn(`  ! ${label}: ${err.message} — reintento ${i}/${attempts - 1} en ${Math.round(backoff / 1000)}s`);
       await sleep(backoff);
-      wait = Math.min(wait * 2, 60000);
+      wait = Math.min(wait * 2, MAX_BACKOFF_MS);
     }
   }
 }
@@ -36,6 +40,16 @@ async function withRetry(label, fn, { attempts = 5 } = {}) {
 async function raw(url, init) {
   const res = await fetch(url, { ...init, headers: { ...headers, ...(init?.headers || {}) } });
   if (res.status === 403 || res.status === 429) {
+    const body = await res.text();
+    const remaining = res.headers.get('x-ratelimit-remaining');
+    const isSecondary = /secondary rate limit|abuse detection/i.test(body);
+    // GitHub also answers 403 for requests it will never serve — the contributor list of a
+    // repository with an enormous history, for instance. Those must not trigger a quota wait.
+    if (remaining !== '0' && !isSecondary) {
+      const err = new Error(`HTTP ${res.status} ${body.slice(0, 140)}`);
+      err.permanent = true;
+      throw err;
+    }
     const retryAfter = Number(res.headers.get('retry-after'));
     const reset = Number(res.headers.get('x-ratelimit-reset'));
     const err = new Error(`HTTP ${res.status} (límite de peticiones)`);
@@ -66,20 +80,21 @@ export async function graphql(query, variables = {}) {
   });
 }
 
-export async function rest(path, { raw: wantRaw = false } = {}) {
+export async function rest(path, { raw: wantRaw = false, attempts = 5 } = {}) {
   return withRetry(`rest ${path}`, async () => {
     const res = await raw(path.startsWith('http') ? path : `${API}${path}`);
     stats.restCalls++;
     if (wantRaw) return res;
     return res.json();
-  });
+  }, { attempts });
 }
 
 // Total contributors is not exposed by GraphQL; the REST pagination header is the cheapest
-// reliable estimate (one request per repo, capped by GitHub at 500 pages).
+// reliable estimate (one request per repo, capped by GitHub at 500 pages). Repositories whose
+// history is too large for GitHub to enumerate return null and are imputed later.
 export async function contributorCount(nameWithOwner) {
   try {
-    const res = await rest(`/repos/${nameWithOwner}/contributors?per_page=1&anon=1`, { raw: true });
+    const res = await rest(`/repos/${nameWithOwner}/contributors?per_page=1&anon=1`, { raw: true, attempts: 3 });
     const link = res.headers.get('link');
     if (!link) {
       const body = await res.json();
@@ -87,8 +102,9 @@ export async function contributorCount(nameWithOwner) {
     }
     const last = /[?&]page=(\d+)>; rel="last"/.exec(link);
     return last ? Number(last[1]) : 1;
-  } catch {
-    return 0;
+  } catch (err) {
+    console.warn(`  ! contribuidores no enumerables para ${nameWithOwner}`);
+    return null;
   }
 }
 

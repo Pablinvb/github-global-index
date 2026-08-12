@@ -36,6 +36,10 @@ Los pesos exactos de cada métrica viven en [`src/config.mjs`](src/config.mjs) y
 - **Razón** — `0.5 + log2(r) / 4`, saturado entre 0,25× y 4×. El punto neutro es 1×. Usado en las aceleraciones.
 - **Acotada** — `valor / techo`, saturado en 1. Usado en la tasa de crecimiento y la intensidad de derivación.
 
+### Datos que GitHub no puede servir
+
+En los repositorios con un historial enorme (`torvalds/linux`, por ejemplo) la API se niega a enumerar la lista de contribuidores. Como esa negativa significa precisamente que la lista es demasiado grande, el valor se imputa con el **máximo observado** entre los repositorios que sí respondieron, en lugar de contarlo como cero, y queda marcado con `contributorsImputed`.
+
 ### La primera semana es distinta
 
 Las métricas de variación semanal de estrellas y forks necesitan una instantánea previa, que solo existe a partir de la segunda ejecución. En la semana base esas métricas quedan **inactivas** y su peso se redistribuye proporcionalmente entre las métricas de crecimiento sí observables (aceleración de commits y de PR). El sitio lo indica de forma explícita y la redistribución se revierte sola en la siguiente ejecución.

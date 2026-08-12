@@ -201,8 +201,15 @@ export async function collect(universe) {
   });
 
   const counts = await mapPool(collected, 8, (r) => contributorCount(r.canonical));
-  counts.forEach((c, i) => { collected[i].contributors = c; });
-  console.log(`  · contribuidores resueltos para ${collected.length} repositorios`);
+  // A refusal to enumerate contributors means the list is too large, so the honest substitute
+  // is the largest count actually observed rather than zero.
+  const resolved = counts.filter((c) => c !== null);
+  const ceiling = resolved.length ? Math.max(...resolved) : 0;
+  counts.forEach((c, i) => {
+    collected[i].contributors = c === null ? ceiling : c;
+    collected[i].contributorsImputed = c === null;
+  });
+  console.log(`  · contribuidores resueltos para ${resolved.length}/${collected.length} repositorios (${counts.length - resolved.length} imputados)`);
 
   return collected.map(toRawRecord).filter(Boolean);
 }
@@ -242,6 +249,7 @@ function toRawRecord(entry) {
     forkCount: g.forkCount,
     watchers: g.watchers?.totalCount ?? 0,
     contributors: entry.contributors ?? 0,
+    contributorsImputed: Boolean(entry.contributorsImputed),
 
     openIssues: g.openIssues?.totalCount ?? 0,
     closedIssues: g.closedIssues?.totalCount ?? 0,
