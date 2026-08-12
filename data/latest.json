@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:24:46.774Z",
+  "generatedAt": "2026-08-12T17:48:46.646Z",
   "weekId": "2026-W33",
   "previousWeekId": null,
   "hasHistory": false,
@@ -30,28 +30,28 @@
       ],
       "kind": "software",
       "createdAt": "2025-11-24T10:16:47Z",
-      "pushedAt": "2026-08-12T17:17:13Z",
-      "ageYears": 0.7153927977729612,
-      "score": 84.26485452587357,
+      "pushedAt": "2026-08-12T17:37:21Z",
+      "ageYears": 0.7154384244682739,
+      "score": 84.08152339186928,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 386056,
-      "forks": 81141,
+      "stars": 386060,
+      "forks": 81142,
       "watchers": 1766,
       "contributors": 3090,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 10799,
-      "commitsPrev30": 9088,
-      "prsMerged30": 9336,
-      "issuesClosed30": 4125,
-      "openIssues": 3418,
-      "uniqueAuthors30": 15,
+      "commits30": 10796,
+      "commitsPrev30": 9094,
+      "prsMerged30": 9345,
+      "issuesClosed30": 4129,
+      "openIssues": 3419,
+      "uniqueAuthors30": 13,
       "releasesTotal": 233,
       "latestReleaseTag": "v2026.6.34",
       "latestReleaseAt": "2026-08-08T07:22:14Z",
-      "commitAccel": 1.1882702464788732,
-      "prAccel": 1.8597609561752988,
+      "commitAccel": 1.187156366835276,
+      "prAccel": 1.8615537848605577,
       "pillars": [
         {
           "key": "popularity",
@@ -67,7 +67,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 386056,
+              "raw": 386060,
               "normalized": 0.9790794979079498,
               "weight": 0.4,
               "points": 7.832635983263598
@@ -76,7 +76,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 81141,
+              "raw": 81142,
               "normalized": 0.9832635983263598,
               "weight": 0.25,
               "points": 4.916317991631799
@@ -106,8 +106,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9953168811794602,
-          "points": 21.896971385948124,
+          "score": 0.9952684002464589,
+          "points": 21.895904805422095,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -115,7 +115,7 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 10799,
+              "raw": 10796,
               "normalized": 1,
               "weight": 0.28,
               "points": 6.160000000000001
@@ -124,7 +124,7 @@
               "key": "prsMerged30",
               "label": "PR fusionados (30 d)",
               "description": "Percentil de pull requests fusionados en los últimos 30 días.",
-              "raw": 9336,
+              "raw": 9345,
               "normalized": 1,
               "weight": 0.24,
               "points": 5.28
@@ -133,25 +133,25 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.005251793981481481,
-              "normalized": 0.999636039630536,
+              "raw": 0.007935462962962964,
+              "normalized": 0.9994501068687552,
               "weight": 0.18,
-              "points": 3.9585587169369227
+              "points": 3.957822423200271
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 4.418434664351852,
-              "normalized": 0.9748010506533812,
+              "raw": 4.435099814814815,
+              "normalized": 0.9747072191791274,
               "weight": 0.16,
-              "points": 3.431299698299902
+              "points": 3.430969411510529
             },
             {
               "key": "issuesClosed30",
               "label": "Issues cerradas (30 d)",
               "description": "Percentil de issues resueltas en los últimos 30 días.",
-              "raw": 4125,
+              "raw": 4129,
               "normalized": 0.99581589958159,
               "weight": 0.14,
               "points": 3.0671129707112974
@@ -163,8 +163,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.6237637661764673,
-          "points": 12.475275323529347,
+          "score": 0.6236867624255373,
+          "points": 12.473735248510748,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -172,19 +172,19 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.1882702464788732,
-              "normalized": 0.5622157458436452,
+              "raw": 1.187156366835276,
+              "normalized": 0.561877493180578,
               "weight": 0.619047619047619,
-              "points": 6.960766377111797
+              "points": 6.956578486997632
             },
             {
               "key": "prAccel",
               "label": "Aceleración de PR",
               "description": "PR fusionados en 30 días frente a los 30 previos. 1× es el punto neutro.",
-              "raw": 1.8597609561752988,
-              "normalized": 0.7237792992173034,
+              "raw": 1.8615537848605577,
+              "normalized": 0.7241268249485965,
               "weight": 0.38095238095238093,
-              "points": 5.514508946417551
+              "points": 5.517156761513116
             }
           ]
         },
@@ -193,20 +193,11 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.7733465771592812,
-          "points": 15.466931543185625,
+          "score": 0.7643102047056736,
+          "points": 15.286204094113472,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
-            {
-              "key": "contributorDiversity",
-              "label": "Diversidad de contribuidores",
-              "description": "Percentil de autores distintos con commits en los últimos 30 días.",
-              "raw": 15,
-              "normalized": 0.6569037656903766,
-              "weight": 0.24,
-              "points": 3.153138075313807
-            },
             {
               "key": "documentation",
               "label": "Documentación y gobernanza",
@@ -217,13 +208,22 @@
               "points": 3.0000000000000004
             },
             {
+              "key": "contributorDiversity",
+              "label": "Diversidad de contribuidores",
+              "description": "Percentil de autores distintos con commits en los últimos 30 días.",
+              "raw": 13,
+              "normalized": 0.6192468619246861,
+              "weight": 0.24,
+              "points": 2.972384937238494
+            },
+            {
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.9269923318452699,
-              "normalized": 0.9269923318452699,
+              "raw": 0.926977211080498,
+              "normalized": 0.926977211080498,
               "weight": 0.16,
-              "points": 2.966375461904864
+              "points": 2.9663270754575937
             },
             {
               "key": "releaseCadence",
@@ -238,10 +238,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 0.8286060606060606,
-              "normalized": 0.9532651733369977,
+              "raw": 0.8280455316057157,
+              "normalized": 0.9532960381080097,
               "weight": 0.12,
-              "points": 2.2878364160087945
+              "points": 2.287910491459223
             },
             {
               "key": "busFactor",
@@ -259,8 +259,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.8944064689208053,
-          "points": 16.099316440574498,
+          "score": 0.8944066339548322,
+          "points": 16.09931941118698,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -268,7 +268,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 539641.999754266,
+              "raw": 539613.1753573711,
               "normalized": 1,
               "weight": 0.26,
               "points": 4.68
@@ -277,7 +277,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 24271,
+              "raw": 24275,
               "normalized": 0.9330543933054394,
               "weight": 0.22,
               "points": 3.69489539748954
@@ -295,7 +295,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 15460,
+              "raw": 15468,
               "normalized": 0.9832635983263598,
               "weight": 0.13,
               "points": 2.300836820083682
@@ -304,10 +304,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.210179352218331,
-              "normalized": 0.6005124349095172,
+              "raw": 0.21017976480339842,
+              "normalized": 0.6005136137239955,
               "weight": 0.14,
-              "points": 1.5132913359719835
+              "points": 1.5132943065844688
             },
             {
               "key": "orgBacked",
@@ -323,13 +323,13 @@
       ],
       "pillarPoints": {
         "popularity": 18.326359832635987,
-        "activity": 21.896971385948124,
-        "growth": 12.475275323529347,
-        "health": 15.466931543185625,
-        "impact": 16.099316440574498
+        "activity": 21.895904805422095,
+        "growth": 12.473735248510748,
+        "health": 15.286204094113472,
+        "impact": 16.09931941118698
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.9 pts) y popularidad (18.3 pts)."
+        "Posición sostenida sobre todo por actividad (21.9 pts) y popularidad (18.3 pts)."
       ]
     },
     {
@@ -357,28 +357,28 @@
       ],
       "kind": "software",
       "createdAt": "2025-07-22T22:22:28Z",
-      "pushedAt": "2026-08-12T17:16:33Z",
-      "ageYears": 1.0562444151329633,
-      "score": 81.5860304119298,
+      "pushedAt": "2026-08-12T17:37:06Z",
+      "ageYears": 1.056290041828276,
+      "score": 81.66521768426439,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 229462,
-      "forks": 45284,
+      "stars": 229472,
+      "forks": 45287,
       "watchers": 878,
       "contributors": 2660,
       "starsDelta": null,
       "forksDelta": null,
       "commits30": 6465,
-      "commitsPrev30": 3721,
-      "prsMerged30": 2486,
+      "commitsPrev30": 3722,
+      "prsMerged30": 2487,
       "issuesClosed30": 3944,
-      "openIssues": 10491,
-      "uniqueAuthors30": 26,
+      "openIssues": 10492,
+      "uniqueAuthors30": 27,
       "releasesTotal": 24,
       "latestReleaseTag": "v2026.8.3",
       "latestReleaseAt": "2026-08-03T16:57:52Z",
-      "commitAccel": 1.737436173071755,
-      "prAccel": 1.308421052631579,
+      "commitAccel": 1.7369693713057497,
+      "prAccel": 1.3089473684210526,
       "pillars": [
         {
           "key": "popularity",
@@ -394,7 +394,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 229462,
+              "raw": 229472,
               "normalized": 0.9246861924686193,
               "weight": 0.4,
               "points": 7.397489539748955
@@ -403,7 +403,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 45284,
+              "raw": 45287,
               "normalized": 0.895397489539749,
               "weight": 0.25,
               "points": 4.476987447698745
@@ -433,8 +433,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9884597754211544,
-          "points": 21.746115059265396,
+          "score": 0.9884152973134332,
+          "points": 21.745136540895533,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -451,7 +451,7 @@
               "key": "prsMerged30",
               "label": "PR fusionados (30 d)",
               "description": "Percentil de pull requests fusionados en los últimos 30 días.",
-              "raw": 2486,
+              "raw": 2487,
               "normalized": 0.99581589958159,
               "weight": 0.24,
               "points": 5.257907949790795
@@ -460,19 +460,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.005714756944444444,
-              "normalized": 0.9996039616775256,
+              "raw": 0.008109074074074074,
+              "normalized": 0.9994380797532101,
               "weight": 0.18,
-              "points": 3.9584316882430013
+              "points": 3.957774795822712
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 9.018689293981481,
-              "normalized": 0.9492396415870483,
+              "raw": 9.035354444444444,
+              "normalized": 0.9491482705786456,
               "weight": 0.16,
-              "points": 3.3413235383864106
+              "points": 3.3410019124368326
             },
             {
               "key": "issuesClosed30",
@@ -490,8 +490,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.6602749375846115,
-          "points": 13.205498751692232,
+          "score": 0.6602702000272478,
+          "points": 13.205404000544958,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -499,19 +499,19 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.737436173071755,
-              "normalized": 0.6992399948929611,
+              "raw": 1.7369693713057497,
+              "normalized": 0.6991430786596163,
               "weight": 0.619047619047619,
-              "points": 8.657257079627136
+              "points": 8.656057164357154
             },
             {
               "key": "prAccel",
               "label": "Aceleración de PR",
               "description": "PR fusionados en 30 días frente a los 30 previos. 1× es el punto neutro.",
-              "raw": 1.308421052631579,
-              "normalized": 0.5969567194585437,
+              "raw": 1.3089473684210526,
+              "normalized": 0.5971017722496491,
               "weight": 0.38095238095238093,
-              "points": 4.548241672065094
+              "points": 4.549346836187803
             }
           ]
         },
@@ -520,8 +520,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.7807171820393606,
-          "points": 15.614343640787212,
+          "score": 0.7847285987171265,
+          "points": 15.69457197434253,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -529,10 +529,10 @@
               "key": "contributorDiversity",
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
-              "raw": 26,
-              "normalized": 0.8179916317991632,
+              "raw": 27,
+              "normalized": 0.8347280334728033,
               "weight": 0.24,
-              "points": 3.926359832635984
+              "points": 4.006694560669456
             },
             {
               "key": "documentation",
@@ -556,10 +556,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 2.6599898580121706,
-              "normalized": 0.8575746578361955,
+              "raw": 2.660243407707911,
+              "normalized": 0.8575620982287039,
               "weight": 0.12,
-              "points": 2.0581791788068693
+              "points": 2.0581490357488894
             },
             {
               "key": "releaseCadence",
@@ -574,10 +574,10 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.5016152019002376,
-              "normalized": 0.5016152019002376,
+              "raw": 0.5015913733314332,
+              "normalized": 0.5015913733314332,
               "weight": 0.16,
-              "points": 1.6051686460807604
+              "points": 1.6050923946605864
             }
           ]
         },
@@ -586,8 +586,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7960942439526273,
-          "points": 14.329696391147289,
+          "score": 0.7960960333024287,
+          "points": 14.329728599443717,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -595,7 +595,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 217243.27884007283,
+              "raw": 217243.36206258196,
               "normalized": 0.9456066945606695,
               "weight": 0.26,
               "points": 4.4254393305439335
@@ -604,7 +604,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 10342,
+              "raw": 10343,
               "normalized": 0.8410041841004184,
               "weight": 0.22,
               "points": 3.330376569037657
@@ -613,7 +613,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 22536,
+              "raw": 22544,
               "normalized": 0.9916317991631799,
               "weight": 0.13,
               "points": 2.320418410041841
@@ -631,10 +631,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.19734858059286506,
-              "normalized": 0.563853087408186,
+              "raw": 0.19735305396736857,
+              "normalized": 0.563865868478196,
               "weight": 0.14,
-              "points": 1.4209097802686288
+              "points": 1.4209419885650538
             },
             {
               "key": "orgBacked",
@@ -650,13 +650,13 @@
       ],
       "pillarPoints": {
         "popularity": 16.690376569037657,
-        "activity": 21.746115059265396,
-        "growth": 13.205498751692232,
-        "health": 15.614343640787212,
-        "impact": 14.329696391147289
+        "activity": 21.745136540895533,
+        "growth": 13.205404000544958,
+        "health": 15.69457197434253,
+        "impact": 14.329728599443717
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.7 pts) y popularidad (16.7 pts).",
+        "Posición sostenida sobre todo por actividad (21.7 pts) y popularidad (16.7 pts).",
         "Ritmo de commits 1.7× frente al mes previo."
       ]
     },
@@ -684,28 +684,28 @@
       ],
       "kind": "software",
       "createdAt": "2015-09-03T20:23:38Z",
-      "pushedAt": "2026-08-12T17:13:10Z",
-      "ageYears": 10.940111692745962,
-      "score": 80.8653446767604,
+      "pushedAt": "2026-08-12T17:37:52Z",
+      "ageYears": 10.940157319441276,
+      "score": 80.81290400364979,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 188631,
-      "forks": 41594,
+      "stars": 188632,
+      "forks": 41595,
       "watchers": 3518,
       "contributors": 3188,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 2024,
-      "commitsPrev30": 1833,
-      "prsMerged30": 1730,
-      "issuesClosed30": 2216,
-      "openIssues": 17383,
-      "uniqueAuthors30": 28,
+      "commits30": 2021,
+      "commitsPrev30": 1838,
+      "prsMerged30": 1733,
+      "issuesClosed30": 2217,
+      "openIssues": 17388,
+      "uniqueAuthors30": 27,
       "releasesTotal": 233,
       "latestReleaseTag": "1.133.0",
       "latestReleaseAt": "2026-08-12T09:41:17Z",
-      "commitAccel": 1.1042007637752318,
-      "prAccel": 1.1525649566955363,
+      "commitAccel": 1.0995647442872687,
+      "prAccel": 1.1545636242504997,
       "pillars": [
         {
           "key": "popularity",
@@ -721,7 +721,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 188631,
+              "raw": 188632,
               "normalized": 0.8702928870292888,
               "weight": 0.4,
               "points": 6.962343096234311
@@ -730,7 +730,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 41594,
+              "raw": 41595,
               "normalized": 0.8744769874476988,
               "weight": 0.25,
               "points": 4.372384937238493
@@ -760,8 +760,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9879704169011461,
-          "points": 21.735349171825213,
+          "score": 0.9879611250382037,
+          "points": 21.73514475084048,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -769,7 +769,7 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 2024,
+              "raw": 2021,
               "normalized": 0.9832635983263598,
               "weight": 0.28,
               "points": 6.056903765690377
@@ -778,7 +778,7 @@
               "key": "prsMerged30",
               "label": "PR fusionados (30 d)",
               "description": "Percentil de pull requests fusionados en los últimos 30 días.",
-              "raw": 1730,
+              "raw": 1733,
               "normalized": 0.9832635983263598,
               "weight": 0.24,
               "points": 5.191631799163179
@@ -787,25 +787,25 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.008064293981481481,
-              "normalized": 0.999441181933362,
+              "raw": 0.0075766666666666664,
+              "normalized": 0.9994749633661927,
               "weight": 0.18,
-              "points": 3.9577870804561135
+              "points": 3.957920854930123
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.32187216435185184,
-              "normalized": 0.9981425207270049,
+              "raw": 0.3385373148148148,
+              "normalized": 0.9980464424716805,
               "weight": 0.16,
-              "points": 3.513461672959057
+              "points": 3.5131234775003155
             },
             {
               "key": "issuesClosed30",
               "label": "Issues cerradas (30 d)",
               "description": "Percentil de issues resueltas en los últimos 30 días.",
-              "raw": 2216,
+              "raw": 2217,
               "normalized": 0.9790794979079498,
               "weight": 0.14,
               "points": 3.015564853556486
@@ -817,8 +817,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.5416406790623178,
-          "points": 10.832813581246358,
+          "score": 0.5409393409106542,
+          "points": 10.818786818213084,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -826,19 +826,19 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.1042007637752318,
-              "normalized": 0.5357506260386061,
+              "raw": 1.0995647442872687,
+              "normalized": 0.5342331387726752,
               "weight": 0.619047619047619,
-              "points": 6.6331029890494095
+              "points": 6.614315051471216
             },
             {
               "key": "prAccel",
               "label": "Aceleración de PR",
               "description": "PR fusionados en 30 días frente a los 30 previos. 1× es el punto neutro.",
-              "raw": 1.1525649566955363,
-              "normalized": 0.5512120152258496,
+              "raw": 1.1545636242504997,
+              "normalized": 0.5518369193848703,
               "weight": 0.38095238095238093,
-              "points": 4.19971059219695
+              "points": 4.204471766741869
             }
           ]
         },
@@ -847,8 +847,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.8503519232840123,
-          "points": 17.007038465680246,
+          "score": 0.8484399611796193,
+          "points": 16.968799223592388,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -856,10 +856,10 @@
               "key": "contributorDiversity",
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
-              "raw": 28,
-              "normalized": 0.8493723849372385,
+              "raw": 27,
+              "normalized": 0.8347280334728033,
               "weight": 0.24,
-              "points": 4.0769874476987455
+              "points": 4.006694560669456
             },
             {
               "key": "documentation",
@@ -874,19 +874,19 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.9306389057362658,
-              "normalized": 0.9306389057362658,
+              "raw": 0.9306203390777309,
+              "normalized": 0.9306203390777309,
               "weight": 0.16,
-              "points": 2.978044498356051
+              "points": 2.977985085048739
             },
             {
               "key": "busFactor",
               "label": "Reparto del trabajo",
               "description": "Complemento de la cuota del autor más activo: penaliza la dependencia de una sola persona.",
-              "raw": 0.81,
-              "normalized": 0.81,
+              "raw": 0.8200000000000001,
+              "normalized": 0.8200000000000001,
               "weight": 0.16,
-              "points": 2.5920000000000005
+              "points": 2.624
             },
             {
               "key": "releaseCadence",
@@ -901,10 +901,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 7.844314079422382,
-              "normalized": 0.6356511649066993,
+              "raw": 7.843031123139378,
+              "normalized": 0.6356982725103408,
               "weight": 0.12,
-              "points": 1.5255627957760782
+              "points": 1.525675854024818
             }
           ]
         },
@@ -913,8 +913,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7641432558028938,
-          "points": 13.754578604452087,
+          "score": 0.7641449087470751,
+          "points": 13.754608357447351,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -922,7 +922,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 51750,
+              "raw": 51752,
               "normalized": 0.9748953974895398,
               "weight": 0.22,
               "points": 3.860585774058577
@@ -940,7 +940,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 10520,
+              "raw": 10544,
               "normalized": 0.9665271966527197,
               "weight": 0.13,
               "points": 2.261673640167364
@@ -949,7 +949,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 17242.145720054687,
+              "raw": 17242.16521683745,
               "normalized": 0.4560669456066946,
               "weight": 0.26,
               "points": 2.134393305439331
@@ -958,10 +958,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.2205045830218787,
-              "normalized": 0.630013094348225,
+              "raw": 0.22050871538233174,
+              "normalized": 0.6300249010923764,
               "weight": 0.14,
-              "points": 1.587632997757527
+              "points": 1.5876627507527885
             },
             {
               "key": "orgBacked",
@@ -977,13 +977,13 @@
       ],
       "pillarPoints": {
         "popularity": 17.535564853556487,
-        "activity": 21.735349171825213,
-        "growth": 10.832813581246358,
-        "health": 17.007038465680246,
-        "impact": 13.754578604452087
+        "activity": 21.73514475084048,
+        "growth": 10.818786818213084,
+        "health": 16.968799223592388,
+        "impact": 13.754608357447351
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.7 pts) y popularidad (17.5 pts)."
+        "Posición sostenida sobre todo por actividad (21.7 pts) y popularidad (17.5 pts)."
       ]
     },
     {
@@ -1012,11 +1012,11 @@
       "kind": "software",
       "createdAt": "2019-06-22T09:24:21Z",
       "pushedAt": "2026-08-12T16:59:13Z",
-      "ageYears": 7.141228285896267,
-      "score": 80.22462780275264,
+      "ageYears": 7.141273912591578,
+      "score": 80.20967099790464,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 200363,
+      "stars": 200364,
       "forks": 60097,
       "watchers": 1152,
       "contributors": 753,
@@ -1048,7 +1048,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 200363,
+              "raw": 200364,
               "normalized": 0.899581589958159,
               "weight": 0.4,
               "points": 7.1966527196652725
@@ -1087,8 +1087,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.968052430074252,
-          "points": 21.297153461633545,
+          "score": 0.9678295125470551,
+          "points": 21.29224927603521,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1114,19 +1114,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.01775179398148148,
-              "normalized": 0.9987702961114256,
+              "raw": 0.034416944444444444,
+              "normalized": 0.9976172424836445,
               "weight": 0.18,
-              "points": 3.9551303726012454
+              "points": 3.9505642802352323
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.3742101273148148,
-              "normalized": 0.9978408119516919,
+              "raw": 0.39087527777777775,
+              "normalized": 0.9977447627379644,
               "weight": 0.16,
-              "points": 3.5123996580699557
+              "points": 3.5120615648376354
             },
             {
               "key": "issuesClosed30",
@@ -1174,8 +1174,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.8954119880035996,
-          "points": 17.908239760071993,
+          "score": 0.8949098959533903,
+          "points": 17.898197919067808,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1184,9 +1184,9 @@
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
               "raw": 49,
-              "normalized": 0.9539748953974896,
+              "normalized": 0.9518828451882845,
               "weight": 0.24,
-              "points": 4.57907949790795
+              "points": 4.569037656903766
             },
             {
               "key": "issueResolution",
@@ -1240,8 +1240,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.8121938163404969,
-          "points": 14.619488694128943,
+          "score": 0.8121932175490816,
+          "points": 14.619477915883468,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1267,7 +1267,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 28057.218167316052,
+              "raw": 28057.178936480203,
               "normalized": 0.5648535564853556,
               "weight": 0.26,
               "points": 2.6435146443514643
@@ -1276,10 +1276,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.2999406077968487,
-              "normalized": 0.8569731651338536,
+              "raw": 0.29993911081831065,
+              "normalized": 0.8569688880523162,
               "weight": 0.14,
-              "points": 2.159572376137311
+              "points": 2.159561597891837
             },
             {
               "key": "communityEngagement",
@@ -1304,13 +1304,13 @@
       ],
       "pillarPoints": {
         "popularity": 16.221757322175733,
-        "activity": 21.297153461633545,
+        "activity": 21.29224927603521,
         "growth": 10.177988564742424,
-        "health": 17.908239760071993,
-        "impact": 14.619488694128943
+        "health": 17.898197919067808,
+        "impact": 14.619477915883468
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.3 pts) y salud (17.9 pts)."
+        "Posición sostenida sobre todo por actividad (21.3 pts) y salud (17.9 pts)."
       ]
     },
     {
@@ -1338,20 +1338,20 @@
       ],
       "kind": "software",
       "createdAt": "2015-11-07T01:19:20Z",
-      "pushedAt": "2026-08-12T17:13:59Z",
-      "ageYears": 10.764327032315512,
-      "score": 78.80913420281817,
+      "pushedAt": "2026-08-12T17:37:29Z",
+      "ageYears": 10.764372659010824,
+      "score": 78.80120191231023,
       "prevScore": null,
       "scoreChange": null,
       "stars": 196973,
       "forks": 75999,
-      "watchers": 7500,
+      "watchers": 7499,
       "contributors": 5236,
       "starsDelta": null,
       "forksDelta": null,
       "commits30": 1209,
       "commitsPrev30": 1252,
-      "prsMerged30": 1174,
+      "prsMerged30": 1175,
       "issuesClosed30": 170,
       "openIssues": 790,
       "uniqueAuthors30": 49,
@@ -1359,7 +1359,7 @@
       "latestReleaseTag": "v2.21.0",
       "latestReleaseAt": "2026-03-06T19:48:15Z",
       "commitAccel": 0.9656549520766773,
-      "prAccel": 1.0164502164502165,
+      "prAccel": 1.0173160173160174,
       "pillars": [
         {
           "key": "popularity",
@@ -1402,7 +1402,7 @@
               "key": "watchers",
               "label": "Observadores",
               "description": "Percentil de watchers: seguimiento activo del desarrollo.",
-              "raw": 7500,
+              "raw": 7499,
               "normalized": 0.9790794979079498,
               "weight": 0.15,
               "points": 2.9372384937238496
@@ -1414,8 +1414,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.8585769944114462,
-          "points": 18.888693877051814,
+          "score": 0.8585665325645383,
+          "points": 18.888463716419842,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1432,7 +1432,7 @@
               "key": "prsMerged30",
               "label": "PR fusionados (30 d)",
               "description": "Percentil de pull requests fusionados en los últimos 30 días.",
-              "raw": 1174,
+              "raw": 1175,
               "normalized": 0.9665271966527197,
               "weight": 0.24,
               "points": 5.10326359832636
@@ -1441,10 +1441,10 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.007497164351851852,
-              "normalized": 0.9994804711685955,
+              "raw": 0.00784287037037037,
+              "normalized": 0.9994565213895588,
               "weight": 0.18,
-              "points": 3.957942665827638
+              "points": 3.957847824702653
             },
             {
               "key": "issuesClosed30",
@@ -1459,10 +1459,10 @@
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 158.90036753472222,
-              "normalized": 0.39937896952569696,
+              "raw": 158.91703268518518,
+              "normalized": 0.39934052648393836,
               "weight": 0.16,
-              "points": 1.405813972730453
+              "points": 1.4056786532234629
             }
           ]
         },
@@ -1471,8 +1471,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.4944387181496145,
-          "points": 9.88877436299229,
+          "score": 0.494555703706025,
+          "points": 9.8911140741205,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -1489,10 +1489,10 @@
               "key": "prAccel",
               "label": "Aceleración de PR",
               "description": "PR fusionados en 30 días frente a los 30 previos. 1× es el punto neutro.",
-              "raw": 1.0164502164502165,
-              "normalized": 0.5058848892016581,
+              "raw": 1.0173160173160174,
+              "normalized": 0.5061919762872356,
               "weight": 0.38095238095238093,
-              "points": 3.8543610605840612
+              "points": 3.856700771712271
             }
           ]
         },
@@ -1501,8 +1501,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.8716627960466531,
-          "points": 17.433255920933064,
+          "score": 0.8711607039964441,
+          "points": 17.423214079928883,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1511,9 +1511,9 @@
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
               "raw": 49,
-              "normalized": 0.9539748953974896,
+              "normalized": 0.9518828451882845,
               "weight": 0.24,
-              "points": 4.57907949790795
+              "points": 4.569037656903766
             },
             {
               "key": "documentation",
@@ -1576,7 +1576,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 48809,
+              "raw": 48811,
               "normalized": 0.9665271966527197,
               "weight": 0.22,
               "points": 3.8274476987447703
@@ -1603,7 +1603,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 18298.68225005323,
+              "raw": 18298.60468785559,
               "normalized": 0.47280334728033474,
               "weight": 0.26,
               "points": 2.2127196652719667
@@ -1631,13 +1631,13 @@
       ],
       "pillarPoints": {
         "popularity": 18.824267782426777,
-        "activity": 18.888693877051814,
-        "growth": 9.88877436299229,
-        "health": 17.433255920933064,
+        "activity": 18.888463716419842,
+        "growth": 9.8911140741205,
+        "health": 17.423214079928883,
         "impact": 13.774142259414223
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (18.9 pts) y popularidad (18.8 pts)."
+        "Posición sostenida sobre todo por actividad (18.9 pts) y popularidad (18.8 pts)."
       ]
     },
     {
@@ -1666,18 +1666,18 @@
       "kind": "software",
       "createdAt": "2014-11-26T19:57:11Z",
       "pushedAt": "2026-08-12T15:59:29Z",
-      "ageYears": 11.709498052957132,
-      "score": 77.86065745110736,
+      "ageYears": 11.709543679652445,
+      "score": 77.88384548128155,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 118898,
+      "stars": 118899,
       "forks": 36459,
       "watchers": 3022,
       "contributors": 4427,
       "starsDelta": null,
       "forksDelta": null,
       "commits30": 415,
-      "commitsPrev30": 319,
+      "commitsPrev30": 317,
       "prsMerged30": 320,
       "issuesClosed30": 806,
       "openIssues": 706,
@@ -1685,7 +1685,7 @@
       "releasesTotal": 512,
       "latestReleaseTag": "v26.7.0",
       "latestReleaseAt": "2026-08-05T16:25:04Z",
-      "commitAccel": 1.3009404388714734,
+      "commitAccel": 1.3091482649842272,
       "prAccel": 1.2307692307692308,
       "pillars": [
         {
@@ -1702,7 +1702,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 118898,
+              "raw": 118899,
               "normalized": 0.6485355648535565,
               "weight": 0.4,
               "points": 5.1882845188284525
@@ -1741,8 +1741,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9030108756794818,
-          "points": 19.8662392649486,
+          "score": 0.9027891346478688,
+          "points": 19.861360962253112,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1768,19 +1768,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.059233287037037036,
-              "normalized": 0.9959026784308813,
+              "raw": 0.0758984375,
+              "normalized": 0.9947529353911128,
               "weight": 0.18,
-              "points": 3.94377460658629
+              "points": 3.9392216241488067
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 7.041467083333333,
-              "normalized": 0.9601429409335677,
+              "raw": 7.058132233796297,
+              "normalized": 0.9600505204057258,
               "weight": 0.16,
-              "points": 3.379703152086158
+              "points": 3.379377831828155
             },
             {
               "key": "issuesClosed30",
@@ -1798,8 +1798,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.5872701918687344,
-          "points": 11.745403837374688,
+          "score": 0.5886744369536274,
+          "points": 11.77348873907255,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -1807,10 +1807,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.3009404388714734,
-              "normalized": 0.5948887281173545,
+              "raw": 1.3091482649842272,
+              "normalized": 0.59715712402372,
               "weight": 0.619047619047619,
-              "points": 7.365289014786293
+              "points": 7.393373916484151
             },
             {
               "key": "prAccel",
@@ -1894,8 +1894,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.6978865200796913,
-          "points": 12.561957361434443,
+          "score": 0.6978854884781258,
+          "points": 12.561938792606265,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -1921,10 +1921,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.30664098639169707,
-              "normalized": 0.8761171039762774,
+              "raw": 0.3066384073877829,
+              "normalized": 0.8761097353936655,
               "weight": 0.14,
-              "points": 2.207815102020219
+              "points": 2.2077965331920373
             },
             {
               "key": "communityEngagement",
@@ -1948,7 +1948,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 10153.979227997168,
+              "raw": 10154.025063044053,
               "normalized": 0.2384937238493724,
               "weight": 0.26,
               "points": 1.1161506276150628
@@ -1958,13 +1958,13 @@
       ],
       "pillarPoints": {
         "popularity": 15.74058577405858,
-        "activity": 19.8662392649486,
-        "growth": 11.745403837374688,
+        "activity": 19.861360962253112,
+        "growth": 11.77348873907255,
         "health": 17.946471213291055,
-        "impact": 12.561957361434443
+        "impact": 12.561938792606265
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (19.9 pts) y salud (17.9 pts)."
+        "Posición sostenida sobre todo por actividad (19.9 pts) y salud (17.9 pts)."
       ]
     },
     {
@@ -1992,9 +1992,9 @@
       ],
       "kind": "software",
       "createdAt": "2023-04-12T07:40:24Z",
-      "pushedAt": "2026-08-12T17:16:00Z",
-      "ageYears": 3.3358133303863413,
-      "score": 77.23560559647105,
+      "pushedAt": "2026-08-12T17:31:16Z",
+      "ageYears": 3.3358589570816535,
+      "score": 77.23363267459607,
       "prevScore": null,
       "scoreChange": null,
       "stars": 152225,
@@ -2068,8 +2068,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9389655921473735,
-          "points": 20.657243027242217,
+          "score": 0.9388759138803291,
+          "points": 20.65527010536724,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -2095,19 +2095,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.0060967013888888885,
-              "normalized": 0.9995774981412159,
+              "raw": 0.01216,
+              "normalized": 0.9991574881410271,
               "weight": 0.18,
-              "points": 3.958326892639215
+              "points": 3.9566636530384667
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 15.570089756944444,
-              "normalized": 0.9139893450101239,
+              "raw": 15.586754907407407,
+              "normalized": 0.9139013670913094,
               "weight": 0.16,
-              "points": 3.217242494435636
+              "points": 3.216932812161409
             },
             {
               "key": "issuesClosed30",
@@ -2239,7 +2239,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 45633.5486801265,
+              "raw": 45632.924520637614,
               "normalized": 0.702928870292887,
               "weight": 0.26,
               "points": 3.2897071129707114
@@ -2285,13 +2285,13 @@
       ],
       "pillarPoints": {
         "popularity": 14.029288702928874,
-        "activity": 20.657243027242217,
+        "activity": 20.65527010536724,
         "growth": 12.97358429983609,
         "health": 15.809631059010615,
         "impact": 13.765858507453252
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (20.7 pts) y salud (15.8 pts).",
+        "Posición sostenida sobre todo por actividad (20.7 pts) y salud (15.8 pts).",
         "Ritmo de commits 1.5× frente al mes previo."
       ]
     },
@@ -2320,9 +2320,9 @@
       ],
       "kind": "software",
       "createdAt": "2016-10-05T23:32:51Z",
-      "pushedAt": "2026-08-12T17:18:19Z",
-      "ageYears": 9.850087324606433,
-      "score": 76.89877750884393,
+      "pushedAt": "2026-08-12T17:39:39Z",
+      "ageYears": 9.850132951301747,
+      "score": 76.89831229726188,
       "prevScore": null,
       "scoreChange": null,
       "stars": 141744,
@@ -2331,16 +2331,16 @@
       "contributors": 4128,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 483,
-      "commitsPrev30": 379,
+      "commits30": 482,
+      "commitsPrev30": 380,
       "prsMerged30": 467,
-      "issuesClosed30": 209,
+      "issuesClosed30": 212,
       "openIssues": 2235,
       "uniqueAuthors30": 28,
       "releasesTotal": 1000,
       "latestReleaseTag": "v16.3.1-canary.14",
       "latestReleaseAt": "2026-08-12T13:25:30Z",
-      "commitAccel": 1.274406332453826,
+      "commitAccel": 1.268421052631579,
       "prAccel": 1.3192090395480225,
       "pillars": [
         {
@@ -2396,8 +2396,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9115896814189884,
-          "points": 20.054972991217745,
+          "score": 0.9115512177374513,
+          "points": 20.05412679022393,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -2405,7 +2405,7 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 483,
+              "raw": 482,
               "normalized": 0.8577405857740585,
               "weight": 0.28,
               "points": 5.283682008368201
@@ -2423,25 +2423,25 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.004487905092592593,
-              "normalized": 0.9996889705035507,
+              "raw": 0.006338240740740741,
+              "normalized": 0.9995607631228581,
               "weight": 0.18,
-              "points": 3.9587683231940605
+              "points": 3.958260621966518
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.16616614583333333,
-              "normalized": 0.999040647177706,
+              "raw": 0.1828312962962963,
+              "normalized": 0.9989444824713781,
               "weight": 0.16,
-              "points": 3.5166230780655257
+              "points": 3.516284578299251
             },
             {
               "key": "issuesClosed30",
               "label": "Issues cerradas (30 d)",
               "description": "Percentil de issues resueltas en los últimos 30 días.",
-              "raw": 209,
+              "raw": 212,
               "normalized": 0.8410041841004184,
               "weight": 0.14,
               "points": 2.590292887029289
@@ -2453,8 +2453,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.5922037493530258,
-          "points": 11.844074987060516,
+          "score": 0.5911526664250059,
+          "points": 11.823053328500118,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -2462,10 +2462,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.274406332453826,
-              "normalized": 0.5874563351661704,
+              "raw": 1.268421052631579,
+              "normalized": 0.5857584319747534,
               "weight": 0.619047619047619,
-              "points": 7.273268911581156
+              "points": 7.252247253020756
             },
             {
               "key": "prAccel",
@@ -2483,8 +2483,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.7703109256736813,
-          "points": 15.406218513473627,
+          "score": 0.7713810580722892,
+          "points": 15.427621161445785,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -2493,9 +2493,9 @@
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
               "raw": 28,
-              "normalized": 0.8493723849372385,
+              "normalized": 0.8514644351464435,
               "weight": 0.24,
-              "points": 4.0769874476987455
+              "points": 4.0870292887029285
             },
             {
               "key": "issueResolution",
@@ -2537,10 +2537,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 10.69377990430622,
-              "normalized": 0.5391847787071382,
+              "raw": 10.54245283018868,
+              "normalized": 0.5439184482771267,
               "weight": 0.12,
-              "points": 1.2940434688971318
+              "points": 1.3054042758651039
             }
           ]
         },
@@ -2585,7 +2585,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 14390.126232273122,
+              "raw": 14390.05957592357,
               "normalized": 0.37656903765690375,
               "weight": 0.26,
               "points": 1.7623430962343096
@@ -2613,13 +2613,13 @@
       ],
       "pillarPoints": {
         "popularity": 15.68200836820084,
-        "activity": 20.054972991217745,
-        "growth": 11.844074987060516,
-        "health": 15.406218513473627,
+        "activity": 20.05412679022393,
+        "growth": 11.823053328500118,
+        "health": 15.427621161445785,
         "impact": 13.911502648891203
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (20.1 pts) y popularidad (15.7 pts)."
+        "Posición sostenida sobre todo por actividad (20.1 pts) y popularidad (15.7 pts)."
       ]
     },
     {
@@ -2648,12 +2648,12 @@
       "kind": "software",
       "createdAt": "2018-10-29T13:56:00Z",
       "pushedAt": "2026-08-12T17:05:33Z",
-      "ageYears": 7.786844587516161,
-      "score": 76.31156928808117,
+      "ageYears": 7.786890214211473,
+      "score": 76.30671133123981,
       "prevScore": null,
       "scoreChange": null,
       "stars": 164003,
-      "forks": 34222,
+      "forks": 34223,
       "watchers": 1234,
       "contributors": 4062,
       "starsDelta": null,
@@ -2693,7 +2693,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 34222,
+              "raw": 34223,
               "normalized": 0.8242677824267782,
               "weight": 0.25,
               "points": 4.121338912133892
@@ -2723,8 +2723,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.8727944134629371,
-          "points": 19.201477096184615,
+          "score": 0.8725716017139683,
+          "points": 19.196575237707304,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -2750,19 +2750,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.013353645833333334,
-              "normalized": 0.9990748240434697,
+              "raw": 0.030018796296296297,
+              "normalized": 0.9979214188463256,
               "weight": 0.18,
-              "points": 3.95633630321214
+              "points": 3.9517688186314492
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 2.289279571759259,
-              "normalized": 0.9868636476802275,
+              "raw": 2.3059447222222222,
+              "normalized": 0.9867686550959589,
               "weight": 0.16,
-              "points": 3.473760039834401
+              "points": 3.4734256659377754
             },
             {
               "key": "issuesClosed30",
@@ -2876,8 +2876,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7233412428392918,
-          "points": 13.020142371107251,
+          "score": 0.7233436818190666,
+          "points": 13.020186272743198,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -2903,7 +2903,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 21061.547865348304,
+              "raw": 21061.4244567987,
               "normalized": 0.502092050209205,
               "weight": 0.26,
               "points": 2.3497907949790795
@@ -2921,10 +2921,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.20866691462961043,
-              "normalized": 0.5961911846560298,
+              "raw": 0.20867301207904734,
+              "normalized": 0.5962086059401353,
               "weight": 0.14,
-              "points": 1.502401785333195
+              "points": 1.502445686969141
             },
             {
               "key": "orgBacked",
@@ -2940,13 +2940,13 @@
       ],
       "pillarPoints": {
         "popularity": 15.878661087866108,
-        "activity": 19.201477096184615,
+        "activity": 19.196575237707304,
         "growth": 10.308303438641403,
         "health": 17.902985294281798,
-        "impact": 13.020142371107251
+        "impact": 13.020186272743198
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (19.2 pts) y salud (17.9 pts)."
+        "Posición sostenida sobre todo por actividad (19.2 pts) y salud (17.9 pts)."
       ]
     },
     {
@@ -2970,12 +2970,12 @@
       "kind": "software",
       "createdAt": "2023-03-10T18:58:00Z",
       "pushedAt": "2026-08-12T17:07:38Z",
-      "ageYears": 3.424874095495221,
-      "score": 75.93127670004358,
+      "ageYears": 3.424919722158846,
+      "score": 75.92641839337655,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 123662,
-      "forks": 21625,
+      "stars": 123663,
+      "forks": 21626,
       "watchers": 825,
       "contributors": 1898,
       "starsDelta": null,
@@ -3006,7 +3006,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 123662,
+              "raw": 123663,
               "normalized": 0.6652719665271967,
               "weight": 0.4,
               "points": 5.322175732217574
@@ -3024,7 +3024,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 21625,
+              "raw": 21626,
               "normalized": 0.6359832635983264,
               "weight": 0.25,
               "points": 3.1799163179916317
@@ -3045,8 +3045,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9086926456634923,
-          "points": 19.991238204596833,
+          "score": 0.9084696298499135,
+          "points": 19.986331856698097,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -3072,19 +3072,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.011906898148148147,
-              "normalized": 0.9991750171975279,
+              "raw": 0.028572037037037038,
+              "normalized": 0.9980214971307302,
               "weight": 0.18,
-              "points": 3.9567330681022104
+              "points": 3.9521651286376915
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.21276337962962963,
-              "normalized": 0.9987717854010727,
+              "raw": 0.22942851851851853,
+              "normalized": 0.9986756466413526,
               "weight": 0.16,
-              "points": 3.5156766846117757
+              "points": 3.515338276177561
             },
             {
               "key": "issuesClosed30",
@@ -3198,8 +3198,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7847604467001394,
-          "points": 14.12568804060251,
+          "score": 0.784763115657457,
+          "points": 14.125736081834225,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -3225,7 +3225,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 36107.02074060303,
+              "raw": 36106.831701751806,
               "normalized": 0.6317991631799164,
               "weight": 0.26,
               "points": 2.9568200836820084
@@ -3252,23 +3252,23 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.17487182804741958,
-              "normalized": 0.4996337944211988,
+              "raw": 0.17487850044071387,
+              "normalized": 0.49965285840203966,
               "weight": 0.14,
-              "points": 1.2590771619414212
+              "points": 1.25912520317314
             }
           ]
         }
       ],
       "pillarPoints": {
         "popularity": 13.079497907949792,
-        "activity": 19.991238204596833,
+        "activity": 19.986331856698097,
         "growth": 10.704530673963705,
         "health": 18.03032187293074,
-        "impact": 14.12568804060251
+        "impact": 14.125736081834225
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (20.0 pts) y salud (18.0 pts)."
+        "Posición sostenida sobre todo por actividad (20.0 pts) y salud (18.0 pts)."
       ]
     },
     {
@@ -3297,12 +3297,12 @@
       "kind": "recurso",
       "createdAt": "2016-03-20T23:49:42Z",
       "pushedAt": "2026-08-12T09:25:54Z",
-      "ageYears": 10.394887594588942,
-      "score": 75.1296369125789,
+      "ageYears": 10.394933221252566,
+      "score": 75.12514486266718,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 455650,
-      "forks": 50258,
+      "stars": 455655,
+      "forks": 50257,
       "watchers": 4629,
       "contributors": 1618,
       "starsDelta": null,
@@ -3333,7 +3333,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 455650,
+              "raw": 455655,
               "normalized": 0.9916317991631799,
               "weight": 0.4,
               "points": 7.93305439330544
@@ -3342,7 +3342,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 50258,
+              "raw": 50257,
               "normalized": 0.9121338912133892,
               "weight": 0.25,
               "points": 4.560669456066946
@@ -3372,8 +3372,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.6072371955889543,
-          "points": 13.359218302956993,
+          "score": 0.6070341258603685,
+          "points": 13.354750768928108,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -3390,10 +3390,10 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.3325550347222222,
-              "normalized": 0.9772126852412797,
+              "raw": 0.34922017361111113,
+              "normalized": 0.9760845200824702,
               "weight": 0.18,
-              "points": 3.8697622335554676
+              "points": 3.8652946995265816
             },
             {
               "key": "prsMerged30",
@@ -3525,8 +3525,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.5025717116611654,
-          "points": 9.046290809900977,
+          "score": 0.5025703496676746,
+          "points": 9.046266294018142,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -3534,7 +3534,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 43834.04782916446,
+              "raw": 43834.33643117666,
               "normalized": 0.6903765690376569,
               "weight": 0.26,
               "points": 3.230962343096234
@@ -3561,10 +3561,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.11029957203994294,
-              "normalized": 0.315141634399837,
+              "raw": 0.11029616705621578,
+              "normalized": 0.31513190587490225,
               "weight": 0.14,
-              "points": 0.7941569186875892
+              "points": 0.7941324028047536
             },
             {
               "key": "communityEngagement",
@@ -3589,13 +3589,13 @@
       ],
       "pillarPoints": {
         "popularity": 18.47280334728034,
-        "activity": 13.359218302956993,
+        "activity": 13.354750768928108,
         "growth": 18.549879894162295,
         "health": 15.701444558278299,
-        "impact": 9.046290809900977
+        "impact": 9.046266294018142
       },
       "explanation": [
-        "Entra al índice apoyado en crecimiento (18.5 pts) y popularidad (18.5 pts).",
+        "Posición sostenida sobre todo por crecimiento (18.5 pts) y popularidad (18.5 pts).",
         "Ritmo de commits 3.9× frente al mes previo."
       ]
     },
@@ -3623,11 +3623,11 @@
       "kind": "software",
       "createdAt": "2014-06-06T22:56:04Z",
       "pushedAt": "2026-08-12T12:38:12Z",
-      "ageYears": 12.182806130884478,
-      "score": 74.99163101041017,
+      "ageYears": 12.182851757548102,
+      "score": 74.986795067741,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 124459,
+      "stars": 124461,
       "forks": 43836,
       "watchers": 3260,
       "contributors": 5833,
@@ -3659,7 +3659,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 124459,
+              "raw": 124461,
               "normalized": 0.6694560669456067,
               "weight": 0.4,
               "points": 5.355648535564853
@@ -3698,8 +3698,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9100446878387334,
-          "points": 20.020983132452134,
+          "score": 0.9098248722628616,
+          "points": 20.016147189782956,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -3725,19 +3725,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.19901337962962962,
-              "normalized": 0.9863001526040867,
+              "raw": 0.21567851851851852,
+              "normalized": 0.9851614962142327,
               "weight": 0.18,
-              "points": 3.905748604312183
+              "points": 3.901239525008361
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 6.222103657407407,
-              "normalized": 0.964697903463114,
+              "raw": 6.238768796296296,
+              "normalized": 0.9646050445525007,
               "weight": 0.16,
-              "points": 3.3957366201901618
+              "points": 3.3954097568248027
             },
             {
               "key": "issuesClosed30",
@@ -3878,7 +3878,7 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.3522123751596911,
+              "raw": 0.35220671535661774,
               "normalized": 1,
               "weight": 0.14,
               "points": 2.52
@@ -3905,7 +3905,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 10215.955065104874,
+              "raw": 10216.080969949255,
               "normalized": 0.24267782426778242,
               "weight": 0.26,
               "points": 1.1357322175732216
@@ -3915,13 +3915,13 @@
       ],
       "pillarPoints": {
         "popularity": 16.150627615062763,
-        "activity": 20.020983132452134,
+        "activity": 20.016147189782956,
         "growth": 9.481629470756639,
         "health": 15.714876147787182,
         "impact": 13.623514644351465
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (20.0 pts) y popularidad (16.2 pts)."
+        "Posición sostenida sobre todo por actividad (20.0 pts) y popularidad (16.2 pts)."
       ]
     },
     {
@@ -3950,11 +3950,11 @@
       "kind": "software",
       "createdAt": "2013-04-12T01:47:36Z",
       "pushedAt": "2026-08-12T13:01:16Z",
-      "ageYears": 13.33511517846731,
-      "score": 74.78546978806743,
+      "ageYears": 13.335160805130936,
+      "score": 74.78061040309339,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 122472,
+      "stars": 122473,
       "forks": 17407,
       "watchers": 2783,
       "contributors": 1610,
@@ -3986,7 +3986,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 122472,
+              "raw": 122473,
               "normalized": 0.6610878661087866,
               "weight": 0.4,
               "points": 5.2887029288702925
@@ -4025,8 +4025,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.8339964789174846,
-          "points": 18.34792253618466,
+          "score": 0.8337759775837164,
+          "points": 18.34307150684176,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4052,19 +4052,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.1829948611111111,
-              "normalized": 0.9873958686813874,
+              "raw": 0.19966,
+              "normalized": 0.9862559473174688,
               "weight": 0.18,
-              "points": 3.9100876399782933
+              "points": 3.9055735513771763
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.9652402314814815,
-              "normalized": 0.9944400677459609,
+              "raw": 0.9819053703703704,
+              "normalized": 0.9943443459443175,
               "weight": 0.16,
-              "points": 3.5004290384657826
+              "points": 3.500092097723998
             },
             {
               "key": "issuesClosed30",
@@ -4178,8 +4178,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.6355132663232255,
-          "points": 11.439238793818058,
+          "score": 0.6355128021214957,
+          "points": 11.439230438186923,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4223,16 +4223,16 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.14213044614279183,
-              "normalized": 0.40608698897940526,
+              "raw": 0.14212928563846725,
+              "normalized": 0.40608367325276357,
               "weight": 0.14,
-              "points": 1.0233392122281015
+              "points": 1.0233308565969643
             },
             {
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 9184.172642000118,
+              "raw": 9184.216207792288,
               "normalized": 0.20920502092050208,
               "weight": 0.26,
               "points": 0.9790794979079497
@@ -4242,13 +4242,13 @@
       ],
       "pillarPoints": {
         "popularity": 13.769874476987448,
-        "activity": 18.34792253618466,
+        "activity": 18.34307150684176,
         "growth": 13.73436971199991,
         "health": 17.49406426907735,
-        "impact": 11.439238793818058
+        "impact": 11.439230438186923
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (18.3 pts) y salud (17.5 pts).",
+        "Posición sostenida sobre todo por actividad (18.3 pts) y salud (17.5 pts).",
         "Ritmo de commits 1.8× frente al mes previo."
       ]
     },
@@ -4270,27 +4270,27 @@
       "topics": [],
       "kind": "software",
       "createdAt": "2025-04-30T20:08:00Z",
-      "pushedAt": "2026-08-12T17:17:16Z",
-      "ageYears": 1.2837416899574112,
-      "score": 74.36428727869767,
+      "pushedAt": "2026-08-12T17:35:36Z",
+      "ageYears": 1.283787316652724,
+      "score": 74.33535708088093,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 196499,
-      "forks": 25254,
+      "stars": 196508,
+      "forks": 25256,
       "watchers": 763,
       "contributors": 997,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 457,
-      "commitsPrev30": 828,
+      "commits30": 456,
+      "commitsPrev30": 829,
       "prsMerged30": 1129,
-      "issuesClosed30": 2638,
-      "openIssues": 3861,
+      "issuesClosed30": 2640,
+      "openIssues": 3859,
       "uniqueAuthors30": 23,
       "releasesTotal": 858,
       "latestReleaseTag": "v1.18.16",
       "latestReleaseAt": "2026-08-10T06:07:08Z",
-      "commitAccel": 0.5519323671497585,
+      "commitAccel": 0.5500603136308806,
       "prAccel": 1.4758169934640524,
       "pillars": [
         {
@@ -4307,7 +4307,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 196499,
+              "raw": 196508,
               "normalized": 0.891213389121339,
               "weight": 0.4,
               "points": 7.129707112970713
@@ -4316,7 +4316,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 25254,
+              "raw": 25256,
               "normalized": 0.7196652719665272,
               "weight": 0.25,
               "points": 3.5983263598326363
@@ -4346,8 +4346,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9413498358785886,
-          "points": 20.70969638932895,
+          "score": 0.9406998243400686,
+          "points": 20.69539613548151,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4355,10 +4355,10 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 457,
-              "normalized": 0.8430962343096234,
+              "raw": 456,
+              "normalized": 0.8410041841004184,
               "weight": 0.28,
-              "points": 5.193472803347281
+              "points": 5.180585774058578
             },
             {
               "key": "prsMerged30",
@@ -4373,25 +4373,25 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.005217071759259259,
-              "normalized": 0.9996384455185092,
+              "raw": 0.00915074074074074,
+              "normalized": 0.9993659200992316,
               "weight": 0.18,
-              "points": 3.9585682442532963
+              "points": 3.957489043592957
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 2.4705874421296294,
-              "normalized": 0.9858306707316005,
+              "raw": 2.4872525925925926,
+              "normalized": 0.9857357775786465,
               "weight": 0.16,
-              "points": 3.470123960975234
+              "points": 3.4697899370768357
             },
             {
               "key": "issuesClosed30",
               "label": "Issues cerradas (30 d)",
               "description": "Percentil de issues resueltas en los últimos 30 días.",
-              "raw": 2638,
+              "raw": 2640,
               "normalized": 0.9832635983263598,
               "weight": 0.14,
               "points": 3.0284518828451885
@@ -4403,8 +4403,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.4207789861167568,
-          "points": 8.415579722335137,
+          "score": 0.420020393574295,
+          "points": 8.4004078714859,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -4421,10 +4421,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 0.5519323671497585,
-              "normalized": 0.28564084938968615,
+              "raw": 0.5500603136308806,
+              "normalized": 0.28441543066724784,
               "weight": 0.619047619047619,
-              "points": 3.536505754348495
+              "points": 3.521333903499259
             }
           ]
         },
@@ -4433,8 +4433,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.7741227832105957,
-          "points": 15.482455664211914,
+          "score": 0.7741483335994314,
+          "points": 15.48296667198863,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4460,10 +4460,10 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.8351620202365196,
-              "normalized": 0.8351620202365196,
+              "raw": 0.8352474063954233,
+              "normalized": 0.8352474063954233,
               "weight": 0.16,
-              "points": 2.672518464756863
+              "points": 2.6727917004653543
             },
             {
               "key": "releaseCadence",
@@ -4478,10 +4478,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 1.4636087945413192,
-              "normalized": 0.9189336483085023,
+              "raw": 1.4617424242424242,
+              "normalized": 0.9190327200035949,
               "weight": 0.12,
-              "points": 2.2054407559404057
+              "points": 2.2056785280086277
             },
             {
               "key": "busFactor",
@@ -4499,8 +4499,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.8270145897662431,
-          "points": 14.886262615792376,
+          "score": 0.8270163063830889,
+          "points": 14.886293514895598,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4508,7 +4508,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 153067.39785518608,
+              "raw": 153068.9682402877,
               "normalized": 0.899581589958159,
               "weight": 0.26,
               "points": 4.210041841004184
@@ -4517,7 +4517,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 7025,
+              "raw": 7026,
               "normalized": 0.7866108786610879,
               "weight": 0.22,
               "points": 3.1149790794979078
@@ -4535,7 +4535,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 11552,
+              "raw": 11556,
               "normalized": 0.9707112970711297,
               "weight": 0.13,
               "points": 2.2714644351464433
@@ -4553,23 +4553,23 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.1285197380139339,
-              "normalized": 0.3671992514683826,
+              "raw": 0.1285240295560486,
+              "normalized": 0.3672115130172818,
               "weight": 0.14,
-              "points": 0.9253421137003244
+              "points": 0.92537301280355
             }
           ]
         }
       ],
       "pillarPoints": {
         "popularity": 14.87029288702929,
-        "activity": 20.70969638932895,
-        "growth": 8.415579722335137,
-        "health": 15.482455664211914,
-        "impact": 14.886262615792376
+        "activity": 20.69539613548151,
+        "growth": 8.4004078714859,
+        "health": 15.48296667198863,
+        "impact": 14.886293514895598
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (20.7 pts) y salud (15.5 pts).",
+        "Posición sostenida sobre todo por actividad (20.7 pts) y salud (15.5 pts).",
         "Ritmo de commits al 55 % del mes previo."
       ]
     },
@@ -4598,28 +4598,28 @@
       ],
       "kind": "software",
       "createdAt": "2023-02-09T11:23:20Z",
-      "pushedAt": "2026-08-12T17:01:14Z",
-      "ageYears": 3.5051362193576194,
-      "score": 73.58440957876452,
+      "pushedAt": "2026-08-12T17:22:11Z",
+      "ageYears": 3.5051818460529316,
+      "score": 73.58091992876578,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 88884,
+      "stars": 88886,
       "forks": 20597,
       "watchers": 592,
       "contributors": 3185,
       "starsDelta": null,
       "forksDelta": null,
       "commits30": 1193,
-      "commitsPrev30": 1092,
-      "prsMerged30": 1218,
+      "commitsPrev30": 1093,
+      "prsMerged30": 1219,
       "issuesClosed30": 601,
-      "openIssues": 2097,
-      "uniqueAuthors30": 71,
+      "openIssues": 2099,
+      "uniqueAuthors30": 70,
       "releasesTotal": 103,
       "latestReleaseTag": "v0.27.1",
       "latestReleaseAt": "2026-08-11T10:47:49Z",
-      "commitAccel": 1.0924908424908424,
-      "prAccel": 1.0845948352626893,
+      "commitAccel": 1.091491308325709,
+      "prAccel": 1.0854853072128228,
       "pillars": [
         {
           "key": "popularity",
@@ -4653,7 +4653,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 88884,
+              "raw": 88886,
               "normalized": 0.34309623430962344,
               "weight": 0.4,
               "points": 2.7447698744769875
@@ -4674,8 +4674,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9687469936006384,
-          "points": 21.312433859214046,
+          "score": 0.9687053300678825,
+          "points": 21.311517261493414,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4692,7 +4692,7 @@
               "key": "prsMerged30",
               "label": "PR fusionados (30 d)",
               "description": "Percentil de pull requests fusionados en los últimos 30 días.",
-              "raw": 1218,
+              "raw": 1219,
               "normalized": 0.9707112970711297,
               "weight": 0.24,
               "points": 5.125355648535565
@@ -4701,19 +4701,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.01635134259259259,
-              "normalized": 0.9988672533407479,
+              "raw": 0.018467881944444445,
+              "normalized": 0.9987207229433603,
               "weight": 0.18,
-              "points": 3.9555143232293615
+              "points": 3.954934062855707
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 1.2756684722222222,
-              "normalized": 0.9926585311671968,
+              "raw": 1.2923336226851851,
+              "normalized": 0.992562980784534,
               "weight": 0.16,
-              "points": 3.494158029708533
+              "points": 3.4938216923615597
             },
             {
               "key": "issuesClosed30",
@@ -4731,8 +4731,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.5309086318110205,
-          "points": 10.618172636220411,
+          "score": 0.5308170230007152,
+          "points": 10.616340460014305,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -4740,19 +4740,19 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.0924908424908424,
-              "normalized": 0.5319052966938439,
+              "raw": 1.091491308325709,
+              "normalized": 0.5315751605058308,
               "weight": 0.619047619047619,
-              "points": 6.585494149542829
+              "points": 6.581406749119808
             },
             {
               "key": "prAccel",
               "label": "Aceleración de PR",
               "description": "PR fusionados en 30 días frente a los 30 previos. 1× es el punto neutro.",
-              "raw": 1.0845948352626893,
-              "normalized": 0.5292890513764328,
+              "raw": 1.0854853072128228,
+              "normalized": 0.5295850495549027,
               "weight": 0.38095238095238093,
-              "points": 4.032678486677583
+              "points": 4.034933710894497
             }
           ]
         },
@@ -4761,8 +4761,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.8974267117482994,
-          "points": 17.948534234965987,
+          "score": 0.897391545010565,
+          "points": 17.9478309002113,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4770,7 +4770,7 @@
               "key": "contributorDiversity",
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
-              "raw": 71,
+              "raw": 70,
               "normalized": 0.9916317991631799,
               "weight": 0.24,
               "points": 4.759832635983264
@@ -4797,19 +4797,19 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.8782724792476926,
-              "normalized": 0.8782724792476926,
+              "raw": 0.8781705264379824,
+              "normalized": 0.8781705264379824,
               "weight": 0.16,
-              "points": 2.8104719335926167
+              "points": 2.810145684601544
             },
             {
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 3.4891846921797005,
-              "normalized": 0.8174682531873001,
+              "raw": 3.492512479201331,
+              "normalized": 0.8173111341191276,
               "weight": 0.12,
-              "points": 1.9619238076495202
+              "points": 1.9615467218859064
             },
             {
               "key": "releaseCadence",
@@ -4827,8 +4827,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7416455729332896,
-          "points": 13.349620312799212,
+          "score": 0.7416434873045508,
+          "points": 13.349582771481913,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -4836,7 +4836,7 @@
               "key": "prThroughput",
               "label": "PR fusionados (histórico)",
               "description": "Percentil del total histórico de pull requests fusionados.",
-              "raw": 19825,
+              "raw": 19826,
               "normalized": 0.9163179916317992,
               "weight": 0.22,
               "points": 3.628619246861925
@@ -4845,7 +4845,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 25358.21561202823,
+              "raw": 25358.456109799714,
               "normalized": 0.5397489539748954,
               "weight": 0.26,
               "points": 2.52602510460251
@@ -4863,7 +4863,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 3373,
+              "raw": 3381,
               "normalized": 0.9079497907949791,
               "weight": 0.13,
               "points": 2.124602510460251
@@ -4872,10 +4872,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.23172899509473022,
-              "normalized": 0.6620828431278006,
+              "raw": 0.23172378102288324,
+              "normalized": 0.6620679457796664,
               "weight": 0.14,
-              "points": 1.6684487646820578
+              "points": 1.6684112233647594
             },
             {
               "key": "orgBacked",
@@ -4891,13 +4891,13 @@
       ],
       "pillarPoints": {
         "popularity": 10.355648535564853,
-        "activity": 21.312433859214046,
-        "growth": 10.618172636220411,
-        "health": 17.948534234965987,
-        "impact": 13.349620312799212
+        "activity": 21.311517261493414,
+        "growth": 10.616340460014305,
+        "health": 17.9478309002113,
+        "impact": 13.349582771481913
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.3 pts) y salud (17.9 pts)."
+        "Posición sostenida sobre todo por actividad (21.3 pts) y salud (17.9 pts)."
       ]
     },
     {
@@ -4925,18 +4925,18 @@
       ],
       "kind": "software",
       "createdAt": "2015-01-09T18:10:16Z",
-      "pushedAt": "2026-08-12T17:09:51Z",
-      "ageYears": 11.589235897406647,
-      "score": 73.21470961662082,
+      "pushedAt": "2026-08-12T17:30:58Z",
+      "ageYears": 11.589281524070271,
+      "score": 73.21813365816053,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 126332,
+      "stars": 126333,
       "forks": 25210,
       "watchers": 3524,
       "contributors": 4247,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 259,
+      "commits30": 260,
       "commitsPrev30": 224,
       "prsMerged30": 17,
       "issuesClosed30": 77,
@@ -4945,7 +4945,7 @@
       "releasesTotal": 471,
       "latestReleaseTag": "v0.87.0",
       "latestReleaseAt": "2026-08-11T17:11:13Z",
-      "commitAccel": 1.15625,
+      "commitAccel": 1.1607142857142858,
       "prAccel": 2.4285714285714284,
       "pillars": [
         {
@@ -4962,7 +4962,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 126332,
+              "raw": 126333,
               "normalized": 0.6736401673640168,
               "weight": 0.4,
               "points": 5.389121338912134
@@ -5001,8 +5001,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.7694844409462432,
-          "points": 16.92865770081735,
+          "score": 0.7688584118513886,
+          "points": 16.91488506073055,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5010,28 +5010,28 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 259,
-              "normalized": 0.7656903765690377,
+              "raw": 260,
+              "normalized": 0.7635983263598326,
               "weight": 0.28,
-              "points": 4.716652719665273
+              "points": 4.703765690376569
             },
             {
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.010367546296296297,
-              "normalized": 0.9992816345996012,
+              "raw": 0.012368333333333334,
+              "normalized": 0.9991430598452904,
               "weight": 0.18,
-              "points": 3.9571552730144206
+              "points": 3.9566065169873497
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 1.0094184722222221,
-              "normalized": 0.9941863353995108,
+              "raw": 1.0260836111111111,
+              "normalized": 0.9940906380213779,
               "weight": 0.16,
-              "points": 3.499535900606278
+              "points": 3.49919904583525
             },
             {
               "key": "prsMerged30",
@@ -5058,8 +5058,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.6543304417466456,
-          "points": 13.08660883493291,
+          "score": 0.6551908444781303,
+          "points": 13.103816889562605,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -5067,10 +5067,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.15625,
-              "normalized": 0.5523633414072374,
+              "raw": 1.1607142857142858,
+              "normalized": 0.5537532227427127,
               "weight": 0.619047619047619,
-              "points": 6.838784226946748
+              "points": 6.855992281576443
             },
             {
               "key": "prAccel",
@@ -5154,8 +5154,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.5632733057625806,
-          "points": 10.138919503726452,
+          "score": 0.5632726739290698,
+          "points": 10.138908130723255,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5181,16 +5181,16 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.19955355729348068,
-              "normalized": 0.5701530208385163,
+              "raw": 0.19955197770970373,
+              "normalized": 0.5701485077420106,
               "weight": 0.14,
-              "points": 1.4367856125130611
+              "points": 1.436774239509867
             },
             {
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 10900.80494679288,
+              "raw": 10900.848317267435,
               "normalized": 0.2719665271966527,
               "weight": 0.26,
               "points": 1.2728033472803346
@@ -5218,13 +5218,13 @@
       ],
       "pillarPoints": {
         "popularity": 15.380753138075315,
-        "activity": 16.92865770081735,
-        "growth": 13.08660883493291,
+        "activity": 16.91488506073055,
+        "growth": 13.103816889562605,
         "health": 17.679770439068797,
-        "impact": 10.138919503726452
+        "impact": 10.138908130723255
       },
       "explanation": [
-        "Entra al índice apoyado en salud (17.7 pts) y actividad (16.9 pts)."
+        "Posición sostenida sobre todo por salud (17.7 pts) y actividad (16.9 pts)."
       ]
     },
     {
@@ -5252,13 +5252,13 @@
       ],
       "kind": "software",
       "createdAt": "2023-03-16T09:21:07Z",
-      "pushedAt": "2026-08-12T17:05:38Z",
-      "ageYears": 3.4095438105242475,
-      "score": 72.79675150842363,
+      "pushedAt": "2026-08-12T17:37:41Z",
+      "ageYears": 3.4095894372195605,
+      "score": 72.80481084063703,
       "prevScore": null,
       "scoreChange": null,
       "stars": 186557,
-      "forks": 46090,
+      "forks": 46091,
       "watchers": 1551,
       "contributors": 838,
       "starsDelta": null,
@@ -5267,7 +5267,7 @@
       "commitsPrev30": 86,
       "prsMerged30": 132,
       "issuesClosed30": 33,
-      "openIssues": 301,
+      "openIssues": 302,
       "uniqueAuthors30": 19,
       "releasesTotal": 116,
       "latestReleaseTag": "preview-seed-fixture",
@@ -5298,7 +5298,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 46090,
+              "raw": 46091,
               "normalized": 0.9037656903765691,
               "weight": 0.25,
               "points": 4.518828451882846
@@ -5328,8 +5328,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.7654653413080514,
-          "points": 16.840237508777133,
+          "score": 0.7655202258246263,
+          "points": 16.84144496814178,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5346,10 +5346,10 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.013295775462962962,
-              "normalized": 0.9990788316087844,
+              "raw": 0.007703981481481482,
+              "normalized": 0.9994661432479556,
               "weight": 0.18,
-              "points": 3.956352173170786
+              "points": 3.957885927261904
             },
             {
               "key": "commits30",
@@ -5364,10 +5364,10 @@
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 6.523666145833333,
-              "normalized": 0.9630189653978662,
+              "raw": 6.540331296296296,
+              "normalized": 0.9629262680323915,
               "weight": 0.16,
-              "points": 3.3898267582004893
+              "points": 3.3895004634740182
             },
             {
               "key": "issuesClosed30",
@@ -5415,8 +5415,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.7838444831989076,
-          "points": 15.676889663978155,
+          "score": 0.7841851471362157,
+          "points": 15.683702942724315,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5425,9 +5425,9 @@
               "label": "Diversidad de contribuidores",
               "description": "Percentil de autores distintos con commits en los últimos 30 días.",
               "raw": 19,
-              "normalized": 0.7259414225941423,
+              "normalized": 0.7280334728033473,
               "weight": 0.24,
-              "points": 3.484518828451883
+              "points": 3.494560669456067
             },
             {
               "key": "documentation",
@@ -5442,10 +5442,10 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.9235652615540884,
-              "normalized": 0.9235652615540884,
+              "raw": 0.9233307946179233,
+              "normalized": 0.9233307946179233,
               "weight": 0.16,
-              "points": 2.955408836973083
+              "points": 2.954658542777355
             },
             {
               "key": "busFactor",
@@ -5469,10 +5469,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 9.121212121212121,
-              "normalized": 0.5904549886401664,
+              "raw": 9.151515151515152,
+              "normalized": 0.5894223769475423,
               "weight": 0.12,
-              "points": 1.4170919727363993
+              "points": 1.4146137046741014
             }
           ]
         },
@@ -5481,8 +5481,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.7093453563935939,
-          "points": 12.768216415084687,
+          "score": 0.7093475005104053,
+          "points": 12.768255009187296,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5490,7 +5490,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 54716.11757096479,
+              "raw": 54715.38536678856,
               "normalized": 0.7322175732217573,
               "weight": 0.26,
               "points": 3.426778242677824
@@ -5517,10 +5517,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.24705585960323118,
-              "normalized": 0.7058738845806606,
+              "raw": 0.2470612198952599,
+              "normalized": 0.7058891997007426,
               "weight": 0.14,
-              "points": 1.7788021891432648
+              "points": 1.7788407832458715
             },
             {
               "key": "orgBacked",
@@ -5545,13 +5545,13 @@
       ],
       "pillarPoints": {
         "popularity": 16.000000000000004,
-        "activity": 16.840237508777133,
+        "activity": 16.84144496814178,
         "growth": 11.511407920583633,
-        "health": 15.676889663978155,
-        "impact": 12.768216415084687
+        "health": 15.683702942724315,
+        "impact": 12.768255009187296
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (16.8 pts) y popularidad (16.0 pts)."
+        "Posición sostenida sobre todo por actividad (16.8 pts) y popularidad (16.0 pts)."
       ]
     },
     {
@@ -5580,12 +5580,12 @@
       "kind": "software",
       "createdAt": "2014-12-24T17:49:19Z",
       "pushedAt": "2026-08-12T16:38:22Z",
-      "ageYears": 11.633081341895455,
-      "score": 72.62560655613703,
+      "ageYears": 11.633126968590766,
+      "score": 72.62102757536849,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 453891,
-      "forks": 45951,
+      "stars": 453892,
+      "forks": 45950,
       "watchers": 8606,
       "contributors": 6768,
       "starsDelta": null,
@@ -5616,7 +5616,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 453891,
+              "raw": 453892,
               "normalized": 0.9874476987447699,
               "weight": 0.4,
               "points": 7.89958158995816
@@ -5625,7 +5625,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 45951,
+              "raw": 45950,
               "normalized": 0.899581589958159,
               "weight": 0.25,
               "points": 4.497907949790795
@@ -5655,8 +5655,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.7182594024526019,
-          "points": 15.801706853957242,
+          "score": 0.7180520609959578,
+          "points": 15.79714534191107,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5682,10 +5682,10 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.03223096064814815,
-              "normalized": 0.9977684137492244,
+              "raw": 0.04889611111111111,
+              "normalized": 0.9966165167678682,
               "weight": 0.18,
-              "points": 3.951162918446929
+              "points": 3.9466014064007577
             },
             {
               "key": "issuesClosed30",
@@ -5808,8 +5808,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.6198675699045546,
-          "points": 11.157616258281983,
+          "score": 0.619866599419979,
+          "points": 11.157598789559623,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5826,7 +5826,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 39017.26349710579,
+              "raw": 39017.19642753838,
               "normalized": 0.6610878661087866,
               "weight": 0.26,
               "points": 3.0938912133891208
@@ -5853,10 +5853,10 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.10123796241828985,
-              "normalized": 0.2892513211951139,
+              "raw": 0.10123553620685097,
+              "normalized": 0.28924438916243134,
               "weight": 0.14,
-              "points": 0.7289133294116871
+              "points": 0.728895860689327
             },
             {
               "key": "releaseMaturity",
@@ -5872,13 +5872,13 @@
       ],
       "pillarPoints": {
         "popularity": 19.284518828451887,
-        "activity": 15.801706853957242,
+        "activity": 15.79714534191107,
         "growth": 9.948092477046286,
         "health": 16.43367213839962,
-        "impact": 11.157616258281983
+        "impact": 11.157598789559623
       },
       "explanation": [
-        "Entra al índice apoyado en popularidad (19.3 pts) y salud (16.4 pts)."
+        "Posición sostenida sobre todo por popularidad (19.3 pts) y salud (16.4 pts)."
       ]
     },
     {
@@ -5907,8 +5907,8 @@
       "kind": "software",
       "createdAt": "2013-09-17T07:29:48Z",
       "pushedAt": "2026-08-12T16:03:02Z",
-      "ageYears": 12.901884134281442,
-      "score": 72.5413199931086,
+      "ageYears": 12.901929760976753,
+      "score": 72.52411937943289,
       "prevScore": null,
       "scoreChange": null,
       "stars": 89884,
@@ -5917,16 +5917,16 @@
       "contributors": 5667,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 1225,
-      "commitsPrev30": 1854,
+      "commits30": 1223,
+      "commitsPrev30": 1856,
       "prsMerged30": 1265,
       "issuesClosed30": 656,
-      "openIssues": 2847,
+      "openIssues": 2848,
       "uniqueAuthors30": 55,
       "releasesTotal": 1000,
       "latestReleaseTag": "2026.8.1",
       "latestReleaseAt": "2026-08-07T18:09:05Z",
-      "commitAccel": 0.6607335490830637,
+      "commitAccel": 0.6589439655172413,
       "prAccel": 0.7713414634146342,
       "pillars": [
         {
@@ -5982,8 +5982,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9694102066238461,
-          "points": 21.327024545724615,
+          "score": 0.9691882521621585,
+          "points": 21.32214154756749,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -5991,7 +5991,7 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 1225,
+              "raw": 1223,
               "normalized": 0.9623430962343096,
               "weight": 0.28,
               "points": 5.928033472803347
@@ -6009,19 +6009,19 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.05676800925925926,
-              "normalized": 0.9960728728555287,
+              "raw": 0.07343315972222222,
+              "normalized": 0.9949229333308431,
               "weight": 0.18,
-              "points": 3.9444485765078934
+              "points": 3.939894815990139
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 4.969233287037037,
-              "normalized": 0.9717046127838485,
+              "raw": 4.9858984375,
+              "normalized": 0.971611079363572,
               "weight": 0.16,
-              "points": 3.4204002369991464
+              "points": 3.420070999359774
             },
             {
               "key": "issuesClosed30",
@@ -6039,8 +6039,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.37180189439341715,
-          "points": 7.436037887868344,
+          "score": 0.3711963401762785,
+          "points": 7.423926803525569,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -6048,10 +6048,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 0.6607335490830637,
-              "normalized": 0.35053512631610056,
+              "raw": 0.6589439655172413,
+              "normalized": 0.3495569233499536,
               "weight": 0.619047619047619,
-              "points": 4.339958706770769
+              "points": 4.3278476224279965
             },
             {
               "key": "prAccel",
@@ -6069,8 +6069,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.8655321248377061,
-          "points": 17.310642496754124,
+          "score": 0.8655217982789156,
+          "points": 17.310435965578314,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -6087,10 +6087,10 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.9610528187800107,
-              "normalized": 0.9610528187800107,
+              "raw": 0.9610396716826265,
+              "normalized": 0.9610396716826265,
               "weight": 0.16,
-              "points": 3.0753690200960344
+              "points": 3.075326949384405
             },
             {
               "key": "busFactor",
@@ -6123,10 +6123,10 @@
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 4.339939024390244,
-              "normalized": 0.7782677142979139,
+              "raw": 4.341463414634147,
+              "normalized": 0.7781991891045048,
               "weight": 0.12,
-              "points": 1.867842514314993
+              "points": 1.8676780538508113
             }
           ]
         },
@@ -6189,7 +6189,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 6966.734398208577,
+              "raw": 6966.70976088117,
               "normalized": 0.09205020920502092,
               "weight": 0.26,
               "points": 0.43079497907949793
@@ -6199,13 +6199,13 @@
       ],
       "pillarPoints": {
         "popularity": 13.000000000000004,
-        "activity": 21.327024545724615,
-        "growth": 7.436037887868344,
-        "health": 17.310642496754124,
+        "activity": 21.32214154756749,
+        "growth": 7.423926803525569,
+        "health": 17.310435965578314,
         "impact": 13.467615062761507
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.3 pts) y salud (17.3 pts).",
+        "Posición sostenida sobre todo por actividad (21.3 pts) y salud (17.3 pts).",
         "Ritmo de commits al 66 % del mes previo."
       ]
     },
@@ -6228,26 +6228,26 @@
       "kind": "software",
       "createdAt": "2025-04-13T05:37:54Z",
       "pushedAt": "2026-08-12T16:52:43Z",
-      "ageYears": 1.3319394616827642,
-      "score": 72.2504552022759,
+      "ageYears": 1.3319850883780768,
+      "score": 72.22448527390553,
       "prevScore": null,
       "scoreChange": null,
-      "stars": 105539,
-      "forks": 16000,
+      "stars": 105540,
+      "forks": 15999,
       "watchers": 554,
       "contributors": 547,
       "starsDelta": null,
       "forksDelta": null,
-      "commits30": 1020,
-      "commitsPrev30": 703,
+      "commits30": 1018,
+      "commitsPrev30": 705,
       "prsMerged30": 1039,
-      "issuesClosed30": 1051,
-      "openIssues": 12197,
+      "issuesClosed30": 1052,
+      "openIssues": 12200,
       "uniqueAuthors30": 34,
       "releasesTotal": 981,
       "latestReleaseTag": "rust-v0.148.0-alpha.9",
       "latestReleaseAt": "2026-08-12T01:35:53Z",
-      "commitAccel": 1.4509246088193457,
+      "commitAccel": 1.4439716312056738,
       "prAccel": 1.3871829105473965,
       "pillars": [
         {
@@ -6264,7 +6264,7 @@
               "key": "stars",
               "label": "Estrellas",
               "description": "Percentil de estrellas dentro del universo analizado.",
-              "raw": 105539,
+              "raw": 105540,
               "normalized": 0.5481171548117155,
               "weight": 0.4,
               "points": 4.384937238493725
@@ -6273,7 +6273,7 @@
               "key": "forks",
               "label": "Forks",
               "description": "Percentil de forks: señal de uso y derivación real del código.",
-              "raw": 16000,
+              "raw": 15999,
               "normalized": 0.5481171548117155,
               "weight": 0.25,
               "points": 2.740585774058578
@@ -6303,8 +6303,8 @@
           "label": "Actividad reciente",
           "short": "Actividad",
           "weight": 0.22,
-          "score": 0.9681522232501116,
-          "points": 21.299348911502456,
+          "score": 0.9679293959064323,
+          "points": 21.29444670994151,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -6312,7 +6312,7 @@
               "key": "commits30",
               "label": "Commits (30 d)",
               "description": "Percentil de commits en la rama principal durante los últimos 30 días.",
-              "raw": 1020,
+              "raw": 1018,
               "normalized": 0.9456066945606695,
               "weight": 0.28,
               "points": 5.824937238493725
@@ -6330,25 +6330,25 @@
               "key": "pushRecency",
               "label": "Recencia del último push",
               "description": "Decaimiento exponencial con vida media de 10 días desde el último push.",
-              "raw": 0.022265694444444446,
-              "normalized": 0.9984578500045098,
+              "raw": 0.038930844907407405,
+              "normalized": 0.9973051570874131,
               "weight": 0.18,
-              "points": 3.953893086017859
+              "points": 3.9493284220661553
             },
             {
               "key": "releaseRecency",
               "label": "Recencia de release",
               "description": "Decaimiento exponencial con vida media de 120 días desde la última release publicada.",
-              "raw": 0.6589555092592593,
-              "normalized": 0.996200958409589,
+              "raw": 0.6756206597222222,
+              "normalized": 0.9961050670433271,
               "weight": 0.16,
-              "points": 3.5066273736017535
+              "points": 3.506289835992512
             },
             {
               "key": "issuesClosed30",
               "label": "Issues cerradas (30 d)",
               "description": "Percentil de issues resueltas en los últimos 30 días.",
-              "raw": 1051,
+              "raw": 1052,
               "normalized": 0.9665271966527197,
               "weight": 0.14,
               "points": 2.9769037656903774
@@ -6360,8 +6360,8 @@
           "label": "Crecimiento y tendencia",
           "short": "Crecimiento",
           "weight": 0.2,
-          "score": 0.6280703273188795,
-          "points": 12.56140654637759,
+          "score": 0.6269978027122345,
+          "points": 12.53995605424469,
           "degraded": true,
           "prevPoints": null,
           "metrics": [
@@ -6369,10 +6369,10 @@
               "key": "commitAccel",
               "label": "Aceleración de commits",
               "description": "Commits de los últimos 30 días frente a los 30 anteriores. 1× es el punto neutro.",
-              "raw": 1.4509246088193457,
-              "normalized": 0.6342431394465806,
+              "raw": 1.4439716312056738,
+              "normalized": 0.6325105996973849,
               "weight": 0.619047619047619,
-              "points": 7.852534107433855
+              "points": 7.831083615300955
             },
             {
               "key": "prAccel",
@@ -6390,8 +6390,8 @@
           "label": "Salud y mantenimiento",
           "short": "Salud",
           "weight": 0.2,
-          "score": 0.6620795543157141,
-          "points": 13.241591086314283,
+          "score": 0.6621026207321721,
+          "points": 13.242052414643442,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -6426,19 +6426,19 @@
               "key": "issueResolution",
               "label": "Tasa de resolución de issues",
               "description": "Issues cerradas sobre el total histórico de issues.",
-              "raw": 0.45966420059362956,
-              "normalized": 0.45966420059362956,
+              "raw": 0.45962705408158744,
+              "normalized": 0.45962705408158744,
               "weight": 0.16,
-              "points": 1.4709254418996147
+              "points": 1.4708065730610798
             },
             {
               "key": "backlogPressure",
               "label": "Presión del backlog",
               "description": "Meses necesarios para vaciar las issues abiertas al ritmo de cierre actual; menos es mejor.",
-              "raw": 11.605137963843958,
-              "normalized": 0.5115351098589705,
+              "raw": 11.596958174904943,
+              "normalized": 0.5117768586788427,
               "weight": 0.12,
-              "points": 1.2276842636615293
+              "points": 1.2282644608292224
             },
             {
               "key": "documentation",
@@ -6456,8 +6456,8 @@
           "label": "Impacto en el ecosistema",
           "short": "Impacto",
           "weight": 0.18,
-          "score": 0.8216871151281957,
-          "points": 14.790368072307523,
+          "score": 0.8216827505167685,
+          "points": 14.790289509301832,
           "degraded": false,
           "prevPoints": null,
           "metrics": [
@@ -6465,7 +6465,7 @@
               "key": "tractionPerYear",
               "label": "Tracción por año de vida",
               "description": "Percentil de estrellas por año de existencia: favorece la relevancia sobre la antigüedad.",
-              "raw": 79237.0847445744,
+              "raw": 79235.12126439289,
               "normalized": 0.8075313807531381,
               "weight": 0.26,
               "points": 3.7792468619246864
@@ -6492,7 +6492,7 @@
               "key": "communityEngagement",
               "label": "Participación de la comunidad",
               "description": "Percentil de discusiones más issues abiertas recientemente, ponderadas.",
-              "raw": 18382,
+              "raw": 18394,
               "normalized": 0.9874476987447699,
               "weight": 0.13,
               "points": 2.310627615062762
@@ -6510,24 +6510,24 @@
               "key": "forkRatio",
               "label": "Intensidad de derivación",
               "description": "Forks por estrella, saturado en 0,35: separa el uso real del aplauso pasivo.",
-              "raw": 0.15160272505898292,
-              "normalized": 0.4331506430256655,
+              "raw": 0.151591813530415,
+              "normalized": 0.4331194672297572,
               "weight": 0.14,
-              "points": 1.0915396204246772
+              "points": 1.091461057418988
             }
           ]
         }
       ],
       "pillarPoints": {
         "popularity": 10.357740585774062,
-        "activity": 21.299348911502456,
-        "growth": 12.56140654637759,
-        "health": 13.241591086314283,
-        "impact": 14.790368072307523
+        "activity": 21.29444670994151,
+        "growth": 12.53995605424469,
+        "health": 13.242052414643442,
+        "impact": 14.790289509301832
       },
       "explanation": [
-        "Entra al índice apoyado en actividad (21.3 pts) y impacto (14.8 pts).",
-        "Ritmo de commits 1.5× frente al mes previo."
+        "Posición sostenida sobre todo por actividad (21.3 pts) y impacto (14.8 pts).",
+        "Ritmo de commits 1.4× frente al mes previo."
       ]
     }
   ],
@@ -6537,7 +6537,7 @@
       "fullName": "Fission-AI/OpenSpec",
       "rank": 50,
       "url": "https://github.com/Fission-AI/OpenSpec",
-      "score": 65.02586541396543,
+      "score": 65.02084948756351,
       "language": "TypeScript",
       "avatar": "https://avatars.githubusercontent.com/u/203414896?v=4",
       "headline": "Aceleración de commits 5.4× y 147 PR fusionados en 30 días"
@@ -6546,28 +6546,19 @@
       "fullName": "openclaw/openclaw",
       "rank": 1,
       "url": "https://github.com/openclaw/openclaw",
-      "score": 84.26485452587357,
+      "score": 84.08152339186928,
       "language": "TypeScript",
       "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "headline": "10799 commits, 9336 PR fusionados y 15 autores distintos en 30 días"
-    },
-    "newEntry": {
-      "fullName": "openclaw/openclaw",
-      "rank": 1,
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 84.26485452587357,
-      "language": "TypeScript",
-      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "headline": "Nuevo en el Top 20, entra directo al #1"
+      "headline": "10796 commits, 9345 PR fusionados y 13 autores distintos en 30 días"
     },
     "emerging": {
       "fullName": "Fission-AI/OpenSpec",
       "rank": 50,
       "url": "https://github.com/Fission-AI/OpenSpec",
-      "score": 65.02586541396543,
+      "score": 65.02084948756351,
       "language": "TypeScript",
       "avatar": "https://avatars.githubusercontent.com/u/203414896?v=4",
-      "headline": "1.0 años de vida, puesto global #50 y 63.447 estrellas por año"
+      "headline": "1.0 años de vida, puesto global #50 y 63.446 estrellas por año"
     }
   },
   "methodology": {
@@ -6838,39 +6829,39 @@
       "openclaw/openclaw": [
         {
           "rank": 1,
-          "score": 84.26,
-          "stars": 386056,
-          "forks": 81141
+          "score": 84.08,
+          "stars": 386060,
+          "forks": 81142
         }
       ],
       "NousResearch/hermes-agent": [
         {
           "rank": 2,
-          "score": 81.59,
-          "stars": 229462,
-          "forks": 45284
+          "score": 81.67,
+          "stars": 229472,
+          "forks": 45287
         }
       ],
       "microsoft/vscode": [
         {
           "rank": 3,
-          "score": 80.87,
-          "stars": 188631,
-          "forks": 41594
+          "score": 80.81,
+          "stars": 188632,
+          "forks": 41595
         }
       ],
       "n8n-io/n8n": [
         {
           "rank": 4,
-          "score": 80.22,
-          "stars": 200363,
+          "score": 80.21,
+          "stars": 200364,
           "forks": 60097
         }
       ],
       "tensorflow/tensorflow": [
         {
           "rank": 5,
-          "score": 78.81,
+          "score": 78.8,
           "stars": 196973,
           "forks": 75999
         }
@@ -6878,15 +6869,15 @@
       "nodejs/node": [
         {
           "rank": 6,
-          "score": 77.86,
-          "stars": 118898,
+          "score": 77.88,
+          "stars": 118899,
           "forks": 36459
         }
       ],
       "langgenius/dify": [
         {
           "rank": 7,
-          "score": 77.24,
+          "score": 77.23,
           "stars": 152225,
           "forks": 24028
         }
@@ -6904,62 +6895,62 @@
           "rank": 9,
           "score": 76.31,
           "stars": 164003,
-          "forks": 34222
+          "forks": 34223
         }
       ],
       "ggml-org/llama.cpp": [
         {
           "rank": 10,
           "score": 75.93,
-          "stars": 123662,
-          "forks": 21625
+          "stars": 123663,
+          "forks": 21626
         }
       ],
       "public-apis/public-apis": [
         {
           "rank": 11,
           "score": 75.13,
-          "stars": 455650,
-          "forks": 50258
+          "stars": 455655,
+          "forks": 50257
         }
       ],
       "kubernetes/kubernetes": [
         {
           "rank": 12,
           "score": 74.99,
-          "stars": 124459,
+          "stars": 124461,
           "forks": 43836
         }
       ],
       "electron/electron": [
         {
           "rank": 13,
-          "score": 74.79,
-          "stars": 122472,
+          "score": 74.78,
+          "stars": 122473,
           "forks": 17407
         }
       ],
       "anomalyco/opencode": [
         {
           "rank": 14,
-          "score": 74.36,
-          "stars": 196499,
-          "forks": 25254
+          "score": 74.34,
+          "stars": 196508,
+          "forks": 25256
         }
       ],
       "vllm-project/vllm": [
         {
           "rank": 15,
           "score": 73.58,
-          "stars": 88884,
+          "stars": 88886,
           "forks": 20597
         }
       ],
       "react/react-native": [
         {
           "rank": 16,
-          "score": 73.21,
-          "stars": 126332,
+          "score": 73.22,
+          "stars": 126333,
           "forks": 25210
         }
       ],
@@ -6968,21 +6959,21 @@
           "rank": 17,
           "score": 72.8,
           "stars": 186557,
-          "forks": 46090
+          "forks": 46091
         }
       ],
       "freeCodeCamp/freeCodeCamp": [
         {
           "rank": 18,
-          "score": 72.63,
-          "stars": 453891,
-          "forks": 45951
+          "score": 72.62,
+          "stars": 453892,
+          "forks": 45950
         }
       ],
       "home-assistant/core": [
         {
           "rank": 19,
-          "score": 72.54,
+          "score": 72.52,
           "stars": 89884,
           "forks": 38334
         }
@@ -6990,9 +6981,9 @@
       "openai/codex": [
         {
           "rank": 20,
-          "score": 72.25,
-          "stars": 105539,
-          "forks": 16000
+          "score": 72.22,
+          "stars": 105540,
+          "forks": 15999
         }
       ]
     }
