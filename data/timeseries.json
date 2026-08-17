@@ -1,6 +1,7 @@
 {
   "weeks": [
-    "2026-W33"
+    "2026-W33",
+    "2026-W34"
   ],
   "repos": {
     "openclaw/openclaw": {
@@ -9,6 +10,12 @@
         "score": 84.08,
         "stars": 386060,
         "forks": 81142
+      },
+      "2026-W34": {
+        "rank": 2,
+        "score": 80.95,
+        "stars": 386505,
+        "forks": 81218
       }
     },
     "NousResearch/hermes-agent": {
@@ -17,6 +24,12 @@
         "score": 81.67,
         "stars": 229472,
         "forks": 45287
+      },
+      "2026-W34": {
+        "rank": 1,
+        "score": 82.4,
+        "stars": 231670,
+        "forks": 46098
       }
     },
     "microsoft/vscode": {
@@ -25,6 +38,12 @@
         "score": 80.81,
         "stars": 188632,
         "forks": 41595
+      },
+      "2026-W34": {
+        "rank": 4,
+        "score": 79.42,
+        "stars": 188825,
+        "forks": 41689
       }
     },
     "n8n-io/n8n": {
@@ -33,6 +52,12 @@
         "score": 80.21,
         "stars": 200364,
         "forks": 60097
+      },
+      "2026-W34": {
+        "rank": 3,
+        "score": 80.37,
+        "stars": 200930,
+        "forks": 60177
       }
     },
     "tensorflow/tensorflow": {
@@ -41,6 +66,12 @@
         "score": 78.8,
         "stars": 196973,
         "forks": 75999
+      },
+      "2026-W34": {
+        "rank": 8,
+        "score": 76.31,
+        "stars": 197089,
+        "forks": 76062
       }
     },
     "nodejs/node": {
@@ -49,6 +80,12 @@
         "score": 77.88,
         "stars": 118899,
         "forks": 36459
+      },
+      "2026-W34": {
+        "rank": 12,
+        "score": 74.29,
+        "stars": 118963,
+        "forks": 36508
       }
     },
     "langgenius/dify": {
@@ -57,6 +94,12 @@
         "score": 77.23,
         "stars": 152225,
         "forks": 24028
+      },
+      "2026-W34": {
+        "rank": 7,
+        "score": 76.66,
+        "stars": 152657,
+        "forks": 24105
       }
     },
     "vercel/next.js": {
@@ -65,6 +108,12 @@
         "score": 76.9,
         "stars": 141744,
         "forks": 31735
+      },
+      "2026-W34": {
+        "rank": 14,
+        "score": 73.91,
+        "stars": 141817,
+        "forks": 31751
       }
     },
     "huggingface/transformers": {
@@ -73,6 +122,12 @@
         "score": 76.31,
         "stars": 164003,
         "forks": 34223
+      },
+      "2026-W34": {
+        "rank": 13,
+        "score": 73.93,
+        "stars": 164161,
+        "forks": 34257
       }
     },
     "ggml-org/llama.cpp": {
@@ -81,6 +136,12 @@
         "score": 75.93,
         "stars": 123663,
         "forks": 21626
+      },
+      "2026-W34": {
+        "rank": 6,
+        "score": 77.23,
+        "stars": 124270,
+        "forks": 21793
       }
     },
     "public-apis/public-apis": {
@@ -89,6 +150,12 @@
         "score": 75.13,
         "stars": 455655,
         "forks": 50257
+      },
+      "2026-W34": {
+        "rank": 9,
+        "score": 75.34,
+        "stars": 462308,
+        "forks": 51058
       }
     },
     "kubernetes/kubernetes": {
@@ -97,6 +164,12 @@
         "score": 74.99,
         "stars": 124461,
         "forks": 43836
+      },
+      "2026-W34": {
+        "rank": 23,
+        "score": 69.46,
+        "stars": 124527,
+        "forks": 43863
       }
     },
     "electron/electron": {
@@ -105,6 +178,12 @@
         "score": 74.78,
         "stars": 122473,
         "forks": 17407
+      },
+      "2026-W34": {
+        "rank": 24,
+        "score": 69.19,
+        "stars": 122523,
+        "forks": 17420
       }
     },
     "anomalyco/opencode": {
@@ -113,6 +192,12 @@
         "score": 74.34,
         "stars": 196508,
         "forks": 25256
+      },
+      "2026-W34": {
+        "rank": 5,
+        "score": 78.27,
+        "stars": 198231,
+        "forks": 25538
       }
     },
     "vllm-project/vllm": {
@@ -121,6 +206,12 @@
         "score": 73.58,
         "stars": 88886,
         "forks": 20597
+      },
+      "2026-W34": {
+        "rank": 15,
+        "score": 73.69,
+        "stars": 89221,
+        "forks": 20793
       }
     },
     "react/react-native": {
@@ -129,6 +220,12 @@
         "score": 73.22,
         "stars": 126333,
         "forks": 25210
+      },
+      "2026-W34": {
+        "rank": 39,
+        "score": 66.03,
+        "stars": 126358,
+        "forks": 25216
       }
     },
     "Significant-Gravitas/AutoGPT": {
@@ -137,6 +234,12 @@
         "score": 72.8,
         "stars": 186557,
         "forks": 46091
+      },
+      "2026-W34": {
+        "rank": 28,
+        "score": 68.02,
+        "stars": 186642,
+        "forks": 46065
       }
     },
     "freeCodeCamp/freeCodeCamp": {
@@ -145,6 +248,12 @@
         "score": 72.62,
         "stars": 453892,
         "forks": 45950
+      },
+      "2026-W34": {
+        "rank": 19,
+        "score": 71.38,
+        "stars": 454177,
+        "forks": 45990
       }
     },
     "home-assistant/core": {
@@ -153,6 +262,12 @@
         "score": 72.52,
         "stars": 89884,
         "forks": 38334
+      },
+      "2026-W34": {
+        "rank": 20,
+        "score": 71.13,
+        "stars": 89930,
+        "forks": 38368
       }
     },
     "openai/codex": {
@@ -161,6 +276,12 @@
         "score": 72.22,
         "stars": 105540,
         "forks": 15999
+      },
+      "2026-W34": {
+        "rank": 17,
+        "score": 73.11,
+        "stars": 106361,
+        "forks": 16159
       }
     },
     "open-webui/open-webui": {
@@ -169,6 +290,12 @@
         "score": 72.09,
         "stars": 148594,
         "forks": 21630
+      },
+      "2026-W34": {
+        "rank": 22,
+        "score": 69.53,
+        "stars": 148979,
+        "forks": 21691
       }
     },
     "github/spec-kit": {
@@ -177,6 +304,12 @@
         "score": 71.75,
         "stars": 126401,
         "forks": 11298
+      },
+      "2026-W34": {
+        "rank": 10,
+        "score": 74.72,
+        "stars": 129613,
+        "forks": 11600
       }
     },
     "earendil-works/pi": {
@@ -185,6 +318,12 @@
         "score": 71.49,
         "stars": 88479,
         "forks": 10994
+      },
+      "2026-W34": {
+        "rank": 11,
+        "score": 74.36,
+        "stars": 91869,
+        "forks": 11384
       }
     },
     "langchain-ai/langchain": {
@@ -193,6 +332,12 @@
         "score": 71.12,
         "stars": 144089,
         "forks": 23996
+      },
+      "2026-W34": {
+        "rank": 18,
+        "score": 71.59,
+        "stars": 144366,
+        "forks": 24030
       }
     },
     "flutter/flutter": {
@@ -201,6 +346,12 @@
         "score": 71.08,
         "stars": 178361,
         "forks": 30957
+      },
+      "2026-W34": {
+        "rank": 36,
+        "score": 66.31,
+        "stars": 178429,
+        "forks": 30964
       }
     },
     "google-gemini/gemini-cli": {
@@ -209,6 +360,12 @@
         "score": 70.45,
         "stars": 106489,
         "forks": 14423
+      },
+      "2026-W34": {
+        "rank": 43,
+        "score": 65.58,
+        "stars": 106533,
+        "forks": 14440
       }
     },
     "rust-lang/rust": {
@@ -217,6 +374,12 @@
         "score": 70.45,
         "stars": 115461,
         "forks": 15416
+      },
+      "2026-W34": {
+        "rank": 42,
+        "score": 65.67,
+        "stars": 115531,
+        "forks": 15424
       }
     },
     "supabase/supabase": {
@@ -225,6 +388,12 @@
         "score": 70.3,
         "stars": 107889,
         "forks": 13531
+      },
+      "2026-W34": {
+        "rank": 26,
+        "score": 68.25,
+        "stars": 108075,
+        "forks": 13561
       }
     },
     "ollama/ollama": {
@@ -233,6 +402,12 @@
         "score": 70.29,
         "stars": 178355,
         "forks": 17371
+      },
+      "2026-W34": {
+        "rank": 30,
+        "score": 67.91,
+        "stars": 178741,
+        "forks": 17437
       }
     },
     "affaan-m/ECC": {
@@ -241,6 +416,12 @@
         "score": 69.37,
         "stars": 239705,
         "forks": 36381
+      },
+      "2026-W34": {
+        "rank": 16,
+        "score": 73.23,
+        "stars": 240555,
+        "forks": 36493
       }
     },
     "ant-design/ant-design": {
@@ -249,6 +430,12 @@
         "score": 69.17,
         "stars": 99050,
         "forks": 54689
+      },
+      "2026-W34": {
+        "rank": 38,
+        "score": 66.29,
+        "stars": 99090,
+        "forks": 54697
       }
     },
     "react/react": {
@@ -257,6 +444,12 @@
         "score": 69.17,
         "stars": 247200,
         "forks": 51225
+      },
+      "2026-W34": {
+        "rank": 41,
+        "score": 65.95,
+        "stars": 247321,
+        "forks": 51236
       }
     },
     "immich-app/immich": {
@@ -265,6 +458,12 @@
         "score": 69.13,
         "stars": 110293,
         "forks": 6499
+      },
+      "2026-W34": {
+        "rank": 25,
+        "score": 68.42,
+        "stars": 110800,
+        "forks": 6559
       }
     },
     "zed-industries/zed": {
@@ -273,6 +472,12 @@
         "score": 68.39,
         "stars": 88493,
         "forks": 10012
+      },
+      "2026-W34": {
+        "rank": 32,
+        "score": 67.07,
+        "stars": 88714,
+        "forks": 10087
       }
     },
     "elastic/elasticsearch": {
@@ -281,6 +486,12 @@
         "score": 68.31,
         "stars": 77840,
         "forks": 26055
+      },
+      "2026-W34": {
+        "rank": 58,
+        "score": 62.67,
+        "stars": 77832,
+        "forks": 26044
       }
     },
     "spring-projects/spring-boot": {
@@ -289,6 +500,12 @@
         "score": 68.28,
         "stars": 81333,
         "forks": 42115
+      },
+      "2026-W34": {
+        "rank": 98,
+        "score": 56.08,
+        "stars": 81306,
+        "forks": 42091
       }
     },
     "langflow-ai/langflow": {
@@ -297,6 +514,12 @@
         "score": 67.49,
         "stars": 153098,
         "forks": 9846
+      },
+      "2026-W34": {
+        "rank": 37,
+        "score": 66.3,
+        "stars": 153346,
+        "forks": 9873
       }
     },
     "angular/angular": {
@@ -305,6 +528,12 @@
         "score": 67.14,
         "stars": 100993,
         "forks": 27425
+      },
+      "2026-W34": {
+        "rank": 49,
+        "score": 64.32,
+        "stars": 101031,
+        "forks": 27431
       }
     },
     "pytorch/pytorch": {
@@ -313,6 +542,12 @@
         "score": 67.13,
         "stars": 102347,
         "forks": 28843
+      },
+      "2026-W34": {
+        "rank": 31,
+        "score": 67.26,
+        "stars": 102433,
+        "forks": 28884
       }
     },
     "godotengine/godot": {
@@ -321,6 +556,12 @@
         "score": 67.09,
         "stars": 115610,
         "forks": 26340
+      },
+      "2026-W34": {
+        "rank": 47,
+        "score": 64.84,
+        "stars": 115763,
+        "forks": 26364
       }
     },
     "mui/material-ui": {
@@ -329,6 +570,12 @@
         "score": 66.74,
         "stars": 98748,
         "forks": 32553
+      },
+      "2026-W34": {
+        "rank": 54,
+        "score": 63.42,
+        "stars": 98841,
+        "forks": 32562
       }
     },
     "santifer/career-ops": {
@@ -337,6 +584,12 @@
         "score": 66.46,
         "stars": 63612,
         "forks": 12546
+      },
+      "2026-W34": {
+        "rank": 33,
+        "score": 66.76,
+        "stars": 64119,
+        "forks": 12629
       }
     },
     "infiniflow/ragflow": {
@@ -345,6 +598,12 @@
         "score": 66.42,
         "stars": 87467,
         "forks": 10305
+      },
+      "2026-W34": {
+        "rank": 29,
+        "score": 67.94,
+        "stars": 88634,
+        "forks": 10399
       }
     },
     "ansible/ansible": {
@@ -353,6 +612,12 @@
         "score": 66.36,
         "stars": 70331,
         "forks": 24323
+      },
+      "2026-W34": {
+        "rank": 104,
+        "score": 55.28,
+        "stars": 70329,
+        "forks": 24316
       }
     },
     "ohmyzsh/ohmyzsh": {
@@ -361,6 +626,12 @@
         "score": 66.3,
         "stars": 189137,
         "forks": 26584
+      },
+      "2026-W34": {
+        "rank": 60,
+        "score": 62.43,
+        "stars": 189227,
+        "forks": 26583
       }
     },
     "oven-sh/bun": {
@@ -369,6 +640,12 @@
         "score": 65.83,
         "stars": 95387,
         "forks": 4956
+      },
+      "2026-W34": {
+        "rank": 74,
+        "score": 59.21,
+        "stars": 95430,
+        "forks": 4968
       }
     },
     "Comfy-Org/ComfyUI": {
@@ -377,6 +654,12 @@
         "score": 65.64,
         "stars": 127051,
         "forks": 14967
+      },
+      "2026-W34": {
+        "rank": 27,
+        "score": 68.08,
+        "stars": 127993,
+        "forks": 15069
       }
     },
     "bitcoin/bitcoin": {
@@ -385,6 +668,12 @@
         "score": 65.34,
         "stars": 89878,
         "forks": 39285
+      },
+      "2026-W34": {
+        "rank": 66,
+        "score": 60.82,
+        "stars": 89922,
+        "forks": 39297
       }
     },
     "astral-sh/uv": {
@@ -393,6 +682,12 @@
         "score": 65.04,
         "stars": 88682,
         "forks": 3480
+      },
+      "2026-W34": {
+        "rank": 73,
+        "score": 59.27,
+        "stars": 88791,
+        "forks": 3492
       }
     },
     "Fission-AI/OpenSpec": {
@@ -401,6 +696,12 @@
         "score": 65.02,
         "stars": 64671,
         "forks": 4454
+      },
+      "2026-W34": {
+        "rank": 77,
+        "score": 58.83,
+        "stars": 65126,
+        "forks": 4488
       }
     },
     "twbs/bootstrap": {
@@ -409,6 +710,12 @@
         "score": 64.66,
         "stars": 174585,
         "forks": 78680
+      },
+      "2026-W34": {
+        "rank": 88,
+        "score": 57.4,
+        "stars": 174611,
+        "forks": 78670
       }
     },
     "mrdoob/three.js": {
@@ -417,6 +724,12 @@
         "score": 64.41,
         "stars": 114464,
         "forks": 36471
+      },
+      "2026-W34": {
+        "rank": 51,
+        "score": 63.73,
+        "stars": 114571,
+        "forks": 36481
       }
     },
     "storybookjs/storybook": {
@@ -425,6 +738,12 @@
         "score": 64.37,
         "stars": 90819,
         "forks": 10385
+      },
+      "2026-W34": {
+        "rank": 68,
+        "score": 60.57,
+        "stars": 90857,
+        "forks": 10393
       }
     },
     "nexu-io/open-design": {
@@ -433,6 +752,12 @@
         "score": 64.33,
         "stars": 85297,
         "forks": 9998
+      },
+      "2026-W34": {
+        "rank": 21,
+        "score": 70.12,
+        "stars": 87853,
+        "forks": 10168
       }
     },
     "microsoft/playwright": {
@@ -441,6 +766,12 @@
         "score": 64.11,
         "stars": 94414,
         "forks": 6275
+      },
+      "2026-W34": {
+        "rank": 62,
+        "score": 61.72,
+        "stars": 94600,
+        "forks": 6302
       }
     },
     "lobehub/lobehub": {
@@ -449,6 +780,12 @@
         "score": 64.02,
         "stars": 81585,
         "forks": 15802
+      },
+      "2026-W34": {
+        "rank": 50,
+        "score": 64,
+        "stars": 81759,
+        "forks": 15812
       }
     },
     "clash-verge-rev/clash-verge-rev": {
@@ -457,6 +794,12 @@
         "score": 64,
         "stars": 137385,
         "forks": 9909
+      },
+      "2026-W34": {
+        "rank": 44,
+        "score": 65.39,
+        "stars": 138300,
+        "forks": 9962
       }
     },
     "rustdesk/rustdesk": {
@@ -465,6 +808,12 @@
         "score": 63.89,
         "stars": 120220,
         "forks": 18414
+      },
+      "2026-W34": {
+        "rank": 34,
+        "score": 66.65,
+        "stars": 121036,
+        "forks": 18505
       }
     },
     "microsoft/PowerToys": {
@@ -473,6 +822,12 @@
         "score": 63.87,
         "stars": 137693,
         "forks": 8478
+      },
+      "2026-W34": {
+        "rank": 59,
+        "score": 62.61,
+        "stars": 137815,
+        "forks": 8490
       }
     },
     "neovim/neovim": {
@@ -481,6 +836,12 @@
         "score": 63.64,
         "stars": 101765,
         "forks": 7021
+      },
+      "2026-W34": {
+        "rank": 69,
+        "score": 60.31,
+        "stars": 101853,
+        "forks": 7027
       }
     },
     "rails/rails": {
@@ -488,6 +849,12 @@
         "rank": 61,
         "score": 63.62,
         "stars": 58688,
+        "forks": 22364
+      },
+      "2026-W34": {
+        "rank": 76,
+        "score": 58.86,
+        "stars": 58684,
         "forks": 22364
       }
     },
@@ -497,6 +864,12 @@
         "score": 63.42,
         "stars": 121181,
         "forks": 9831
+      },
+      "2026-W34": {
+        "rank": 70,
+        "score": 60.26,
+        "stars": 121462,
+        "forks": 9879
       }
     },
     "paperclipai/paperclip": {
@@ -505,6 +878,12 @@
         "score": 63.38,
         "stars": 77602,
         "forks": 14292
+      },
+      "2026-W34": {
+        "rank": 35,
+        "score": 66.57,
+        "stars": 78590,
+        "forks": 14394
       }
     },
     "redis/redis": {
@@ -513,6 +892,12 @@
         "score": 63.33,
         "stars": 75992,
         "forks": 24760
+      },
+      "2026-W34": {
+        "rank": 102,
+        "score": 55.86,
+        "stars": 76026,
+        "forks": 24756
       }
     },
     "2dust/v2rayN": {
@@ -521,6 +906,12 @@
         "score": 63.2,
         "stars": 113663,
         "forks": 15688
+      },
+      "2026-W34": {
+        "rank": 71,
+        "score": 60.18,
+        "stars": 114014,
+        "forks": 15703
       }
     },
     "scikit-learn/scikit-learn": {
@@ -529,6 +920,12 @@
         "score": 63.13,
         "stars": 66960,
         "forks": 27285
+      },
+      "2026-W34": {
+        "rank": 94,
+        "score": 56.76,
+        "stars": 66963,
+        "forks": 27293
       }
     },
     "firstcontributions/first-contributions": {
@@ -537,6 +934,12 @@
         "score": 62.82,
         "stars": 55455,
         "forks": 107808
+      },
+      "2026-W34": {
+        "rank": 67,
+        "score": 60.68,
+        "stars": 55527,
+        "forks": 107976
       }
     },
     "bytedance/deer-flow": {
@@ -545,6 +948,12 @@
         "score": 62.77,
         "stars": 79846,
         "forks": 10924
+      },
+      "2026-W34": {
+        "rank": 64,
+        "score": 61.44,
+        "stars": 80123,
+        "forks": 10971
       }
     },
     "browser-use/browser-use": {
@@ -553,6 +962,12 @@
         "score": 62.57,
         "stars": 108945,
         "forks": 11969
+      },
+      "2026-W34": {
+        "rank": 61,
+        "score": 62.34,
+        "stars": 109475,
+        "forks": 12034
       }
     },
     "Shubhamsaboo/awesome-llm-apps": {
@@ -561,6 +976,12 @@
         "score": 62.07,
         "stars": 132309,
         "forks": 19465
+      },
+      "2026-W34": {
+        "rank": 82,
+        "score": 58.09,
+        "stars": 132916,
+        "forks": 19557
       }
     },
     "OpenHands/OpenHands": {
@@ -569,6 +990,12 @@
         "score": 62.4,
         "stars": 83812,
         "forks": 10844
+      },
+      "2026-W34": {
+        "rank": 48,
+        "score": 64.79,
+        "stars": 84253,
+        "forks": 10942
       }
     },
     "vitejs/vite": {
@@ -577,6 +1004,12 @@
         "score": 62.32,
         "stars": 82330,
         "forks": 8635
+      },
+      "2026-W34": {
+        "rank": 89,
+        "score": 57.32,
+        "stars": 82368,
+        "forks": 8656
       }
     },
     "TheAlgorithms/Python": {
@@ -585,6 +1018,12 @@
         "score": 61.84,
         "stars": 223680,
         "forks": 50961
+      },
+      "2026-W34": {
+        "rank": 107,
+        "score": 54.9,
+        "stars": 223787,
+        "forks": 50963
       }
     },
     "koala73/worldmonitor": {
@@ -593,6 +1032,12 @@
         "score": 61.63,
         "stars": 81188,
         "forks": 12138
+      },
+      "2026-W34": {
+        "rank": 40,
+        "score": 66.02,
+        "stars": 82494,
+        "forks": 12316
       }
     },
     "golang/go": {
@@ -601,6 +1046,12 @@
         "score": 61.72,
         "stars": 135733,
         "forks": 19278
+      },
+      "2026-W34": {
+        "rank": 114,
+        "score": 53.92,
+        "stars": 135823,
+        "forks": 19277
       }
     },
     "denoland/deno": {
@@ -609,6 +1060,12 @@
         "score": 61.65,
         "stars": 108255,
         "forks": 6336
+      },
+      "2026-W34": {
+        "rank": 100,
+        "score": 55.98,
+        "stars": 108257,
+        "forks": 6341
       }
     },
     "fastapi/fastapi": {
@@ -617,6 +1074,12 @@
         "score": 61.55,
         "stars": 101531,
         "forks": 9773
+      },
+      "2026-W34": {
+        "rank": 79,
+        "score": 58.73,
+        "stars": 101629,
+        "forks": 9785
       }
     },
     "nilbuild/developer-roadmap": {
@@ -625,6 +1088,12 @@
         "score": 61.42,
         "stars": 364247,
         "forks": 44769
+      },
+      "2026-W34": {
+        "rank": 57,
+        "score": 62.81,
+        "stars": 364678,
+        "forks": 44803
       }
     },
     "spring-projects/spring-framework": {
@@ -633,6 +1102,12 @@
         "score": 61.34,
         "stars": 60211,
         "forks": 38804
+      },
+      "2026-W34": {
+        "rank": 119,
+        "score": 53.05,
+        "stars": 60192,
+        "forks": 38783
       }
     },
     "EbookFoundation/free-programming-books": {
@@ -641,6 +1116,12 @@
         "score": 60.95,
         "stars": 394243,
         "forks": 66649
+      },
+      "2026-W34": {
+        "rank": 56,
+        "score": 62.95,
+        "stars": 394593,
+        "forks": 66660
       }
     },
     "ruvnet/RuView": {
@@ -649,6 +1130,12 @@
         "score": 60.9,
         "stars": 89770,
         "forks": 11936
+      },
+      "2026-W34": {
+        "rank": 53,
+        "score": 63.51,
+        "stars": 90401,
+        "forks": 12014
       }
     },
     "localsend/localsend": {
@@ -657,6 +1144,12 @@
         "score": 60.85,
         "stars": 87659,
         "forks": 4864
+      },
+      "2026-W34": {
+        "rank": 92,
+        "score": 57.05,
+        "stars": 88510,
+        "forks": 4912
       }
     },
     "farion1231/cc-switch": {
@@ -665,6 +1158,12 @@
         "score": 60.62,
         "stars": 126705,
         "forks": 8646
+      },
+      "2026-W34": {
+        "rank": 45,
+        "score": 65.29,
+        "stars": 127692,
+        "forks": 8735
       }
     },
     "headroomlabs-ai/headroom": {
@@ -673,6 +1172,12 @@
         "score": 60.42,
         "stars": 66061,
         "forks": 5048
+      },
+      "2026-W34": {
+        "rank": 65,
+        "score": 61.08,
+        "stars": 66567,
+        "forks": 5111
       }
     },
     "firecrawl/firecrawl": {
@@ -681,6 +1186,12 @@
         "score": 60.25,
         "stars": 166340,
         "forks": 9345
+      },
+      "2026-W34": {
+        "rank": 46,
+        "score": 64.94,
+        "stars": 168302,
+        "forks": 9416
       }
     },
     "tw93/Mole": {
@@ -689,6 +1200,12 @@
         "score": 60.23,
         "stars": 63260,
         "forks": 2225
+      },
+      "2026-W34": {
+        "rank": 78,
+        "score": 58.82,
+        "stars": 63822,
+        "forks": 2246
       }
     },
     "axios/axios": {
@@ -697,6 +1214,12 @@
         "score": 60.21,
         "stars": 109229,
         "forks": 11816
+      },
+      "2026-W34": {
+        "rank": 118,
+        "score": 53.2,
+        "stars": 109207,
+        "forks": 11819
       }
     },
     "microsoft/markitdown": {
@@ -705,6 +1228,12 @@
         "score": 60.02,
         "stars": 173354,
         "forks": 12659
+      },
+      "2026-W34": {
+        "rank": 106,
+        "score": 55.03,
+        "stars": 174144,
+        "forks": 12721
       }
     },
     "python/cpython": {
@@ -713,6 +1242,12 @@
         "score": 59.67,
         "stars": 74296,
         "forks": 35200
+      },
+      "2026-W34": {
+        "rank": 86,
+        "score": 57.71,
+        "stars": 74342,
+        "forks": 35220
       }
     },
     "louislam/uptime-kuma": {
@@ -721,6 +1256,12 @@
         "score": 60.07,
         "stars": 90112,
         "forks": 8235
+      },
+      "2026-W34": {
+        "rank": 84,
+        "score": 57.89,
+        "stars": 90233,
+        "forks": 8252
       }
     },
     "f/prompts.chat": {
@@ -729,6 +1270,12 @@
         "score": 59.44,
         "stars": 167051,
         "forks": 21562
+      },
+      "2026-W34": {
+        "rank": 121,
+        "score": 52.5,
+        "stars": 167282,
+        "forks": 21593
       }
     },
     "Stirling-Tools/Stirling-PDF": {
@@ -737,6 +1284,12 @@
         "score": 59.34,
         "stars": 89393,
         "forks": 8079
+      },
+      "2026-W34": {
+        "rank": 81,
+        "score": 58.26,
+        "stars": 89644,
+        "forks": 8100
       }
     },
     "justjavac/free-programming-books-zh_CN": {
@@ -745,6 +1298,12 @@
         "score": 58.97,
         "stars": 118306,
         "forks": 28247
+      },
+      "2026-W34": {
+        "rank": 139,
+        "score": 49.35,
+        "stars": 118367,
+        "forks": 28253
       }
     },
     "opencv/opencv": {
@@ -753,6 +1312,12 @@
         "score": 58.86,
         "stars": 90396,
         "forks": 56969
+      },
+      "2026-W34": {
+        "rank": 91,
+        "score": 57.08,
+        "stars": 90458,
+        "forks": 56972
       }
     },
     "puppeteer/puppeteer": {
@@ -761,6 +1326,12 @@
         "score": 58.71,
         "stars": 95453,
         "forks": 9562
+      },
+      "2026-W34": {
+        "rank": 113,
+        "score": 53.96,
+        "stars": 95464,
+        "forks": 9569
       }
     },
     "thedotmack/claude-mem": {
@@ -769,6 +1340,12 @@
         "score": 58.54,
         "stars": 90534,
         "forks": 7891
+      },
+      "2026-W34": {
+        "rank": 87,
+        "score": 57.65,
+        "stars": 90928,
+        "forks": 7944
       }
     },
     "github/gitignore": {
@@ -777,6 +1354,12 @@
         "score": 58.22,
         "stars": 175264,
         "forks": 82287
+      },
+      "2026-W34": {
+        "rank": 141,
+        "score": 49.01,
+        "stars": 175337,
+        "forks": 82274
       }
     },
     "syncthing/syncthing": {
@@ -784,6 +1367,12 @@
         "rank": 98,
         "score": 58.16,
         "stars": 87600,
+        "forks": 5413
+      },
+      "2026-W34": {
+        "rank": 126,
+        "score": 50.92,
+        "stars": 87709,
         "forks": 5413
       }
     },
@@ -793,6 +1382,12 @@
         "score": 57.99,
         "stars": 53678,
         "forks": 33405
+      },
+      "2026-W34": {
+        "rank": 122,
+        "score": 52.3,
+        "stars": 53743,
+        "forks": 33434
       }
     },
     "ripienaar/free-for-dev": {
@@ -801,6 +1396,12 @@
         "score": 57.66,
         "stars": 131561,
         "forks": 13804
+      },
+      "2026-W34": {
+        "rank": 97,
+        "score": 56.17,
+        "stars": 132008,
+        "forks": 13848
       }
     },
     "fatedier/frp": {
@@ -809,6 +1410,12 @@
         "score": 57.3,
         "stars": 108756,
         "forks": 15174
+      },
+      "2026-W34": {
+        "rank": 124,
+        "score": 52.01,
+        "stars": 108821,
+        "forks": 15183
       }
     },
     "iptv-org/iptv": {
@@ -817,6 +1424,12 @@
         "score": 57.2,
         "stars": 135717,
         "forks": 7810
+      },
+      "2026-W34": {
+        "rank": 83,
+        "score": 58.06,
+        "stars": 135999,
+        "forks": 7834
       }
     },
     "tensorflow/models": {
@@ -825,6 +1438,12 @@
         "score": 56.92,
         "stars": 77661,
         "forks": 44911
+      },
+      "2026-W34": {
+        "rank": 161,
+        "score": 44.71,
+        "stars": 77653,
+        "forks": 44900
       }
     },
     "excalidraw/excalidraw": {
@@ -833,6 +1452,12 @@
         "score": 56.92,
         "stars": 129435,
         "forks": 14829
+      },
+      "2026-W34": {
+        "rank": 109,
+        "score": 54.64,
+        "stars": 129837,
+        "forks": 14947
       }
     },
     "pbakaus/impeccable": {
@@ -841,6 +1466,12 @@
         "score": 56.88,
         "stars": 58521,
         "forks": 3574
+      },
+      "2026-W34": {
+        "rank": 72,
+        "score": 59.48,
+        "stars": 59735,
+        "forks": 3655
       }
     },
     "code-yeongyu/oh-my-openagent": {
@@ -849,6 +1480,12 @@
         "score": 57.28,
         "stars": 67758,
         "forks": 5540
+      },
+      "2026-W34": {
+        "rank": 95,
+        "score": 56.53,
+        "stars": 67980,
+        "forks": 5549
       }
     },
     "netdata/netdata": {
@@ -857,6 +1494,12 @@
         "score": 56.56,
         "stars": 80147,
         "forks": 6580
+      },
+      "2026-W34": {
+        "rank": 110,
+        "score": 54.5,
+        "stars": 80208,
+        "forks": 6583
       }
     },
     "yangshun/tech-interview-handbook": {
@@ -865,6 +1508,12 @@
         "score": 56.39,
         "stars": 141804,
         "forks": 16758
+      },
+      "2026-W34": {
+        "rank": 151,
+        "score": 47.64,
+        "stars": 141924,
+        "forks": 16752
       }
     },
     "avelino/awesome-go": {
@@ -873,6 +1522,12 @@
         "score": 56.35,
         "stars": 180885,
         "forks": 13481
+      },
+      "2026-W34": {
+        "rank": 99,
+        "score": 56.01,
+        "stars": 181264,
+        "forks": 13487
       }
     },
     "FlowiseAI/Flowise": {
@@ -889,6 +1544,12 @@
         "score": 56.06,
         "stars": 95890,
         "forks": 13997
+      },
+      "2026-W34": {
+        "rank": 137,
+        "score": 49.55,
+        "stars": 95978,
+        "forks": 13996
       }
     },
     "Graphify-Labs/graphify": {
@@ -897,6 +1558,12 @@
         "score": 55.92,
         "stars": 105600,
         "forks": 10294
+      },
+      "2026-W34": {
+        "rank": 55,
+        "score": 63.27,
+        "stars": 107222,
+        "forks": 10418
       }
     },
     "666ghj/MiroFish": {
@@ -905,6 +1572,12 @@
         "score": 55.98,
         "stars": 70894,
         "forks": 11048
+      },
+      "2026-W34": {
+        "rank": 127,
+        "score": 50.92,
+        "stars": 71082,
+        "forks": 11058
       }
     },
     "punkpeye/awesome-mcp-servers": {
@@ -913,6 +1586,12 @@
         "score": 55.62,
         "stars": 92146,
         "forks": 14383
+      },
+      "2026-W34": {
+        "rank": 103,
+        "score": 55.76,
+        "stars": 92460,
+        "forks": 14591
       }
     },
     "microsoft/terminal": {
@@ -921,6 +1600,12 @@
         "score": 55.6,
         "stars": 104583,
         "forks": 9510
+      },
+      "2026-W34": {
+        "rank": 117,
+        "score": 53.2,
+        "stars": 104615,
+        "forks": 9527
       }
     },
     "django/django": {
@@ -929,6 +1614,12 @@
         "score": 55.58,
         "stars": 88417,
         "forks": 34130
+      },
+      "2026-W34": {
+        "rank": 134,
+        "score": 49.83,
+        "stars": 88427,
+        "forks": 34143
       }
     },
     "gohugoio/hugo": {
@@ -937,6 +1628,12 @@
         "score": 55.47,
         "stars": 89424,
         "forks": 8342
+      },
+      "2026-W34": {
+        "rank": 131,
+        "score": 50.54,
+        "stars": 89436,
+        "forks": 8336
       }
     },
     "tauri-apps/tauri": {
@@ -945,6 +1642,12 @@
         "score": 55.4,
         "stars": 110152,
         "forks": 3859
+      },
+      "2026-W34": {
+        "rank": 116,
+        "score": 53.32,
+        "stars": 110284,
+        "forks": 3862
       }
     },
     "Snailclimb/JavaGuide": {
@@ -953,6 +1656,12 @@
         "score": 55.3,
         "stars": 157730,
         "forks": 46180
+      },
+      "2026-W34": {
+        "rank": 105,
+        "score": 55.12,
+        "stars": 157815,
+        "forks": 46174
       }
     },
     "laravel/laravel": {
@@ -961,6 +1670,12 @@
         "score": 55.2,
         "stars": 84801,
         "forks": 24897
+      },
+      "2026-W34": {
+        "rank": 136,
+        "score": 49.73,
+        "stars": 84811,
+        "forks": 24903
       }
     },
     "sveltejs/svelte": {
@@ -969,6 +1684,12 @@
         "score": 55.48,
         "stars": 87968,
         "forks": 5202
+      },
+      "2026-W34": {
+        "rank": 144,
+        "score": 48.7,
+        "stars": 87984,
+        "forks": 5203
       }
     },
     "MemPalace/mempalace": {
@@ -977,6 +1698,12 @@
         "score": 54.68,
         "stars": 58326,
         "forks": 7498
+      },
+      "2026-W34": {
+        "rank": 130,
+        "score": 50.72,
+        "stars": 58412,
+        "forks": 7495
       }
     },
     "Chalarangelo/30-seconds-of-code": {
@@ -985,6 +1712,12 @@
         "score": 54.55,
         "stars": 128693,
         "forks": 12487
+      },
+      "2026-W34": {
+        "rank": 154,
+        "score": 46.96,
+        "stars": 128737,
+        "forks": 12486
       }
     },
     "torvalds/linux": {
@@ -993,6 +1726,12 @@
         "score": 54.15,
         "stars": 242615,
         "forks": 63886
+      },
+      "2026-W34": {
+        "rank": 93,
+        "score": 56.76,
+        "stars": 243082,
+        "forks": 63948
       }
     },
     "obra/superpowers": {
@@ -1001,6 +1740,12 @@
         "score": 54,
         "stars": 271173,
         "forks": 24234
+      },
+      "2026-W34": {
+        "rank": 52,
+        "score": 63.51,
+        "stars": 272916,
+        "forks": 24406
       }
     },
     "modelcontextprotocol/servers": {
@@ -1009,6 +1754,12 @@
         "score": 53.93,
         "stars": 89492,
         "forks": 11434
+      },
+      "2026-W34": {
+        "rank": 125,
+        "score": 51.31,
+        "stars": 89614,
+        "forks": 11459
       }
     },
     "tailwindlabs/tailwindcss": {
@@ -1017,6 +1768,12 @@
         "score": 53.59,
         "stars": 97219,
         "forks": 5579
+      },
+      "2026-W34": {
+        "rank": 132,
+        "score": 50.26,
+        "stars": 97260,
+        "forks": 5582
       }
     },
     "ZhuLinsen/daily_stock_analysis": {
@@ -1025,6 +1782,12 @@
         "score": 53.09,
         "stars": 62559,
         "forks": 52627
+      },
+      "2026-W34": {
+        "rank": 75,
+        "score": 59.01,
+        "stars": 63066,
+        "forks": 53048
       }
     },
     "krahets/hello-algo": {
@@ -1033,6 +1796,12 @@
         "score": 52.56,
         "stars": 129378,
         "forks": 15511
+      },
+      "2026-W34": {
+        "rank": 175,
+        "score": 41.63,
+        "stars": 129428,
+        "forks": 15509
       }
     },
     "mattpocock/skills": {
@@ -1041,6 +1810,12 @@
         "score": 52.46,
         "stars": 214871,
         "forks": 18540
+      },
+      "2026-W34": {
+        "rank": 63,
+        "score": 61.59,
+        "stars": 219595,
+        "forks": 18906
       }
     },
     "jaywcjlove/awesome-mac": {
@@ -1049,6 +1824,12 @@
         "score": 52.46,
         "stars": 110789,
         "forks": 8435
+      },
+      "2026-W34": {
+        "rank": 120,
+        "score": 52.54,
+        "stars": 111236,
+        "forks": 8488
       }
     },
     "garrytan/gstack": {
@@ -1057,6 +1838,12 @@
         "score": 52.26,
         "stars": 127679,
         "forks": 19224
+      },
+      "2026-W34": {
+        "rank": 152,
+        "score": 47.56,
+        "stars": 128305,
+        "forks": 19310
       }
     },
     "anthropics/claude-code": {
@@ -1065,6 +1852,12 @@
         "score": 52.17,
         "stars": 141209,
         "forks": 22684
+      },
+      "2026-W34": {
+        "rank": 85,
+        "score": 57.84,
+        "stars": 141705,
+        "forks": 22748
       }
     },
     "junegunn/fzf": {
@@ -1073,6 +1866,12 @@
         "score": 52.14,
         "stars": 82530,
         "forks": 2863
+      },
+      "2026-W34": {
+        "rank": 168,
+        "score": 43.66,
+        "stars": 82550,
+        "forks": 2852
       }
     },
     "openai/whisper": {
@@ -1081,6 +1880,12 @@
         "score": 52.04,
         "stars": 107155,
         "forks": 13005
+      },
+      "2026-W34": {
+        "rank": 159,
+        "score": 45.6,
+        "stars": 107415,
+        "forks": 13051
       }
     },
     "3b1b/manim": {
@@ -1089,6 +1894,12 @@
         "score": 51.9,
         "stars": 90539,
         "forks": 7507
+      },
+      "2026-W34": {
+        "rank": 142,
+        "score": 48.86,
+        "stars": 91391,
+        "forks": 7556
       }
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
@@ -1097,6 +1908,12 @@
         "score": 51.79,
         "stars": 116069,
         "forks": 12456
+      },
+      "2026-W34": {
+        "rank": 90,
+        "score": 57.26,
+        "stars": 117411,
+        "forks": 12623
       }
     },
     "Panniantong/Agent-Reach": {
@@ -1105,6 +1922,12 @@
         "score": 51.4,
         "stars": 71059,
         "forks": 6019
+      },
+      "2026-W34": {
+        "rank": 115,
+        "score": 53.44,
+        "stars": 72366,
+        "forks": 6150
       }
     },
     "ultraworkers/claw-code": {
@@ -1113,6 +1936,12 @@
         "score": 51.38,
         "stars": 195067,
         "forks": 109185
+      },
+      "2026-W34": {
+        "rank": 148,
+        "score": 47.85,
+        "stars": 195070,
+        "forks": 109091
       }
     },
     "mermaid-js/mermaid": {
@@ -1121,6 +1950,12 @@
         "score": 51.34,
         "stars": 89710,
         "forks": 9167
+      },
+      "2026-W34": {
+        "rank": 123,
+        "score": 52.15,
+        "stars": 89801,
+        "forks": 9178
       }
     },
     "sherlock-project/sherlock": {
@@ -1129,6 +1964,12 @@
         "score": 51,
         "stars": 89329,
         "forks": 10483
+      },
+      "2026-W34": {
+        "rank": 157,
+        "score": 45.73,
+        "stars": 89677,
+        "forks": 10526
       }
     },
     "ruvnet/ruflo": {
@@ -1137,6 +1978,12 @@
         "score": 50.92,
         "stars": 67720,
         "forks": 8106
+      },
+      "2026-W34": {
+        "rank": 112,
+        "score": 54,
+        "stars": 68032,
+        "forks": 8148
       }
     },
     "microsoft/TypeScript": {
@@ -1145,6 +1992,12 @@
         "score": 50.63,
         "stars": 110163,
         "forks": 13720
+      },
+      "2026-W34": {
+        "rank": 149,
+        "score": 47.77,
+        "stars": 110186,
+        "forks": 13721
       }
     },
     "vinta/awesome-python": {
@@ -1153,6 +2006,12 @@
         "score": 50.55,
         "stars": 313581,
         "forks": 28512
+      },
+      "2026-W34": {
+        "rank": 101,
+        "score": 55.97,
+        "stars": 314357,
+        "forks": 28526
       }
     },
     "rtk-ai/rtk": {
@@ -1161,6 +2020,12 @@
         "score": 50.43,
         "stars": 75878,
         "forks": 4773
+      },
+      "2026-W34": {
+        "rank": 111,
+        "score": 54.09,
+        "stars": 76317,
+        "forks": 4794
       }
     },
     "rasbt/LLMs-from-scratch": {
@@ -1169,6 +2034,12 @@
         "score": 50.14,
         "stars": 102511,
         "forks": 15707
+      },
+      "2026-W34": {
+        "rank": 156,
+        "score": 46.42,
+        "stars": 102805,
+        "forks": 15757
       }
     },
     "swisskyrepo/PayloadsAllTheThings": {
@@ -1177,6 +2048,12 @@
         "score": 50.1,
         "stars": 79983,
         "forks": 17273
+      },
+      "2026-W34": {
+        "rank": 192,
+        "score": 38.69,
+        "stars": 80107,
+        "forks": 17283
       }
     },
     "upstash/context7": {
@@ -1185,6 +2062,12 @@
         "score": 50.09,
         "stars": 60651,
         "forks": 2924
+      },
+      "2026-W34": {
+        "rank": 140,
+        "score": 49.34,
+        "stars": 60857,
+        "forks": 2934
       }
     },
     "jesseduffield/lazygit": {
@@ -1193,6 +2076,12 @@
         "score": 50.21,
         "stars": 81262,
         "forks": 2975
+      },
+      "2026-W34": {
+        "rank": 155,
+        "score": 46.83,
+        "stars": 81393,
+        "forks": 2986
       }
     },
     "hoppscotch/hoppscotch": {
@@ -1201,6 +2090,12 @@
         "score": 49.47,
         "stars": 80020,
         "forks": 6023
+      },
+      "2026-W34": {
+        "rank": 167,
+        "score": 43.69,
+        "stars": 80046,
+        "forks": 6033
       }
     },
     "harry0703/MoneyPrinterTurbo": {
@@ -1209,6 +2104,12 @@
         "score": 49.46,
         "stars": 102779,
         "forks": 15521
+      },
+      "2026-W34": {
+        "rank": 96,
+        "score": 56.49,
+        "stars": 104937,
+        "forks": 15952
       }
     },
     "datawhalechina/hello-agents": {
@@ -1217,6 +2118,12 @@
         "score": 49.07,
         "stars": 72564,
         "forks": 9034
+      },
+      "2026-W34": {
+        "rank": 128,
+        "score": 50.91,
+        "stars": 73287,
+        "forks": 9120
       }
     },
     "addyosmani/agent-skills": {
@@ -1225,6 +2132,12 @@
         "score": 48.1,
         "stars": 86520,
         "forks": 9293
+      },
+      "2026-W34": {
+        "rank": 108,
+        "score": 54.75,
+        "stars": 87848,
+        "forks": 9411
       }
     },
     "danielmiessler/SecLists": {
@@ -1233,6 +2146,12 @@
         "score": 47.78,
         "stars": 72802,
         "forks": 25078
+      },
+      "2026-W34": {
+        "rank": 165,
+        "score": 43.91,
+        "stars": 72886,
+        "forks": 25090
       }
     },
     "yt-dlp/yt-dlp": {
@@ -1241,6 +2160,12 @@
         "score": 47.73,
         "stars": 184066,
         "forks": 15856
+      },
+      "2026-W34": {
+        "rank": 80,
+        "score": 58.6,
+        "stars": 184944,
+        "forks": 15929
       }
     },
     "anthropics/skills": {
@@ -1249,6 +2174,12 @@
         "score": 47.73,
         "stars": 168483,
         "forks": 20071
+      },
+      "2026-W34": {
+        "rank": 153,
+        "score": 47.22,
+        "stars": 169814,
+        "forks": 20214
       }
     },
     "awesome-selfhosted/awesome-selfhosted": {
@@ -1257,6 +2188,12 @@
         "score": 47.37,
         "stars": 312216,
         "forks": 14649
+      },
+      "2026-W34": {
+        "rank": 147,
+        "score": 48.09,
+        "stars": 313149,
+        "forks": 14703
       }
     },
     "D4Vinci/Scrapling": {
@@ -1265,6 +2202,12 @@
         "score": 47.11,
         "stars": 73642,
         "forks": 7353
+      },
+      "2026-W34": {
+        "rank": 133,
+        "score": 50.22,
+        "stars": 74653,
+        "forks": 7460
       }
     },
     "Hack-with-Github/Awesome-Hacking": {
@@ -1273,6 +2216,12 @@
         "score": 46.95,
         "stars": 118093,
         "forks": 10627
+      },
+      "2026-W34": {
+        "rank": 178,
+        "score": 41.05,
+        "stars": 118472,
+        "forks": 10655
       }
     },
     "colbymchenry/codegraph": {
@@ -1281,6 +2230,12 @@
         "score": 46.92,
         "stars": 66082,
         "forks": 4163
+      },
+      "2026-W34": {
+        "rank": 158,
+        "score": 45.69,
+        "stars": 66663,
+        "forks": 4219
       }
     },
     "microsoft/generative-ai-for-beginners": {
@@ -1289,6 +2244,12 @@
         "score": 45.94,
         "stars": 117605,
         "forks": 62019
+      },
+      "2026-W34": {
+        "rank": 169,
+        "score": 43.33,
+        "stars": 117898,
+        "forks": 62210
       }
     },
     "DigitalPlatDev/FreeDomain": {
@@ -1297,6 +2258,12 @@
         "score": 45.87,
         "stars": 192471,
         "forks": 4087
+      },
+      "2026-W34": {
+        "rank": 177,
+        "score": 41.29,
+        "stars": 193768,
+        "forks": 4161
       }
     },
     "codecrafters-io/build-your-own-x": {
@@ -1305,6 +2272,12 @@
         "score": 45.65,
         "stars": 539067,
         "forks": 50908
+      },
+      "2026-W34": {
+        "rank": 180,
+        "score": 40.7,
+        "stars": 540320,
+        "forks": 51010
       }
     },
     "mvanhorn/last30days-skill": {
@@ -1313,6 +2286,12 @@
         "score": 45.49,
         "stars": 57999,
         "forks": 5038
+      },
+      "2026-W34": {
+        "rank": 129,
+        "score": 50.76,
+        "stars": 58423,
+        "forks": 5078
       }
     },
     "nvm-sh/nvm": {
@@ -1321,6 +2300,12 @@
         "score": 45.29,
         "stars": 94551,
         "forks": 10360
+      },
+      "2026-W34": {
+        "rank": 207,
+        "score": 35.49,
+        "stars": 94615,
+        "forks": 10371
       }
     },
     "microsoft/ai-agents-for-beginners": {
@@ -1329,6 +2314,12 @@
         "score": 45.18,
         "stars": 72005,
         "forks": 23855
+      },
+      "2026-W34": {
+        "rank": 163,
+        "score": 44.27,
+        "stars": 72366,
+        "forks": 23966
       }
     },
     "vuejs/vue": {
@@ -1337,6 +2328,12 @@
         "score": 44.86,
         "stars": 210234,
         "forks": 33775
+      },
+      "2026-W34": {
+        "rank": 185,
+        "score": 39.76,
+        "stars": 210235,
+        "forks": 33769
       }
     },
     "jackfrued/Python-100-Days": {
@@ -1345,6 +2342,12 @@
         "score": 44.83,
         "stars": 185140,
         "forks": 55701
+      },
+      "2026-W34": {
+        "rank": 190,
+        "score": 38.77,
+        "stars": 185259,
+        "forks": 55684
       }
     },
     "521xueweihan/HelloGitHub": {
@@ -1353,6 +2356,12 @@
         "score": 44.11,
         "stars": 170535,
         "forks": 12585
+      },
+      "2026-W34": {
+        "rank": 160,
+        "score": 44.72,
+        "stars": 171278,
+        "forks": 12604
       }
     },
     "Egonex-AI/Understand-Anything": {
@@ -1361,6 +2370,12 @@
         "score": 43.84,
         "stars": 79094,
         "forks": 6641
+      },
+      "2026-W34": {
+        "rank": 162,
+        "score": 44.32,
+        "stars": 79554,
+        "forks": 6680
       }
     },
     "shareAI-lab/learn-claude-code": {
@@ -1369,6 +2384,12 @@
         "score": 43.42,
         "stars": 73990,
         "forks": 11986
+      },
+      "2026-W34": {
+        "rank": 150,
+        "score": 47.64,
+        "stars": 74421,
+        "forks": 12046
       }
     },
     "ossu/computer-science": {
@@ -1377,6 +2398,12 @@
         "score": 43.39,
         "stars": 207927,
         "forks": 25748
+      },
+      "2026-W34": {
+        "rank": 209,
+        "score": 35.09,
+        "stars": 208062,
+        "forks": 25756
       }
     },
     "AUTOMATIC1111/stable-diffusion-webui": {
@@ -1385,6 +2412,12 @@
         "score": 43.22,
         "stars": 164497,
         "forks": 30567
+      },
+      "2026-W34": {
+        "rank": 189,
+        "score": 38.92,
+        "stars": 164534,
+        "forks": 30552
       }
     },
     "git/git": {
@@ -1393,6 +2426,12 @@
         "score": 42.88,
         "stars": 62532,
         "forks": 28243
+      },
+      "2026-W34": {
+        "rank": 183,
+        "score": 40.05,
+        "stars": 62600,
+        "forks": 28257
       }
     },
     "jwasham/coding-interview-university": {
@@ -1401,6 +2440,12 @@
         "score": 42.64,
         "stars": 358507,
         "forks": 84606
+      },
+      "2026-W34": {
+        "rank": 170,
+        "score": 43.2,
+        "stars": 358996,
+        "forks": 84653
       }
     },
     "Anduin2017/HowToCook": {
@@ -1409,6 +2454,12 @@
         "score": 42.57,
         "stars": 101748,
         "forks": 11085
+      },
+      "2026-W34": {
+        "rank": 181,
+        "score": 40.41,
+        "stars": 101854,
+        "forks": 11082
       }
     },
     "react/create-react-app": {
@@ -1417,6 +2468,12 @@
         "score": 42.39,
         "stars": 103316,
         "forks": 26930
+      },
+      "2026-W34": {
+        "rank": 198,
+        "score": 36.95,
+        "stars": 103296,
+        "forks": 26924
       }
     },
     "OpenCut-app/OpenCut": {
@@ -1425,6 +2482,12 @@
         "score": 42.18,
         "stars": 82512,
         "forks": 8153
+      },
+      "2026-W34": {
+        "rank": 164,
+        "score": 44.27,
+        "stars": 84152,
+        "forks": 8307
       }
     },
     "tonsky/FiraCode": {
@@ -1433,6 +2496,12 @@
         "score": 42.18,
         "stars": 81922,
         "forks": 3187
+      },
+      "2026-W34": {
+        "rank": 219,
+        "score": 31.18,
+        "stars": 81929,
+        "forks": 3186
       }
     },
     "996icu/996.ICU": {
@@ -1441,6 +2510,12 @@
         "score": 41.41,
         "stars": 276622,
         "forks": 20762
+      },
+      "2026-W34": {
+        "rank": 194,
+        "score": 37.32,
+        "stars": 276665,
+        "forks": 20754
       }
     },
     "getify/You-Dont-Know-JS": {
@@ -1449,6 +2524,12 @@
         "score": 41.36,
         "stars": 184647,
         "forks": 33443
+      },
+      "2026-W34": {
+        "rank": 196,
+        "score": 37.16,
+        "stars": 184685,
+        "forks": 33440
       }
     },
     "odysseus-dev/odysseus": {
@@ -1457,6 +2538,12 @@
         "score": 41.08,
         "stars": 85242,
         "forks": 435
+      },
+      "2026-W34": {
+        "rank": 146,
+        "score": 48.17,
+        "stars": 85492,
+        "forks": 487
       }
     },
     "ruanyf/weekly": {
@@ -1465,6 +2552,12 @@
         "score": 41.01,
         "stars": 100131,
         "forks": 4347
+      },
+      "2026-W34": {
+        "rank": 193,
+        "score": 38.29,
+        "stars": 100557,
+        "forks": 4356
       }
     },
     "airbnb/javascript": {
@@ -1473,6 +2566,12 @@
         "score": 40.83,
         "stars": 148131,
         "forks": 26613
+      },
+      "2026-W34": {
+        "rank": 203,
+        "score": 36.55,
+        "stars": 148149,
+        "forks": 26605
       }
     },
     "d3/d3": {
@@ -1481,6 +2580,12 @@
         "score": 40.81,
         "stars": 113449,
         "forks": 22683
+      },
+      "2026-W34": {
+        "rank": 202,
+        "score": 36.58,
+        "stars": 113490,
+        "forks": 22677
       }
     },
     "PaddlePaddle/PaddleOCR": {
@@ -1489,6 +2594,12 @@
         "score": 40.73,
         "stars": 87520,
         "forks": 11170
+      },
+      "2026-W34": {
+        "rank": 172,
+        "score": 42.47,
+        "stars": 87763,
+        "forks": 11180
       }
     },
     "JuliusBrussee/caveman": {
@@ -1497,6 +2608,12 @@
         "score": 40.37,
         "stars": 97738,
         "forks": 5637
+      },
+      "2026-W34": {
+        "rank": 138,
+        "score": 49.39,
+        "stars": 98581,
+        "forks": 5708
       }
     },
     "CyC2018/CS-Notes": {
@@ -1505,6 +2622,12 @@
         "score": 40.35,
         "stars": 185033,
         "forks": 50788
+      },
+      "2026-W34": {
+        "rank": 186,
+        "score": 39.64,
+        "stars": 185358,
+        "forks": 50792
       }
     },
     "donnemartin/system-design-primer": {
@@ -1513,6 +2636,12 @@
         "score": 40.18,
         "stars": 363425,
         "forks": 57793
+      },
+      "2026-W34": {
+        "rank": 174,
+        "score": 42.01,
+        "stars": 364286,
+        "forks": 57880
       }
     },
     "asgeirtj/system_prompts_leaks": {
@@ -1521,6 +2650,12 @@
         "score": 39.99,
         "stars": 62784,
         "forks": 10313
+      },
+      "2026-W34": {
+        "rank": 208,
+        "score": 35.21,
+        "stars": 63038,
+        "forks": 10349
       }
     },
     "ytdl-org/youtube-dl": {
@@ -1529,6 +2664,12 @@
         "score": 39.67,
         "stars": 140941,
         "forks": 10666
+      },
+      "2026-W34": {
+        "rank": 206,
+        "score": 35.63,
+        "stars": 140976,
+        "forks": 10669
       }
     },
     "virattt/ai-hedge-fund": {
@@ -1537,6 +2678,12 @@
         "score": 39.04,
         "stars": 62823,
         "forks": 11061
+      },
+      "2026-W34": {
+        "rank": 215,
+        "score": 32.6,
+        "stars": 62895,
+        "forks": 11066
       }
     },
     "microsoft/Web-Dev-For-Beginners": {
@@ -1545,6 +2692,12 @@
         "score": 38.97,
         "stars": 96333,
         "forks": 15767
+      },
+      "2026-W34": {
+        "rank": 212,
+        "score": 34.27,
+        "stars": 96360,
+        "forks": 15777
       }
     },
     "deepseek-ai/DeepSeek-V3": {
@@ -1553,6 +2706,12 @@
         "score": 38.81,
         "stars": 104169,
         "forks": 16723
+      },
+      "2026-W34": {
+        "rank": 195,
+        "score": 37.27,
+        "stars": 104313,
+        "forks": 16730
       }
     },
     "massgravel/Microsoft-Activation-Scripts": {
@@ -1561,6 +2720,12 @@
         "score": 38.77,
         "stars": 186813,
         "forks": 17873
+      },
+      "2026-W34": {
+        "rank": 171,
+        "score": 42.88,
+        "stars": 187262,
+        "forks": 17911
       }
     },
     "DietrichGebert/ponytail": {
@@ -1569,6 +2734,12 @@
         "score": 38.75,
         "stars": 101410,
         "forks": 5580
+      },
+      "2026-W34": {
+        "rank": 135,
+        "score": 49.77,
+        "stars": 104277,
+        "forks": 5748
       }
     },
     "ComposioHQ/awesome-claude-skills": {
@@ -1577,6 +2748,12 @@
         "score": 38.24,
         "stars": 72358,
         "forks": 8237
+      },
+      "2026-W34": {
+        "rank": 213,
+        "score": 33.64,
+        "stars": 72630,
+        "forks": 8290
       }
     },
     "trimstray/the-book-of-secret-knowledge": {
@@ -1585,6 +2762,12 @@
         "score": 37.63,
         "stars": 237986,
         "forks": 14093
+      },
+      "2026-W34": {
+        "rank": 187,
+        "score": 39.06,
+        "stars": 238769,
+        "forks": 14130
       }
     },
     "multica-ai/andrej-karpathy-skills": {
@@ -1593,6 +2776,12 @@
         "score": 37.11,
         "stars": 201831,
         "forks": 20708
+      },
+      "2026-W34": {
+        "rank": 182,
+        "score": 40.32,
+        "stars": 203174,
+        "forks": 20842
       }
     },
     "ChatGPTNextWeb/NextChat": {
@@ -1601,6 +2790,12 @@
         "score": 37.06,
         "stars": 88610,
         "forks": 59278
+      },
+      "2026-W34": {
+        "rank": 200,
+        "score": 36.74,
+        "stars": 88616,
+        "forks": 59242
       }
     },
     "labuladong/fucking-algorithm": {
@@ -1609,6 +2804,12 @@
         "score": 36.53,
         "stars": 135317,
         "forks": 23582
+      },
+      "2026-W34": {
+        "rank": 204,
+        "score": 35.66,
+        "stars": 135363,
+        "forks": 23572
       }
     },
     "msitarzewski/agency-agents": {
@@ -1617,6 +2818,12 @@
         "score": 36.19,
         "stars": 144415,
         "forks": 23405
+      },
+      "2026-W34": {
+        "rank": 166,
+        "score": 43.82,
+        "stars": 145896,
+        "forks": 23577
       }
     },
     "TauricResearch/TradingAgents": {
@@ -1625,6 +2832,12 @@
         "score": 35.57,
         "stars": 97825,
         "forks": 18815
+      },
+      "2026-W34": {
+        "rank": 179,
+        "score": 40.74,
+        "stars": 98554,
+        "forks": 19004
       }
     },
     "x1xhlol/system-prompts-and-models-of-ai-tools": {
@@ -1633,6 +2846,12 @@
         "score": 35.38,
         "stars": 142754,
         "forks": 34837
+      },
+      "2026-W34": {
+        "rank": 199,
+        "score": 36.78,
+        "stars": 142877,
+        "forks": 34843
       }
     },
     "deepseek-ai/DeepSeek-R1": {
@@ -1641,6 +2860,12 @@
         "score": 35.05,
         "stars": 91973,
         "forks": 11704
+      },
+      "2026-W34": {
+        "rank": 217,
+        "score": 31.83,
+        "stars": 92035,
+        "forks": 11708
       }
     },
     "PanJiaChen/vue-element-admin": {
@@ -1649,6 +2874,12 @@
         "score": 34.93,
         "stars": 90219,
         "forks": 30364
+      },
+      "2026-W34": {
+        "rank": 225,
+        "score": 29.52,
+        "stars": 90198,
+        "forks": 30358
       }
     },
     "practical-tutorials/project-based-learning": {
@@ -1657,6 +2888,12 @@
         "score": 34.66,
         "stars": 278815,
         "forks": 35814
+      },
+      "2026-W34": {
+        "rank": 173,
+        "score": 42.12,
+        "stars": 279533,
+        "forks": 35894
       }
     },
     "MunGell/awesome-for-beginners": {
@@ -1665,6 +2902,12 @@
         "score": 34.58,
         "stars": 88297,
         "forks": 7975
+      },
+      "2026-W34": {
+        "rank": 201,
+        "score": 36.61,
+        "stars": 88444,
+        "forks": 7973
       }
     },
     "macrozheng/mall": {
@@ -1673,6 +2916,12 @@
         "score": 34.53,
         "stars": 84575,
         "forks": 29826
+      },
+      "2026-W34": {
+        "rank": 229,
+        "score": 27.43,
+        "stars": 84560,
+        "forks": 29817
       }
     },
     "jlevy/the-art-of-command-line": {
@@ -1681,6 +2930,12 @@
         "score": 34.24,
         "stars": 162092,
         "forks": 14836
+      },
+      "2026-W34": {
+        "rank": 223,
+        "score": 29.84,
+        "stars": 162122,
+        "forks": 14834
       }
     },
     "shanraisshan/claude-code-best-practice": {
@@ -1689,6 +2944,12 @@
         "score": 33.48,
         "stars": 64388,
         "forks": 6394
+      },
+      "2026-W34": {
+        "rank": 211,
+        "score": 34.57,
+        "stars": 64590,
+        "forks": 6416
       }
     },
     "expressjs/express": {
@@ -1697,6 +2958,12 @@
         "score": 33.3,
         "stars": 69356,
         "forks": 24662
+      },
+      "2026-W34": {
+        "rank": 210,
+        "score": 34.67,
+        "stars": 69374,
+        "forks": 24678
       }
     },
     "sindresorhus/awesome": {
@@ -1705,6 +2972,12 @@
         "score": 33.05,
         "stars": 494898,
         "forks": 36341
+      },
+      "2026-W34": {
+        "rank": 176,
+        "score": 41.57,
+        "stars": 496689,
+        "forks": 36435
       }
     },
     "trekhleb/javascript-algorithms": {
@@ -1713,6 +2986,12 @@
         "score": 32.69,
         "stars": 196446,
         "forks": 31040
+      },
+      "2026-W34": {
+        "rank": 205,
+        "score": 35.65,
+        "stars": 196506,
+        "forks": 31038
       }
     },
     "d2l-ai/d2l-zh": {
@@ -1721,6 +3000,12 @@
         "score": 32.6,
         "stars": 79634,
         "forks": 12321
+      },
+      "2026-W34": {
+        "rank": 220,
+        "score": 30.65,
+        "stars": 79753,
+        "forks": 12330
       }
     },
     "microsoft/ML-For-Beginners": {
@@ -1729,6 +3014,12 @@
         "score": 32.31,
         "stars": 89314,
         "forks": 21913
+      },
+      "2026-W34": {
+        "rank": 214,
+        "score": 33.18,
+        "stars": 89441,
+        "forks": 21954
       }
     },
     "animate-css/animate.css": {
@@ -1737,6 +3028,12 @@
         "score": 32.21,
         "stars": 82738,
         "forks": 15930
+      },
+      "2026-W34": {
+        "rank": 230,
+        "score": 27.27,
+        "stars": 82739,
+        "forks": 15931
       }
     },
     "VoltAgent/awesome-design-md": {
@@ -1745,6 +3042,12 @@
         "score": 32.19,
         "stars": 108054,
         "forks": 12337
+      },
+      "2026-W34": {
+        "rank": 184,
+        "score": 39.88,
+        "stars": 108824,
+        "forks": 12417
       }
     },
     "karpathy/autoresearch": {
@@ -1753,6 +3056,12 @@
         "score": 31.92,
         "stars": 93731,
         "forks": 13296
+      },
+      "2026-W34": {
+        "rank": 221,
+        "score": 30.45,
+        "stars": 93970,
+        "forks": 13318
       }
     },
     "bregman-arie/devops-exercises": {
@@ -1761,6 +3070,12 @@
         "score": 31.69,
         "stars": 83979,
         "forks": 20109
+      },
+      "2026-W34": {
+        "rank": 222,
+        "score": 29.88,
+        "stars": 84082,
+        "forks": 20156
       }
     },
     "Genymobile/scrcpy": {
@@ -1769,6 +3084,12 @@
         "score": 30.86,
         "stars": 147502,
         "forks": 13581
+      },
+      "2026-W34": {
+        "rank": 188,
+        "score": 38.93,
+        "stars": 147787,
+        "forks": 13607
       }
     },
     "mtdvio/every-programmer-should-know": {
@@ -1777,6 +3098,12 @@
         "score": 30.26,
         "stars": 100244,
         "forks": 8772
+      },
+      "2026-W34": {
+        "rank": 235,
+        "score": 25.25,
+        "stars": 100248,
+        "forks": 8766
       }
     },
     "ryanmcdermott/clean-code-javascript": {
@@ -1785,6 +3112,12 @@
         "score": 30.02,
         "stars": 94762,
         "forks": 12619
+      },
+      "2026-W34": {
+        "rank": 236,
+        "score": 24.86,
+        "stars": 94761,
+        "forks": 12620
       }
     },
     "florinpop17/app-ideas": {
@@ -1793,6 +3126,12 @@
         "score": 29.9,
         "stars": 96714,
         "forks": 10578
+      },
+      "2026-W34": {
+        "rank": 228,
+        "score": 28.38,
+        "stars": 96844,
+        "forks": 10591
       }
     },
     "nvbn/thefuck": {
@@ -1801,6 +3140,12 @@
         "score": 29.05,
         "stars": 97644,
         "forks": 3961
+      },
+      "2026-W34": {
+        "rank": 234,
+        "score": 25.48,
+        "stars": 97706,
+        "forks": 3958
       }
     },
     "Leonxlnx/taste-skill": {
@@ -1809,6 +3154,12 @@
         "score": 28.73,
         "stars": 75789,
         "forks": 5193
+      },
+      "2026-W34": {
+        "rank": 226,
+        "score": 29.5,
+        "stars": 77183,
+        "forks": 5279
       }
     },
     "realworld-apps/realworld": {
@@ -1817,6 +3168,12 @@
         "score": 28.59,
         "stars": 84078,
         "forks": 7653
+      },
+      "2026-W34": {
+        "rank": 216,
+        "score": 31.99,
+        "stars": 84089,
+        "forks": 7649
       }
     },
     "gin-gonic/gin": {
@@ -1825,6 +3182,12 @@
         "score": 28.5,
         "stars": 89105,
         "forks": 8674
+      },
+      "2026-W34": {
+        "rank": 197,
+        "score": 36.96,
+        "stars": 89079,
+        "forks": 8668
       }
     },
     "anuraghazra/github-readme-stats": {
@@ -1833,6 +3196,12 @@
         "score": 28.49,
         "stars": 79837,
         "forks": 36496
+      },
+      "2026-W34": {
+        "rank": 224,
+        "score": 29.8,
+        "stars": 79824,
+        "forks": 36697
       }
     },
     "goldbergyoni/nodebestpractices": {
@@ -1841,6 +3210,12 @@
         "score": 28.06,
         "stars": 105513,
         "forks": 10711
+      },
+      "2026-W34": {
+        "rank": 218,
+        "score": 31.37,
+        "stars": 105571,
+        "forks": 10717
       }
     },
     "iluwatar/java-design-patterns": {
@@ -1849,6 +3224,12 @@
         "score": 27.96,
         "stars": 94593,
         "forks": 27410
+      },
+      "2026-W34": {
+        "rank": 143,
+        "score": 48.81,
+        "stars": 94569,
+        "forks": 27393
       }
     },
     "ByteByteGoHq/system-design-101": {
@@ -1857,6 +3238,12 @@
         "score": 27.66,
         "stars": 86956,
         "forks": 9669
+      },
+      "2026-W34": {
+        "rank": 231,
+        "score": 27.15,
+        "stars": 87218,
+        "forks": 9696
       }
     },
     "sansan0/TrendRadar": {
@@ -1865,6 +3252,12 @@
         "score": 27.31,
         "stars": 61413,
         "forks": 24867
+      },
+      "2026-W34": {
+        "rank": 232,
+        "score": 27.02,
+        "stars": 61511,
+        "forks": 24870
       }
     },
     "fighting41love/funNLP": {
@@ -1873,6 +3266,12 @@
         "score": 27.1,
         "stars": 82430,
         "forks": 15271
+      },
+      "2026-W34": {
+        "rank": 237,
+        "score": 23.93,
+        "stars": 82503,
+        "forks": 15267
       }
     },
     "TapXWorld/ChinaTextbook": {
@@ -1881,6 +3280,12 @@
         "score": 26.08,
         "stars": 79101,
         "forks": 17960
+      },
+      "2026-W34": {
+        "rank": 227,
+        "score": 28.96,
+        "stars": 79842,
+        "forks": 18128
       }
     },
     "mlabonne/llm-course": {
@@ -1889,6 +3294,12 @@
         "score": 25.71,
         "stars": 81629,
         "forks": 9501
+      },
+      "2026-W34": {
+        "rank": 238,
+        "score": 23.39,
+        "stars": 81731,
+        "forks": 9507
       }
     },
     "doocs/advanced-java": {
@@ -1905,6 +3316,12 @@
         "score": 22.28,
         "stars": 108684,
         "forks": 6413
+      },
+      "2026-W34": {
+        "rank": 233,
+        "score": 25.63,
+        "stars": 108793,
+        "forks": 6415
       }
     },
     "Developer-Y/cs-video-courses": {
@@ -1913,6 +3330,12 @@
         "score": 20.5,
         "stars": 83028,
         "forks": 11434
+      },
+      "2026-W34": {
+        "rank": 240,
+        "score": 21.86,
+        "stars": 83063,
+        "forks": 11432
       }
     },
     "karpathy/nanochat": {
@@ -1921,6 +3344,28 @@
         "score": 18.75,
         "stars": 57154,
         "forks": 7915
+      },
+      "2026-W34": {
+        "rank": 239,
+        "score": 22.07,
+        "stars": 57248,
+        "forks": 7947
+      }
+    },
+    "deepseek-ai/deepseek-harness": {
+      "2026-W34": {
+        "rank": 145,
+        "score": 48.22,
+        "stars": 140651,
+        "forks": 14258
+      }
+    },
+    "FoundationAgents/OpenManus": {
+      "2026-W34": {
+        "rank": 191,
+        "score": 38.75,
+        "stars": 57989,
+        "forks": 10070
       }
     }
   }
