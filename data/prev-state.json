@@ -1,3365 +1,3365 @@
 {
-  "weekId": "2026-W44",
-  "capturedAt": "2026-10-26T12:36:39.858Z",
+  "weekId": "2026-W45",
+  "capturedAt": "2026-11-02T15:16:14.775Z",
   "entries": [
     {
       "fullName": "morluto/rea",
       "rank": 1,
-      "score": 84.08146257785107,
-      "stars": 388428,
-      "forks": 97309,
+      "score": 87.59133996738193,
+      "stars": 421519,
+      "forks": 105168,
       "pillarPoints": {
-        "popularity": 16.564853556485357,
-        "activity": 21.61126830668945,
+        "popularity": 16.77824267782427,
+        "activity": 21.49705369096942,
         "growth": 20,
-        "health": 12.30583488512785,
-        "impact": 13.599505829548416
+        "health": 15.616953404427825,
+        "impact": 13.69909019416041
       }
     },
     {
       "fullName": "openclaw/openclaw",
       "rank": 2,
-      "score": 81.52364472789309,
-      "stars": 393118,
-      "forks": 82644,
+      "score": 82.44514828836856,
+      "stars": 393716,
+      "forks": 82749,
       "pillarPoints": {
-        "popularity": 18.502092050209207,
-        "activity": 21.944450990364807,
-        "growth": 10.220100710771982,
-        "health": 14.599935939956573,
-        "impact": 16.25706503659052
+        "popularity": 18.468619246861927,
+        "activity": 21.914574227169954,
+        "growth": 9.508636972385217,
+        "health": 16.24617138874479,
+        "impact": 16.307146453206652
       }
     },
     {
       "fullName": "anomalyco/opencode",
       "rank": 3,
-      "score": 80.39406790041309,
-      "stars": 221754,
-      "forks": 29654,
+      "score": 79.22904101998736,
+      "stars": 224023,
+      "forks": 30124,
       "pillarPoints": {
-        "popularity": 15.380753138075317,
-        "activity": 21.215181848055437,
-        "growth": 14.366946070590167,
-        "health": 14.413305824116126,
-        "impact": 15.017881019576032
+        "popularity": 15.426778242677825,
+        "activity": 21.27740581636309,
+        "growth": 13.419185398337799,
+        "health": 14.052311260038092,
+        "impact": 15.053360302570548
       }
     },
     {
       "fullName": "n8n-io/n8n",
       "rank": 4,
-      "score": 78.7175564863182,
-      "stars": 208632,
-      "forks": 61254,
+      "score": 78.58503082476707,
+      "stars": 209353,
+      "forks": 61357,
       "pillarPoints": {
-        "popularity": 16.2510460251046,
-        "activity": 20.703126815458788,
-        "growth": 9.915307888869869,
-        "health": 17.7848793120948,
-        "impact": 14.063196444790139
+        "popularity": 16.267782426778243,
+        "activity": 20.68629051326807,
+        "growth": 10.253188970428004,
+        "health": 17.328101101923153,
+        "impact": 14.049667812369599
       }
     },
     {
-      "fullName": "NousResearch/hermes-agent",
+      "fullName": "ggml-org/llama.cpp",
       "rank": 5,
-      "score": 77.46922441657483,
-      "stars": 257241,
-      "forks": 56353,
+      "score": 76.5903873191809,
+      "stars": 133150,
+      "forks": 25060,
       "pillarPoints": {
-        "popularity": 17.426778242677827,
-        "activity": 21.80111230036707,
-        "growth": 11.599126102875362,
-        "health": 11.759235390050424,
-        "impact": 14.882972380604166
+        "popularity": 13.343096234309623,
+        "activity": 19.846536009413512,
+        "growth": 10.997146367233263,
+        "health": 18.42591129897297,
+        "impact": 13.977697409251528
       }
     },
     {
       "fullName": "microsoft/vscode",
       "rank": 6,
-      "score": 77.2057870739285,
-      "stars": 194325,
-      "forks": 44866,
+      "score": 76.53624928575464,
+      "stars": 194480,
+      "forks": 44368,
       "pillarPoints": {
-        "popularity": 17.481171548117157,
-        "activity": 21.468436982498666,
-        "growth": 8.688934310606689,
-        "health": 16.07234689092587,
-        "impact": 13.494897341780126
+        "popularity": 17.460251046025103,
+        "activity": 21.445874124466236,
+        "growth": 7.286805297357901,
+        "health": 16.887011669479126,
+        "impact": 13.456307148426273
       }
     },
     {
-      "fullName": "ggml-org/llama.cpp",
+      "fullName": "NousResearch/hermes-agent",
       "rank": 7,
-      "score": 76.88452302933182,
-      "stars": 132402,
-      "forks": 24833,
+      "score": 76.48172301877419,
+      "stars": 259710,
+      "forks": 57168,
       "pillarPoints": {
-        "popularity": 13.278242677824267,
-        "activity": 20.09172280172343,
-        "growth": 11.33822464238412,
-        "health": 18.19353332385707,
-        "impact": 13.982799583542931
+        "popularity": 17.435146443514647,
+        "activity": 21.56180251169068,
+        "growth": 11.316870247679086,
+        "health": 11.203524309233739,
+        "impact": 14.964379506656039
       }
     },
     {
-      "fullName": "affaan-m/ECC",
+      "fullName": "cheaper-inference/OmniRoute",
       "rank": 8,
-      "score": 76.87249850785919,
-      "stars": 289249,
-      "forks": 42859,
+      "score": 76.27337784728671,
+      "stars": 83845,
+      "forks": 12542,
       "pillarPoints": {
-        "popularity": 15.979079497907952,
-        "activity": 18.08874202642202,
-        "growth": 16.369057655419645,
-        "health": 15.165143426622315,
-        "impact": 11.270475901487261
+        "popularity": 6.891213389121341,
+        "activity": 20.989784055795806,
+        "growth": 15.913973515830133,
+        "health": 18.229006027063477,
+        "impact": 14.249400859475955
       }
     },
     {
       "fullName": "stablyai/orca",
       "rank": 9,
-      "score": 76.11201511748416,
-      "stars": 106539,
-      "forks": 6726,
+      "score": 75.37323303135713,
+      "stars": 113288,
+      "forks": 7163,
       "pillarPoints": {
-        "popularity": 6.9581589958159,
-        "activity": 21.712591725063156,
-        "growth": 17.6354401615373,
-        "health": 14.917383983298372,
-        "impact": 14.888440251769433
-      }
-    },
-    {
-      "fullName": "tensorflow/tensorflow",
-      "rank": 10,
-      "score": 75.62689195110194,
-      "stars": 201265,
-      "forks": 78690,
-      "pillarPoints": {
-        "popularity": 18.711297071129707,
-        "activity": 20.02379473401245,
-        "growth": 6.913888406518575,
-        "health": 16.568288308478863,
-        "impact": 13.409623430962345
+        "popularity": 7.577405857740588,
+        "activity": 21.7589693755012,
+        "growth": 18.146686480937056,
+        "health": 12.94153892205927,
+        "impact": 14.948632395119013
       }
     },
     {
       "fullName": "huggingface/transformers",
-      "rank": 11,
-      "score": 75.38686890830859,
-      "stars": 168185,
-      "forks": 34994,
+      "rank": 10,
+      "score": 75.1512710600172,
+      "stars": 168447,
+      "forks": 35084,
       "pillarPoints": {
-        "popularity": 15.895397489539754,
-        "activity": 18.93531929905139,
-        "growth": 9.025212402550414,
-        "health": 18.796779600350057,
-        "impact": 12.734160116816968
-      }
-    },
-    {
-      "fullName": "vllm-project/vllm",
-      "rank": 12,
-      "score": 75.29286496595891,
-      "stars": 95584,
-      "forks": 23981,
-      "pillarPoints": {
-        "popularity": 10.91213389121339,
-        "activity": 20.94743669748523,
-        "growth": 13.032767201377196,
-        "health": 17.09973112521445,
-        "impact": 13.300796050668657
+        "popularity": 15.9163179916318,
+        "activity": 19.03148305326935,
+        "growth": 8.735283063979397,
+        "health": 18.66510418144981,
+        "impact": 12.80308276968684
       }
     },
     {
       "fullName": "home-assistant/core",
-      "rank": 13,
-      "score": 74.77745910525259,
-      "stars": 91736,
-      "forks": 39014,
+      "rank": 11,
+      "score": 74.94079333205421,
+      "stars": 91915,
+      "forks": 39210,
       "pillarPoints": {
-        "popularity": 12.464435146443515,
-        "activity": 21.598946696862217,
-        "growth": 9.838257160813045,
-        "health": 17.51891633544344,
-        "impact": 13.356903765690376
+        "popularity": 12.317991631799163,
+        "activity": 21.591831540185414,
+        "growth": 10.784106356015934,
+        "health": 16.92912321827965,
+        "impact": 13.317740585774057
       }
     },
     {
       "fullName": "langgenius/dify",
-      "rank": 14,
-      "score": 74.60051584585334,
-      "stars": 159588,
-      "forks": 25220,
+      "rank": 12,
+      "score": 74.88360266239135,
+      "stars": 160234,
+      "forks": 25333,
       "pillarPoints": {
-        "popularity": 14.046025104602508,
-        "activity": 20.14704019046741,
-        "growth": 10.630195283052112,
-        "health": 16.31356761512207,
-        "impact": 13.463687652609233
-      }
-    },
-    {
-      "fullName": "storytold/photocraft",
-      "rank": 15,
-      "score": 74.21170089605039,
-      "stars": 73128,
-      "forks": 12948,
-      "pillarPoints": {
-        "popularity": 5.598326359832637,
-        "activity": 21.699781888285116,
-        "growth": 19.69539748953975,
-        "health": 13.834413484121061,
-        "impact": 13.38378167427183
-      }
-    },
-    {
-      "fullName": "open-webui/open-webui",
-      "rank": 16,
-      "score": 72.85431053064401,
-      "stars": 156798,
-      "forks": 22835,
-      "pillarPoints": {
-        "popularity": 13.259414225941423,
-        "activity": 20.52826499214315,
-        "growth": 12.564360291421242,
-        "health": 13.441159427034846,
-        "impact": 13.06111159410335
-      }
-    },
-    {
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "rank": 17,
-      "score": 72.04767296304527,
-      "stars": 457953,
-      "forks": 48657,
-      "pillarPoints": {
-        "popularity": 19.355648535564857,
-        "activity": 15.67527047580432,
-        "growth": 9.566879761725227,
-        "health": 16.675677128362445,
-        "impact": 10.77419706158843
-      }
-    },
-    {
-      "fullName": "career-ops-hq/career-ops",
-      "rank": 18,
-      "score": 71.85908692645066,
-      "stars": 77446,
-      "forks": 14325,
-      "pillarPoints": {
-        "popularity": 5.976987447698745,
-        "activity": 20.45566733601721,
-        "growth": 15.266951586506817,
-        "health": 17.163864533531772,
-        "impact": 12.995616022696122
-      }
-    },
-    {
-      "fullName": "farion1231/cc-switch",
-      "rank": 19,
-      "score": 71.5527998828644,
-      "stars": 148867,
-      "forks": 9790,
-      "pillarPoints": {
-        "popularity": 9.238493723849373,
-        "activity": 19.332968893041606,
-        "growth": 16.811924502816712,
-        "health": 15.141326328276893,
-        "impact": 11.028086434879826
-      }
-    },
-    {
-      "fullName": "nodejs/node",
-      "rank": 20,
-      "score": 71.47485084727094,
-      "stars": 123107,
-      "forks": 39234,
-      "pillarPoints": {
-        "popularity": 15.502092050209207,
-        "activity": 18.562651652160664,
-        "growth": 8.36085816169407,
-        "health": 16.65503914302749,
-        "impact": 12.394209840179512
-      }
-    },
-    {
-      "fullName": "kubernetes/kubernetes",
-      "rank": 21,
-      "score": 70.88335942785551,
-      "stars": 128704,
-      "forks": 46353,
-      "pillarPoints": {
-        "popularity": 16.01673640167364,
-        "activity": 19.186905854771084,
-        "growth": 7.52178064309679,
-        "health": 14.903459540866299,
-        "impact": 13.254476987447697
-      }
-    },
-    {
-      "fullName": "supabase/supabase",
-      "rank": 22,
-      "score": 70.87577356192722,
-      "stars": 113965,
-      "forks": 16304,
-      "pillarPoints": {
-        "popularity": 11.635983263598327,
-        "activity": 17.88511008959689,
-        "growth": 12.463132140282115,
-        "health": 17.43807454918142,
-        "impact": 11.45347351926847
+        "popularity": 14.05439330543933,
+        "activity": 20.01585619036658,
+        "growth": 10.22756967582703,
+        "health": 17.114074162721792,
+        "impact": 13.471709328036619
       }
     },
     {
       "fullName": "thedotmack/claude-mem",
-      "rank": 23,
-      "score": 70.63421638206167,
-      "stars": 103268,
-      "forks": 9117,
+      "rank": 13,
+      "score": 73.9142500319823,
+      "stars": 110368,
+      "forks": 9631,
       "pillarPoints": {
-        "popularity": 7.04602510460251,
-        "activity": 19.948860374555796,
-        "growth": 16.407795101701247,
-        "health": 15.41694345092466,
-        "impact": 11.81459235027745
+        "popularity": 7.669456066945607,
+        "activity": 19.647899355109498,
+        "growth": 17.34648121655077,
+        "health": 17.340754383609493,
+        "impact": 11.909659009766942
       }
     },
     {
-      "fullName": "DietrichGebert/ponytail",
-      "rank": 24,
-      "score": 70.6252113630683,
-      "stars": 176634,
-      "forks": 9650,
+      "fullName": "storytold/photocraft",
+      "rank": 14,
+      "score": 73.80208374853505,
+      "stars": 76100,
+      "forks": 13480,
       "pillarPoints": {
-        "popularity": 9.391213389121338,
-        "activity": 15.026607664092648,
-        "growth": 19.88284518828452,
-        "health": 16.574088950586642,
-        "impact": 9.750456170983158
+        "popularity": 5.7656903765690375,
+        "activity": 21.756640791641573,
+        "growth": 19.23682008368201,
+        "health": 13.528311127490426,
+        "impact": 13.514621369152016
       }
     },
     {
-      "fullName": "vercel/next.js",
-      "rank": 25,
-      "score": 70.62476686887257,
-      "stars": 143298,
-      "forks": 34125,
+      "fullName": "tensorflow/tensorflow",
+      "rank": 15,
+      "score": 73.78484295581138,
+      "stars": 201268,
+      "forks": 78178,
       "pillarPoints": {
-        "popularity": 15.623430962343098,
-        "activity": 18.99558674772315,
-        "growth": 7.821341027551126,
-        "health": 14.41507138028459,
-        "impact": 13.769336750970604
+        "popularity": 18.69037656903766,
+        "activity": 19.77501556053547,
+        "growth": 5.286154304418152,
+        "health": 16.610116605502103,
+        "impact": 13.423179916317995
       }
     },
     {
-      "fullName": "openai/codex",
-      "rank": 26,
-      "score": 70.00116515745779,
-      "stars": 130985,
-      "forks": 20677,
+      "fullName": "affaan-m/ECC",
+      "rank": 16,
+      "score": 73.60199126685387,
+      "stars": 295289,
+      "forks": 43703,
       "pillarPoints": {
-        "popularity": 11.876569037656903,
-        "activity": 20.151253847844053,
-        "growth": 10.554633599891586,
-        "health": 12.52004067804568,
-        "impact": 14.898667994019563
+        "popularity": 16.02928870292887,
+        "activity": 18.111859995516635,
+        "growth": 15.625940329680017,
+        "health": 12.473033081102457,
+        "impact": 11.361869157625893
       }
     },
     {
-      "fullName": "earendil-works/pi",
-      "rank": 27,
-      "score": 69.90168337895854,
-      "stars": 117934,
-      "forks": 15107,
+      "fullName": "farion1231/cc-switch",
+      "rank": 17,
+      "score": 73.0644606298618,
+      "stars": 151183,
+      "forks": 9940,
       "pillarPoints": {
-        "popularity": 9.476987447698747,
-        "activity": 18.479566757027147,
-        "growth": 13.320963509806989,
-        "health": 15.802285161516183,
-        "impact": 12.821880502909472
+        "popularity": 9.322175732217575,
+        "activity": 19.568313158499887,
+        "growth": 16.302959182495695,
+        "health": 16.692408425414403,
+        "impact": 11.17860413123423
       }
     },
     {
-      "fullName": "ruvnet/ruflo",
-      "rank": 28,
-      "score": 69.74107681667289,
-      "stars": 79408,
-      "forks": 9317,
+      "fullName": "open-webui/open-webui",
+      "rank": 18,
+      "score": 72.93170831707671,
+      "stars": 157542,
+      "forks": 22911,
       "pillarPoints": {
-        "popularity": 3.778242677824268,
-        "activity": 20.533694344030614,
-        "growth": 18.905439330543935,
-        "health": 14.685249625978638,
-        "impact": 11.838450838295437
+        "popularity": 13.234309623430962,
+        "activity": 20.391892890457285,
+        "growth": 12.08588671663742,
+        "health": 14.16224542106268,
+        "impact": 13.057373665488367
+      }
+    },
+    {
+      "fullName": "vllm-project/vllm",
+      "rank": 19,
+      "score": 72.93145854336024,
+      "stars": 96136,
+      "forks": 24309,
+      "pillarPoints": {
+        "popularity": 10.920502092050208,
+        "activity": 21.12112937762615,
+        "growth": 10.489972772516097,
+        "health": 17.063777307034997,
+        "impact": 13.336076994132789
       }
     },
     {
       "fullName": "Graphify-Labs/graphify",
-      "rank": 29,
-      "score": 69.70383448496582,
-      "stars": 135745,
-      "forks": 12944,
+      "rank": 20,
+      "score": 72.81751979287137,
+      "stars": 140924,
+      "forks": 13467,
       "pillarPoints": {
-        "popularity": 10.05020920502092,
-        "activity": 14.871822457328228,
-        "growth": 16.534948147027286,
-        "health": 16.815275870819,
-        "impact": 11.43157880477039
+        "popularity": 10.357740585774058,
+        "activity": 16.51159782199097,
+        "growth": 17.96236076411927,
+        "health": 16.535430066548336,
+        "impact": 11.450390554438734
       }
     },
     {
-      "fullName": "Significant-Gravitas/AutoGPT",
-      "rank": 30,
-      "score": 69.20540459720706,
-      "stars": 187757,
-      "forks": 45901,
+      "fullName": "career-ops-hq/career-ops",
+      "rank": 21,
+      "score": 72.42482564029635,
+      "stars": 79472,
+      "forks": 14658,
       "pillarPoints": {
-        "popularity": 15.841004184100422,
-        "activity": 18.11579577424953,
-        "growth": 7.228550486908146,
-        "health": 14.9507470410017,
-        "impact": 13.069307110947262
-      }
-    },
-    {
-      "fullName": "langchain-ai/langchain",
-      "rank": 31,
-      "score": 69.09564122801503,
-      "stars": 148486,
-      "forks": 24924,
-      "pillarPoints": {
-        "popularity": 14.368200836820085,
-        "activity": 17.528917171079414,
-        "growth": 9.336648490614605,
-        "health": 14.278512712981268,
-        "impact": 13.583362016519654
-      }
-    },
-    {
-      "fullName": "Comfy-Org/ComfyUI",
-      "rank": 32,
-      "score": 68.98069159891284,
-      "stars": 143127,
-      "forks": 16896,
-      "pillarPoints": {
-        "popularity": 11.76569037656904,
-        "activity": 17.009513021924487,
-        "growth": 15.122257288770708,
-        "health": 13.190767612310605,
-        "impact": 11.89246329933801
-      }
-    },
-    {
-      "fullName": "heygen-com/hyperframes",
-      "rank": 33,
-      "score": 68.94305769333798,
-      "stars": 72637,
-      "forks": 6562,
-      "pillarPoints": {
-        "popularity": 2.422594142259414,
-        "activity": 20.343731295435465,
-        "growth": 17.465141695743657,
-        "health": 15.466417161116947,
-        "impact": 13.245173398782494
-      }
-    },
-    {
-      "fullName": "google-gemini/gemini-cli",
-      "rank": 34,
-      "score": 68.9186681082739,
-      "stars": 108400,
-      "forks": 14839,
-      "pillarPoints": {
-        "popularity": 10.146443514644353,
-        "activity": 15.983177660069714,
-        "growth": 12.603902552268167,
-        "health": 16.63567877274437,
-        "impact": 13.549465608547298
-      }
-    },
-    {
-      "fullName": "mrdoob/three.js",
-      "rank": 35,
-      "score": 68.44618158339992,
-      "stars": 116965,
-      "forks": 36736,
-      "pillarPoints": {
-        "popularity": 14.539748953974897,
-        "activity": 17.564973507334777,
-        "growth": 10.28716029216733,
-        "health": 15.504547944068031,
-        "impact": 10.549750885854886
+        "popularity": 6.1966527196652725,
+        "activity": 20.22448976473715,
+        "growth": 15.442233597734273,
+        "health": 17.501833059982985,
+        "impact": 13.059616498176668
       }
     },
     {
       "fullName": "github/spec-kit",
-      "rank": 36,
-      "score": 68.02971730926865,
-      "stars": 142963,
-      "forks": 12809,
+      "rank": 22,
+      "score": 71.66005807307687,
+      "stars": 145282,
+      "forks": 13023,
       "pillarPoints": {
-        "popularity": 10.723849372384937,
-        "activity": 16.544616065001605,
-        "growth": 10.721115275516143,
-        "health": 17.501484526838183,
-        "impact": 12.538652069527778
+        "popularity": 10.939330543933055,
+        "activity": 17.464008739209635,
+        "growth": 12.86003328962792,
+        "health": 17.866762561228143,
+        "impact": 12.529922939078112
+      }
+    },
+    {
+      "fullName": "openai/codex",
+      "rank": 23,
+      "score": 71.54194995605594,
+      "stars": 132861,
+      "forks": 21000,
+      "pillarPoints": {
+        "popularity": 11.98326359832636,
+        "activity": 20.81517531267333,
+        "growth": 11.43481137262345,
+        "health": 12.418366940697164,
+        "impact": 14.890332731735645
+      }
+    },
+    {
+      "fullName": "freeCodeCamp/freeCodeCamp",
+      "rank": 24,
+      "score": 70.92550391153435,
+      "stars": 458427,
+      "forks": 48190,
+      "pillarPoints": {
+        "popularity": 19.355648535564857,
+        "activity": 15.498284561443606,
+        "growth": 8.732274551278808,
+        "health": 16.53632106169991,
+        "impact": 10.80297520154717
+      }
+    },
+    {
+      "fullName": "kubernetes/kubernetes",
+      "rank": 25,
+      "score": 70.60862314085921,
+      "stars": 128834,
+      "forks": 45742,
+      "pillarPoints": {
+        "popularity": 15.987447698744772,
+        "activity": 19.6281728504406,
+        "growth": 6.999048862516462,
+        "health": 14.780522766814288,
+        "impact": 13.213430962343095
+      }
+    },
+    {
+      "fullName": "DietrichGebert/ponytail",
+      "rank": 26,
+      "score": 69.95725615950101,
+      "stars": 182632,
+      "forks": 10084,
+      "pillarPoints": {
+        "popularity": 9.543933054393305,
+        "activity": 15.508973896886397,
+        "growth": 18.483720703274674,
+        "health": 16.55828236204795,
+        "impact": 9.862346142898694
+      }
+    },
+    {
+      "fullName": "vercel/next.js",
+      "rank": 27,
+      "score": 69.86606022022863,
+      "stars": 143467,
+      "forks": 33605,
+      "pillarPoints": {
+        "popularity": 15.489539748953977,
+        "activity": 18.933795406604506,
+        "growth": 6.71721044331121,
+        "health": 14.994085018767542,
+        "impact": 13.73142960259139
+      }
+    },
+    {
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "rank": 28,
+      "score": 69.42545037830075,
+      "stars": 187870,
+      "forks": 45902,
+      "pillarPoints": {
+        "popularity": 15.86610878661088,
+        "activity": 18.37357546657197,
+        "growth": 7.100012088502315,
+        "health": 14.973785309019078,
+        "impact": 13.11196872759651
+      }
+    },
+    {
+      "fullName": "mrdoob/three.js",
+      "rank": 29,
+      "score": 69.3206814171015,
+      "stars": 117426,
+      "forks": 36891,
+      "pillarPoints": {
+        "popularity": 14.539748953974897,
+        "activity": 18.033592220784723,
+        "growth": 11.214131185365344,
+        "health": 15.07320867707021,
+        "impact": 10.460000379906312
+      }
+    },
+    {
+      "fullName": "langchain-ai/langchain",
+      "rank": 30,
+      "score": 68.8747166109642,
+      "stars": 148880,
+      "forks": 25029,
+      "pillarPoints": {
+        "popularity": 14.334728033472805,
+        "activity": 17.30144882291167,
+        "growth": 8.780491640376113,
+        "health": 14.99029606206086,
+        "impact": 13.467752052142751
+      }
+    },
+    {
+      "fullName": "nodejs/node",
+      "rank": 31,
+      "score": 68.77107073458541,
+      "stars": 123194,
+      "forks": 38743,
+      "pillarPoints": {
+        "popularity": 15.493723849372387,
+        "activity": 18.439096300959033,
+        "growth": 5.173483557725875,
+        "health": 17.315560055422967,
+        "impact": 12.34920697110514
+      }
+    },
+    {
+      "fullName": "earendil-works/pi",
+      "rank": 32,
+      "score": 68.28568157149886,
+      "stars": 119547,
+      "forks": 15348,
+      "pillarPoints": {
+        "popularity": 9.537656903765692,
+        "activity": 18.94569501792261,
+        "growth": 13.582271185779025,
+        "health": 13.36296930391652,
+        "impact": 12.857089160114999
       }
     },
     {
       "fullName": "paperclipai/paperclip",
-      "rank": 37,
-      "score": 67.91358030219301,
-      "stars": 107490,
-      "forks": 17845,
+      "rank": 33,
+      "score": 68.27834277310806,
+      "stars": 110183,
+      "forks": 18256,
       "pillarPoints": {
-        "popularity": 9.326359832635985,
-        "activity": 19.65094262885115,
-        "growth": 16.29938028882849,
-        "health": 9.438071715787151,
-        "impact": 13.198825836090233
+        "popularity": 9.468619246861925,
+        "activity": 19.952249255177392,
+        "growth": 16.40488025806557,
+        "health": 9.221481476259912,
+        "impact": 13.231112536743266
       }
     },
     {
-      "fullName": "ollama/ollama",
-      "rank": 38,
-      "score": 67.84152639922497,
-      "stars": 184831,
-      "forks": 18600,
+      "fullName": "supabase/supabase",
+      "rank": 34,
+      "score": 67.61488437820495,
+      "stars": 114439,
+      "forks": 15765,
       "pillarPoints": {
-        "popularity": 13.468619246861927,
-        "activity": 16.496922552545936,
-        "growth": 12.019639214629272,
-        "health": 13.65999244044531,
-        "impact": 12.19635294474253
+        "popularity": 11.600418410041842,
+        "activity": 17.99554828239678,
+        "growth": 8.718603355144337,
+        "health": 17.87372163562645,
+        "impact": 11.426592694995536
       }
     },
     {
-      "fullName": "pytorch/pytorch",
-      "rank": 39,
-      "score": 67.71431091932568,
-      "stars": 105085,
-      "forks": 31774,
+      "fullName": "react/react-native",
+      "rank": 35,
+      "score": 67.43309477321543,
+      "stars": 126853,
+      "forks": 25507,
       "pillarPoints": {
-        "popularity": 13.8744769874477,
-        "activity": 18.421082168147134,
-        "growth": 8.41975174227168,
-        "health": 15.47778970416871,
-        "impact": 11.521210317290468
-      }
-    },
-    {
-      "fullName": "public-apis/public-apis",
-      "rank": 40,
-      "score": 67.32574808383573,
-      "stars": 492294,
-      "forks": 54816,
-      "pillarPoints": {
-        "popularity": 18.69037656903766,
-        "activity": 13.7796468977113,
-        "growth": 12.77363168202697,
-        "health": 13.2451565120804,
-        "impact": 8.836936422979411
-      }
-    },
-    {
-      "fullName": "yt-dlp/yt-dlp",
-      "rank": 41,
-      "score": 67.22324537148776,
-      "stars": 202372,
-      "forks": 17714,
-      "pillarPoints": {
-        "popularity": 14.55857740585774,
-        "activity": 13.018812161595022,
-        "growth": 16.454956354242288,
-        "health": 12.571046540444033,
-        "impact": 10.619852909348678
-      }
-    },
-    {
-      "fullName": "headroomlabs-ai/headroom",
-      "rank": 42,
-      "score": 66.99887306532224,
-      "stars": 77877,
-      "forks": 6052,
-      "pillarPoints": {
-        "popularity": 3.6589958158995817,
-        "activity": 18.03574278236761,
-        "growth": 15.472235649431854,
-        "health": 17.65672179482848,
-        "impact": 12.175177022794715
-      }
-    },
-    {
-      "fullName": "immich-app/immich",
-      "rank": 43,
-      "score": 66.46838987640648,
-      "stars": 117281,
-      "forks": 7361,
-      "pillarPoints": {
-        "popularity": 8.85774058577406,
-        "activity": 18.257413604303103,
-        "growth": 10.932674898910099,
-        "health": 16.263389536267898,
-        "impact": 12.157171251151306
-      }
-    },
-    {
-      "fullName": "OpenHands/OpenHands",
-      "rank": 44,
-      "score": 66.42469862097376,
-      "stars": 91887,
-      "forks": 12206,
-      "pillarPoints": {
-        "popularity": 7.736401673640168,
-        "activity": 18.968387776728022,
-        "growth": 11.777941800992194,
-        "health": 15.627465140137687,
-        "impact": 12.314502229475691
-      }
-    },
-    {
-      "fullName": "twbs/bootstrap",
-      "rank": 45,
-      "score": 66.09511828941808,
-      "stars": 175015,
-      "forks": 78514,
-      "pillarPoints": {
-        "popularity": 17.389121338912137,
-        "activity": 15.345212205279047,
-        "growth": 6.944189760178646,
-        "health": 14.136678667056621,
-        "impact": 12.27991631799163
-      }
-    },
-    {
-      "fullName": "fastapi/fastapi",
-      "rank": 46,
-      "score": 66.06365962036438,
-      "stars": 104203,
-      "forks": 10126,
-      "pillarPoints": {
-        "popularity": 9.234309623430963,
-        "activity": 16.04982285266634,
-        "growth": 15.128927600399217,
-        "health": 14.544072542360462,
-        "impact": 11.106527001507397
-      }
-    },
-    {
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "rank": 47,
-      "score": 65.93060639026277,
-      "stars": 135268,
-      "forks": 21443,
-      "pillarPoints": {
-        "popularity": 10.93305439330544,
-        "activity": 16.402026736129528,
-        "growth": 16.096334453822337,
-        "health": 13.92612702412683,
-        "impact": 8.573063782878632
+        "popularity": 14.89539748953975,
+        "activity": 17.122439633872126,
+        "growth": 8.633410434691186,
+        "health": 16.712180654466792,
+        "impact": 10.069666560645576
       }
     },
     {
       "fullName": "react/react",
-      "rank": 48,
-      "score": 65.88069769914135,
-      "stars": 251863,
-      "forks": 51578,
+      "rank": 36,
+      "score": 67.42254742857719,
+      "stars": 252088,
+      "forks": 51606,
       "pillarPoints": {
-        "popularity": 18.096234309623433,
-        "activity": 13.716834259887131,
-        "growth": 8.024990115940028,
-        "health": 14.622991995654107,
-        "impact": 11.419647018036652
-      }
-    },
-    {
-      "fullName": "cheaper-inference/OmniRoute",
-      "rank": 49,
-      "score": 65.8300968471508,
-      "stars": 81327,
-      "forks": 11930,
-      "pillarPoints": {
-        "popularity": 6.661087866108787,
-        "activity": 21.20519417485677,
-        "growth": 5.536947134789143,
-        "health": 18.150101293110136,
-        "impact": 14.276766378285954
-      }
-    },
-    {
-      "fullName": "JuliusBrussee/caveman",
-      "rank": 50,
-      "score": 65.71723942966858,
-      "stars": 115173,
-      "forks": 6643,
-      "pillarPoints": {
-        "popularity": 6.278242677824268,
-        "activity": 18.18068886899171,
-        "growth": 15.0211174720856,
-        "health": 16.752503904744252,
-        "impact": 9.484686506022758
-      }
-    },
-    {
-      "fullName": "rust-lang/rust",
-      "rank": 51,
-      "score": 65.69482904209347,
-      "stars": 120825,
-      "forks": 17995,
-      "pillarPoints": {
-        "popularity": 13.550209205020922,
-        "activity": 20.7678150575504,
-        "growth": 7.201802631355042,
-        "health": 13.273469380505457,
-        "impact": 10.901532767661655
+        "popularity": 18.0836820083682,
+        "activity": 13.664123574910395,
+        "growth": 8.290432890340803,
+        "health": 15.873295392449439,
+        "impact": 11.511013562508357
       }
     },
     {
       "fullName": "debpalash/VoiceStudio",
-      "rank": 52,
-      "score": 65.66257208919018,
-      "stars": 87971,
-      "forks": 9699,
+      "rank": 37,
+      "score": 67.39640752409063,
+      "stars": 98668,
+      "forks": 10941,
       "pillarPoints": {
-        "popularity": 4.384937238493724,
-        "activity": 20.1751299892747,
-        "growth": 16.73883346251481,
-        "health": 12.697441029008996,
-        "impact": 11.666230369897953
+        "popularity": 6.577405857740586,
+        "activity": 20.178183221628345,
+        "growth": 16.57569432118085,
+        "health": 12.267796192656284,
+        "impact": 11.79732793088457
       }
     },
     {
-      "fullName": "zed-industries/zed",
-      "rank": 53,
-      "score": 65.58306652625349,
-      "stars": 92218,
-      "forks": 11218,
+      "fullName": "heygen-com/hyperframes",
+      "rank": 38,
+      "score": 67.35801521548714,
+      "stars": 77514,
+      "forks": 7108,
       "pillarPoints": {
-        "popularity": 8.129707112970713,
-        "activity": 19.25038119039794,
-        "growth": 8.752279468127448,
-        "health": 16.50429978255663,
-        "impact": 12.946398972200765
+        "popularity": 2.769874476987448,
+        "activity": 20.455770008643825,
+        "growth": 16.600470666481307,
+        "health": 14.143253161095446,
+        "impact": 13.388646902279117
+      }
+    },
+    {
+      "fullName": "ollama/ollama",
+      "rank": 39,
+      "score": 67.03349832341698,
+      "stars": 185668,
+      "forks": 18866,
+      "pillarPoints": {
+        "popularity": 13.443514644351465,
+        "activity": 16.218987463093363,
+        "growth": 11.59058135720607,
+        "health": 13.540862422388653,
+        "impact": 12.239552436377416
       }
     },
     {
       "fullName": "deepseek-ai/deepseek-harness",
-      "rank": 54,
-      "score": 65.51555387344776,
-      "stars": 262158,
-      "forks": 31687,
+      "rank": 40,
+      "score": 66.83615135500017,
+      "stars": 269257,
+      "forks": 32693,
       "pillarPoints": {
-        "popularity": 13.585774058577407,
-        "activity": 13.608446464902633,
-        "growth": 14.606893705142243,
-        "health": 13.026268723849373,
-        "impact": 10.68817092097611
+        "popularity": 13.686192468619248,
+        "activity": 13.465457700345643,
+        "growth": 14.429519683678713,
+        "health": 14.455155753138078,
+        "impact": 10.799825749218488
       }
     },
     {
-      "fullName": "firecrawl/firecrawl",
-      "rank": 55,
-      "score": 65.21813913907884,
-      "stars": 195502,
-      "forks": 10318,
+      "fullName": "immich-app/immich",
+      "rank": 41,
+      "score": 66.81901618951149,
+      "stars": 117976,
+      "forks": 7456,
       "pillarPoints": {
-        "popularity": 10.523012552301257,
-        "activity": 15.502889287097702,
-        "growth": 14.409984717474911,
-        "health": 14.396819185104176,
-        "impact": 10.385433397100796
+        "popularity": 8.861924686192468,
+        "activity": 18.188321915641346,
+        "growth": 10.435358928273153,
+        "health": 17.215279502737808,
+        "impact": 12.11813115666671
       }
     },
     {
-      "fullName": "bytedance/deer-flow",
-      "rank": 56,
-      "score": 65.12673967410221,
-      "stars": 84441,
-      "forks": 11820,
+      "fullName": "OpenHands/OpenHands",
+      "rank": 42,
+      "score": 66.69989923833691,
+      "stars": 92496,
+      "forks": 12326,
       "pillarPoints": {
-        "popularity": 6.3179916317991625,
-        "activity": 19.7211015811222,
-        "growth": 10.52968384657739,
-        "health": 17.514546124993398,
-        "impact": 11.043416489610063
-      }
-    },
-    {
-      "fullName": "angular/angular",
-      "rank": 57,
-      "score": 64.773662714874,
-      "stars": 101100,
-      "forks": 29582,
-      "pillarPoints": {
-        "popularity": 13.368200836820085,
-        "activity": 18.35646910076453,
-        "growth": 5.712656986244909,
-        "health": 15.818015862559076,
-        "impact": 11.518319928485404
+        "popularity": 7.6673640167364026,
+        "activity": 19.115617192056263,
+        "growth": 11.798816767408336,
+        "health": 15.793023887762056,
+        "impact": 12.325077374373853
       }
     },
     {
       "fullName": "elastic/elasticsearch",
-      "rank": 58,
-      "score": 64.73948075783635,
-      "stars": 78382,
-      "forks": 26116,
+      "rank": 43,
+      "score": 66.52188715998096,
+      "stars": 78459,
+      "forks": 26238,
       "pillarPoints": {
-        "popularity": 10.518828451882845,
-        "activity": 20.684790259663664,
-        "growth": 6.074314257017665,
-        "health": 15.106103488967976,
-        "impact": 12.355444300304196
+        "popularity": 10.451882845188285,
+        "activity": 21.01928443985,
+        "growth": 7.392305129217247,
+        "health": 15.26099106240198,
+        "impact": 12.397423683323447
       }
     },
     {
-      "fullName": "ultraworkers/claw-code",
-      "rank": 59,
-      "score": 64.56097540003289,
-      "stars": 194985,
-      "forks": 107731,
+      "fullName": "flutter/flutter",
+      "rank": 44,
+      "score": 66.4342393149785,
+      "stars": 181017,
+      "forks": 32866,
       "pillarPoints": {
-        "popularity": 14.518828451882845,
-        "activity": 14.82233355540151,
-        "growth": 10.00729261047316,
-        "health": 14.278462204869518,
-        "impact": 10.934058577405857
+        "popularity": 16.50627615062762,
+        "activity": 15.933046673777525,
+        "growth": 8.724459206111595,
+        "health": 14.055671888892338,
+        "impact": 11.214785395569429
+      }
+    },
+    {
+      "fullName": "google-gemini/gemini-cli",
+      "rank": 45,
+      "score": 66.12566144141273,
+      "stars": 108671,
+      "forks": 14914,
+      "pillarPoints": {
+        "popularity": 10.071129707112972,
+        "activity": 16.139187233152448,
+        "growth": 9.386838610333587,
+        "health": 17.012679678734262,
+        "impact": 13.515826212079457
+      }
+    },
+    {
+      "fullName": "zed-industries/zed",
+      "rank": 46,
+      "score": 65.6997515335003,
+      "stars": 92553,
+      "forks": 11361,
+      "pillarPoints": {
+        "popularity": 8.01673640167364,
+        "activity": 19.008249904163417,
+        "growth": 8.725925775910378,
+        "health": 16.97490465189353,
+        "impact": 12.973934799859332
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "rank": 47,
+      "score": 65.35986981903991,
+      "stars": 309872,
+      "forks": 26071,
+      "pillarPoints": {
+        "popularity": 13.167364016736402,
+        "activity": 14.854297265174043,
+        "growth": 16.877488246546392,
+        "health": 11.167389496688532,
+        "impact": 9.293330793894546
+      }
+    },
+    {
+      "fullName": "rust-lang/rust",
+      "rank": 48,
+      "score": 65.12616584053241,
+      "stars": 120974,
+      "forks": 17356,
+      "pillarPoints": {
+        "popularity": 13.502092050209209,
+        "activity": 20.606268122934697,
+        "growth": 6.2318423614888925,
+        "health": 13.916251223501188,
+        "impact": 10.869712082398424
+      }
+    },
+    {
+      "fullName": "Comfy-Org/ComfyUI",
+      "rank": 49,
+      "score": 65.09136578848913,
+      "stars": 144604,
+      "forks": 17235,
+      "pillarPoints": {
+        "popularity": 11.8744769874477,
+        "activity": 16.826085684181784,
+        "growth": 11.326169302621542,
+        "health": 13.159453990280273,
+        "impact": 11.90517982395783
+      }
+    },
+    {
+      "fullName": "yt-dlp/yt-dlp",
+      "rank": 50,
+      "score": 65.02095738090034,
+      "stars": 204686,
+      "forks": 17971,
+      "pillarPoints": {
+        "popularity": 14.585774058577408,
+        "activity": 12.767103709021315,
+        "growth": 14.633022529075513,
+        "health": 12.344000104082571,
+        "impact": 10.691056980143522
+      }
+    },
+    {
+      "fullName": "ruvnet/ruflo",
+      "rank": 51,
+      "score": 65.02064716770855,
+      "stars": 80604,
+      "forks": 9461,
+      "pillarPoints": {
+        "popularity": 3.744769874476988,
+        "activity": 20.359381252787724,
+        "growth": 14.948857580752867,
+        "health": 14.151453722033496,
+        "impact": 11.816184737657466
+      }
+    },
+    {
+      "fullName": "twbs/bootstrap",
+      "rank": 52,
+      "score": 64.89173814755318,
+      "stars": 174966,
+      "forks": 78505,
+      "pillarPoints": {
+        "popularity": 17.389121338912137,
+        "activity": 15.101875090133648,
+        "growth": 6.438576925673921,
+        "health": 13.687520441369044,
+        "impact": 12.274644351464433
+      }
+    },
+    {
+      "fullName": "pytorch/pytorch",
+      "rank": 53,
+      "score": 64.86441498121928,
+      "stars": 105082,
+      "forks": 31313,
+      "pillarPoints": {
+        "popularity": 13.740585774058578,
+        "activity": 18.503228198011108,
+        "growth": 5.688092778521708,
+        "health": 15.467676078427006,
+        "impact": 11.464832152200882
+      }
+    },
+    {
+      "fullName": "electron/electron",
+      "rank": 54,
+      "score": 64.85693295060508,
+      "stars": 123711,
+      "forks": 17916,
+      "pillarPoints": {
+        "popularity": 13.389121338912133,
+        "activity": 18.025441625783678,
+        "growth": 6.70084765914681,
+        "health": 15.501318719549829,
+        "impact": 11.24020360721264
+      }
+    },
+    {
+      "fullName": "ai-job-search-dev/ai-job-search",
+      "rank": 55,
+      "score": 64.82576661166021,
+      "stars": 68968,
+      "forks": 22034,
+      "pillarPoints": {
+        "popularity": 4.543933054393306,
+        "activity": 15.803892407457498,
+        "growth": 17.893335354738575,
+        "health": 15.630029381244324,
+        "impact": 10.954576413826508
+      }
+    },
+    {
+      "fullName": "rustdesk/rustdesk",
+      "rank": 56,
+      "score": 64.79700505197636,
+      "stars": 127898,
+      "forks": 20244,
+      "pillarPoints": {
+        "popularity": 11.435146443514643,
+        "activity": 15.829206178980751,
+        "growth": 10.186760058868622,
+        "health": 16.699284330052304,
+        "impact": 10.646608040560041
+      }
+    },
+    {
+      "fullName": "garrytan/gstack",
+      "rank": 57,
+      "score": 64.7194311398946,
+      "stars": 138645,
+      "forks": 20554,
+      "pillarPoints": {
+        "popularity": 9.78661087866109,
+        "activity": 19.117975538565886,
+        "growth": 14.844995825254696,
+        "health": 10.183471930471532,
+        "impact": 10.786376966941395
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "rank": 58,
+      "score": 64.63118802336871,
+      "stars": 100133,
+      "forks": 5926,
+      "pillarPoints": {
+        "popularity": 4.610878661087867,
+        "activity": 17.957553436955752,
+        "growth": 17.108844230657226,
+        "health": 14.918404741050068,
+        "impact": 10.035506953617796
+      }
+    },
+    {
+      "fullName": "angular/angular",
+      "rank": 59,
+      "score": 64.31195746170077,
+      "stars": 101097,
+      "forks": 28933,
+      "pillarPoints": {
+        "popularity": 13.347280334728035,
+        "activity": 18.860801954461618,
+        "growth": 5.174114101342312,
+        "health": 15.612369457174324,
+        "impact": 11.317391613994483
       }
     },
     {
       "fullName": "godotengine/godot",
       "rank": 60,
-      "score": 64.36842903411441,
-      "stars": 119101,
-      "forks": 27205,
+      "score": 64.3035450597097,
+      "stars": 119449,
+      "forks": 27334,
       "pillarPoints": {
-        "popularity": 14.010460251046025,
-        "activity": 17.731340820226755,
-        "growth": 8.976603575050685,
-        "health": 12.2409682893823,
-        "impact": 11.409056098408653
+        "popularity": 13.945606694560672,
+        "activity": 18.034288010178543,
+        "growth": 8.351728573901294,
+        "health": 12.541806066692965,
+        "impact": 11.430115714376237
       }
     },
     {
-      "fullName": "EbookFoundation/free-programming-books",
+      "fullName": "bytedance/deer-flow",
       "rank": 61,
-      "score": 64.10242816466605,
-      "stars": 400152,
-      "forks": 67011,
+      "score": 64.28181642131852,
+      "stars": 84884,
+      "forks": 11931,
       "pillarPoints": {
-        "popularity": 19.380753138075317,
-        "activity": 9.98221388236735,
-        "growth": 11.313676784062269,
-        "health": 14.426571737945007,
-        "impact": 8.99921262221611
+        "popularity": 6.380753138075315,
+        "activity": 19.46384980642877,
+        "growth": 10.196673065632588,
+        "health": 17.20803134490799,
+        "impact": 11.032509066273853
       }
     },
     {
-      "fullName": "rustdesk/rustdesk",
+      "fullName": "JuliusBrussee/caveman",
       "rank": 62,
-      "score": 64.02536111298285,
-      "stars": 127112,
-      "forks": 20039,
+      "score": 64.09018191174997,
+      "stars": 116864,
+      "forks": 6783,
       "pillarPoints": {
-        "popularity": 11.426778242677825,
-        "activity": 15.191681213283653,
-        "growth": 9.825213785566625,
-        "health": 16.961485694005606,
-        "impact": 10.62020217744915
+        "popularity": 6.269874476987448,
+        "activity": 17.668456437606828,
+        "growth": 14.081369033029201,
+        "health": 16.53874399398803,
+        "impact": 9.531737970138447
       }
     },
     {
-      "fullName": "electron/electron",
+      "fullName": "ultraworkers/claw-code",
       "rank": 63,
-      "score": 63.97937681898354,
-      "stars": 123559,
-      "forks": 17714,
+      "score": 64.0098016763089,
+      "stars": 194980,
+      "forks": 107578,
       "pillarPoints": {
-        "popularity": 13.345188284518827,
-        "activity": 17.86315700016397,
-        "growth": 6.300356500690583,
-        "health": 15.255645786152586,
-        "impact": 11.215029247457577
+        "popularity": 14.523012552301257,
+        "activity": 15.284301814535612,
+        "growth": 8.681171548117156,
+        "health": 14.457340865957383,
+        "impact": 11.063974895397491
       }
     },
     {
-      "fullName": "flutter/flutter",
+      "fullName": "firecrawl/firecrawl",
       "rank": 64,
-      "score": 63.90552916612617,
-      "stars": 180379,
-      "forks": 33296,
+      "score": 63.88969719794747,
+      "stars": 197868,
+      "forks": 10455,
       "pillarPoints": {
-        "popularity": 16.518828451882843,
-        "activity": 15.625989856680711,
-        "growth": 6.010231624975075,
-        "health": 14.538759779305286,
-        "impact": 11.211719453282246
+        "popularity": 10.608786610878662,
+        "activity": 15.098624426492806,
+        "growth": 13.12731198367011,
+        "health": 14.652906935933027,
+        "impact": 10.402067240972869
       }
     },
     {
-      "fullName": "msitarzewski/agency-agents",
+      "fullName": "public-apis/public-apis",
       "rank": 65,
-      "score": 63.777105689401424,
-      "stars": 164126,
-      "forks": 26484,
+      "score": 63.799788476341284,
+      "stars": 495372,
+      "forks": 55281,
       "pillarPoints": {
-        "popularity": 12.439330543933053,
-        "activity": 13.779586705916241,
-        "growth": 17.624965575856024,
-        "health": 11.178152240029425,
-        "impact": 8.755070623666672
-      }
-    },
-    {
-      "fullName": "mattpocock/skills",
-      "rank": 66,
-      "score": 63.75797483791356,
-      "stars": 303698,
-      "forks": 25547,
-      "pillarPoints": {
-        "popularity": 13.09623430962343,
-        "activity": 13.787112054631145,
-        "growth": 17.175373887546215,
-        "health": 10.497161419869744,
-        "impact": 9.202093166243024
-      }
-    },
-    {
-      "fullName": "garrytan/gstack",
-      "rank": 67,
-      "score": 63.40994334124722,
-      "stars": 137779,
-      "forks": 20427,
-      "pillarPoints": {
-        "popularity": 9.85355648535565,
-        "activity": 18.069451168061203,
-        "growth": 14.866189928063179,
-        "health": 10.465802757905099,
-        "impact": 10.154943001862087
-      }
-    },
-    {
-      "fullName": "microsoft/PowerToys",
-      "rank": 68,
-      "score": 63.30076592439606,
-      "stars": 139964,
-      "forks": 8638,
-      "pillarPoints": {
-        "popularity": 10.740585774058578,
-        "activity": 17.69535171934381,
-        "growth": 10.219028454654994,
-        "health": 13.65751265942072,
-        "impact": 10.988287316917955
-      }
-    },
-    {
-      "fullName": "nexu-io/open-design",
-      "rank": 69,
-      "score": 63.13890274747533,
-      "stars": 104069,
-      "forks": 11897,
-      "pillarPoints": {
-        "popularity": 8.255230125523013,
-        "activity": 16.65203974178179,
-        "growth": 10.001893025237111,
-        "health": 15.655434094404647,
-        "impact": 12.574305760528768
-      }
-    },
-    {
-      "fullName": "react/react-native",
-      "rank": 70,
-      "score": 63.08640141722272,
-      "stars": 126795,
-      "forks": 25384,
-      "pillarPoints": {
-        "popularity": 14.90794979079498,
-        "activity": 14.449150543216524,
-        "growth": 7.0070894810761715,
-        "health": 16.875017929219535,
-        "impact": 9.847193672915509
-      }
-    },
-    {
-      "fullName": "langflow-ai/langflow",
-      "rank": 71,
-      "score": 62.80560933842882,
-      "stars": 156031,
-      "forks": 10248,
-      "pillarPoints": {
-        "popularity": 10.489539748953975,
-        "activity": 17.91035942577493,
-        "growth": 7.686560611222464,
-        "health": 14.497304934056096,
-        "impact": 12.221844618421361
-      }
-    },
-    {
-      "fullName": "ant-design/ant-design",
-      "rank": 72,
-      "score": 62.7608506825473,
-      "stars": 99901,
-      "forks": 54647,
-      "pillarPoints": {
-        "popularity": 11.891213389121342,
-        "activity": 16.267268432021588,
-        "growth": 6.130251932506173,
-        "health": 15.369773832663892,
-        "impact": 13.102343096234309
-      }
-    },
-    {
-      "fullName": "avelino/awesome-go",
-      "rank": 73,
-      "score": 62.723286635784305,
-      "stars": 190435,
-      "forks": 13665,
-      "pillarPoints": {
-        "popularity": 14.928870292887028,
-        "activity": 11.685750939387477,
-        "growth": 11.701354633052047,
-        "health": 17.46854070625878,
-        "impact": 6.938770064198978
-      }
-    },
-    {
-      "fullName": "microsoft/playwright",
-      "rank": 74,
-      "score": 62.12677879895938,
-      "stars": 98544,
-      "forks": 6695,
-      "pillarPoints": {
-        "popularity": 7.6903765690376575,
-        "activity": 17.969326617790227,
-        "growth": 10.091927863647616,
-        "health": 15.403056676534883,
-        "impact": 10.972091071948999
+        "popularity": 18.69037656903766,
+        "activity": 13.540571536859442,
+        "growth": 12.746254881041002,
+        "health": 9.956758950422815,
+        "impact": 8.865826538980365
       }
     },
     {
       "fullName": "clash-verge-rev/clash-verge-rev",
-      "rank": 75,
-      "score": 61.8167372630744,
-      "stars": 154000,
-      "forks": 11052,
+      "rank": 66,
+      "score": 63.70749248912714,
+      "stars": 155760,
+      "forks": 11195,
       "pillarPoints": {
-        "popularity": 9.702928870292887,
-        "activity": 15.210408725026664,
-        "growth": 10.791933739518495,
-        "health": 15.276004275244995,
-        "impact": 10.835461652991361
+        "popularity": 9.761506276150628,
+        "activity": 15.867702526384225,
+        "growth": 11.830918352571441,
+        "health": 15.379500321223563,
+        "impact": 10.867865012797287
       }
     },
     {
-      "fullName": "shadcn-ui/ui",
-      "rank": 76,
-      "score": 61.75373751231353,
-      "stars": 126575,
-      "forks": 12534,
+      "fullName": "EbookFoundation/free-programming-books",
+      "rank": 67,
+      "score": 63.3700206761699,
+      "stars": 400733,
+      "forks": 67059,
       "pillarPoints": {
-        "popularity": 10.223849372384937,
-        "activity": 16.331955943928747,
-        "growth": 12.506195555797856,
-        "health": 11.66830147309829,
-        "impact": 11.023435167103699
+        "popularity": 19.368200836820083,
+        "activity": 9.746211964405607,
+        "growth": 10.244391798232524,
+        "health": 15.054311762653807,
+        "impact": 8.956904314057878
       }
     },
     {
-      "fullName": "mui/material-ui",
-      "rank": 77,
-      "score": 61.74379562081759,
-      "stars": 99280,
-      "forks": 32492,
+      "fullName": "nexu-io/open-design",
+      "rank": 68,
+      "score": 63.327601538349946,
+      "stars": 105479,
+      "forks": 12031,
       "pillarPoints": {
-        "popularity": 12.765690376569038,
-        "activity": 16.444813687106844,
-        "growth": 6.144914900433656,
-        "health": 14.364706313922001,
-        "impact": 12.023670342786051
+        "popularity": 8.347280334728035,
+        "activity": 16.799293600003228,
+        "growth": 10.670052886137638,
+        "health": 14.864717342329206,
+        "impact": 12.646257375151833
       }
     },
     {
-      "fullName": "pbakaus/impeccable",
-      "rank": 78,
-      "score": 61.71409177440202,
-      "stars": 88473,
-      "forks": 5282,
+      "fullName": "microsoft/PowerToys",
+      "rank": 69,
+      "score": 63.060908704377255,
+      "stars": 140420,
+      "forks": 8688,
       "pillarPoints": {
-        "popularity": 2.882845188284519,
-        "activity": 18.12618141510651,
-        "growth": 16.373872292595134,
-        "health": 14.473444305381234,
-        "impact": 9.857748573034621
+        "popularity": 10.694560669456067,
+        "activity": 17.58731652258193,
+        "growth": 9.499687897817921,
+        "health": 14.289935556567288,
+        "impact": 10.98940805795405
       }
     },
     {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "rank": 79,
-      "score": 61.53233558250764,
-      "stars": 74100,
-      "forks": 12982,
+      "fullName": "ant-design/ant-design",
+      "rank": 70,
+      "score": 62.90849162160242,
+      "stars": 100043,
+      "forks": 54641,
       "pillarPoints": {
-        "popularity": 4.018828451882845,
-        "activity": 16.896864478003607,
-        "growth": 19.159832635983264,
-        "health": 12.230852992600527,
-        "impact": 9.225957024037402
+        "popularity": 11.824267782426778,
+        "activity": 16.092669743267436,
+        "growth": 6.459889421789611,
+        "health": 15.458693962821526,
+        "impact": 13.07297071129707
       }
     },
     {
-      "fullName": "opencv/opencv",
-      "rank": 80,
-      "score": 61.187398209915195,
-      "stars": 91328,
-      "forks": 57063,
+      "fullName": "headroomlabs-ai/headroom",
+      "rank": 71,
+      "score": 62.90155001710711,
+      "stars": 78638,
+      "forks": 6138,
       "pillarPoints": {
-        "popularity": 12.882845188284517,
-        "activity": 16.41013174595758,
-        "growth": 8.664848514898118,
-        "health": 12.612208744038576,
-        "impact": 10.617364016736405
+        "popularity": 3.6150627615062763,
+        "activity": 18.453179011677644,
+        "growth": 10.672862251719401,
+        "health": 18.073186182649053,
+        "impact": 12.087259809554741
       }
     },
     {
-      "fullName": "NationalSecurityAgency/ghidra",
-      "rank": 81,
-      "score": 61.16911494364809,
-      "stars": 94495,
-      "forks": 10615,
+      "fullName": "microsoft/playwright",
+      "rank": 72,
+      "score": 62.723503568882464,
+      "stars": 99108,
+      "forks": 6783,
       "pillarPoints": {
-        "popularity": 8.175732217573223,
-        "activity": 15.786971869513803,
-        "growth": 16.561891795301367,
-        "health": 11.913454948372447,
-        "impact": 8.731064112887246
+        "popularity": 7.642259414225943,
+        "activity": 18.08522920765315,
+        "growth": 10.19821716087058,
+        "health": 15.794984423152576,
+        "impact": 11.00281336298021
       }
     },
     {
       "fullName": "infiniflow/ragflow",
-      "rank": 82,
-      "score": 61.16418410904035,
-      "stars": 92894,
-      "forks": 11116,
+      "rank": 73,
+      "score": 62.626389070963526,
+      "stars": 93363,
+      "forks": 11207,
       "pillarPoints": {
-        "popularity": 7.665271966527197,
-        "activity": 17.197962300441255,
-        "growth": 8.745442294470434,
-        "health": 15.951923620161068,
-        "impact": 11.603583927440399
-      }
-    },
-    {
-      "fullName": "koala73/worldmonitor",
-      "rank": 83,
-      "score": 60.74334660616955,
-      "stars": 89565,
-      "forks": 13762,
-      "pillarPoints": {
-        "popularity": 6.527196652719668,
-        "activity": 20.08087278143033,
-        "growth": 9.529014806707945,
-        "health": 12.51758282914342,
-        "impact": 12.088679536168186
-      }
-    },
-    {
-      "fullName": "nilbuild/developer-roadmap",
-      "rank": 84,
-      "score": 60.577392241810536,
-      "stars": 370450,
-      "forks": 45156,
-      "pillarPoints": {
-        "popularity": 18.292887029288703,
-        "activity": 11.407864951247564,
-        "growth": 8.401899728593026,
-        "health": 13.541042192824312,
-        "impact": 8.93369833985693
-      }
-    },
-    {
-      "fullName": "modelcontextprotocol/servers",
-      "rank": 85,
-      "score": 60.552483648790975,
-      "stars": 91577,
-      "forks": 11867,
-      "pillarPoints": {
-        "popularity": 8.284518828451883,
-        "activity": 18.42677027513113,
-        "growth": 12.142367560905315,
-        "health": 11.091003704782471,
-        "impact": 10.607823279520176
+        "popularity": 7.665271966527198,
+        "activity": 17.245948684225183,
+        "growth": 9.388642225544231,
+        "health": 16.669039150239573,
+        "impact": 11.657487044427345
       }
     },
     {
       "fullName": "storybookjs/storybook",
-      "rank": 86,
-      "score": 60.53282080225078,
-      "stars": 91380,
-      "forks": 10460,
+      "rank": 74,
+      "score": 62.30882663581867,
+      "stars": 91426,
+      "forks": 10495,
       "pillarPoints": {
-        "popularity": 8.715481171548118,
-        "activity": 19.509687290649193,
-        "growth": 7.395891202290797,
-        "health": 13.562493698745312,
-        "impact": 11.349267439017357
+        "popularity": 8.514644351464435,
+        "activity": 19.812464056364107,
+        "growth": 7.341673365625767,
+        "health": 15.298226559394049,
+        "impact": 11.341818302970315
       }
     },
     {
-      "fullName": "tw93/Mole",
-      "rank": 87,
-      "score": 60.27808149526375,
-      "stars": 72937,
-      "forks": 2575,
+      "fullName": "fastapi/fastapi",
+      "rank": 75,
+      "score": 62.19593948271394,
+      "stars": 104558,
+      "forks": 10177,
       "pillarPoints": {
-        "popularity": 2.2175732217573225,
-        "activity": 17.854785338777642,
-        "growth": 15.358597020165185,
-        "health": 15.625959045270832,
-        "impact": 9.221166869292768
+        "popularity": 9.058577405857744,
+        "activity": 15.579288759589161,
+        "growth": 12.179951143916943,
+        "health": 14.29305292188221,
+        "impact": 11.085069251467885
       }
     },
     {
-      "fullName": "ruvnet/RuView",
-      "rank": 88,
-      "score": 59.83214093975742,
-      "stars": 99679,
-      "forks": 13031,
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "rank": 76,
+      "score": 62.183295141876805,
+      "stars": 137333,
+      "forks": 21931,
       "pillarPoints": {
-        "popularity": 7.435146443514645,
-        "activity": 15.93258923322814,
-        "growth": 12.646599041250143,
-        "health": 13.292757819195602,
-        "impact": 10.525048402568899
-      }
-    },
-    {
-      "fullName": "tt-a1i/archify",
-      "rank": 89,
-      "score": 59.74061647207943,
-      "stars": 89556,
-      "forks": 6062,
-      "pillarPoints": {
-        "popularity": 3.5020920502092054,
-        "activity": 18.9268339218581,
-        "growth": 16.631019459112707,
-        "health": 10.98306821647746,
-        "impact": 9.697602824421958
-      }
-    },
-    {
-      "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "rank": 90,
-      "score": 59.727961616981446,
-      "stars": 140663,
-      "forks": 14908,
-      "pillarPoints": {
-        "popularity": 9.93305439330544,
-        "activity": 11.505244250790957,
-        "growth": 12.994342970484606,
-        "health": 15.943449993613307,
-        "impact": 9.351870008787138
-      }
-    },
-    {
-      "fullName": "microsoft/TypeScript",
-      "rank": 91,
-      "score": 59.678341372064224,
-      "stars": 111623,
-      "forks": 16011,
-      "pillarPoints": {
-        "popularity": 12.255230125523015,
-        "activity": 16.70157246227196,
-        "growth": 6.807181925699552,
-        "health": 13.375493173774746,
-        "impact": 10.538863684794947
-      }
-    },
-    {
-      "fullName": "Leonxlnx/taste-skill",
-      "rank": 92,
-      "score": 59.48045046899874,
-      "stars": 102749,
-      "forks": 6943,
-      "pillarPoints": {
-        "popularity": 4.912133891213389,
-        "activity": 14.594084404074811,
-        "growth": 19.250209205020923,
-        "health": 13.110442867959932,
-        "impact": 7.613580100729686
-      }
-    },
-    {
-      "fullName": "iptv-org/iptv",
-      "rank": 93,
-      "score": 59.42958086677397,
-      "stars": 142409,
-      "forks": 8404,
-      "pillarPoints": {
-        "popularity": 10.98744769874477,
-        "activity": 12.900809802766137,
-        "growth": 11.446947679274873,
-        "health": 14.6461339116257,
-        "impact": 9.448241774362494
-      }
-    },
-    {
-      "fullName": "astral-sh/uv",
-      "rank": 94,
-      "score": 58.81949172442267,
-      "stars": 91201,
-      "forks": 3702,
-      "pillarPoints": {
-        "popularity": 4.94979079497908,
-        "activity": 18.776776748710528,
-        "growth": 9.440579082082586,
-        "health": 14.371047488456723,
-        "impact": 11.281297610193752
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "rank": 95,
-      "score": 58.64473295103504,
-      "stars": 305364,
-      "forks": 27206,
-      "pillarPoints": {
-        "popularity": 13.338912133891215,
-        "activity": 12.255003863089506,
-        "growth": 13.347523584660168,
-        "health": 10.173923534839341,
-        "impact": 9.529369834554814
-      }
-    },
-    {
-      "fullName": "spring-projects/spring-boot",
-      "rank": 96,
-      "score": 58.52975392866781,
-      "stars": 81777,
-      "forks": 44081,
-      "pillarPoints": {
-        "popularity": 11.464435146443517,
-        "activity": 18.278853550121706,
-        "growth": 5.408200261346196,
-        "health": 13.50236538916643,
-        "impact": 9.87589958158996
-      }
-    },
-    {
-      "fullName": "colbymchenry/codegraph",
-      "rank": 97,
-      "score": 58.32936251777964,
-      "stars": 75387,
-      "forks": 4940,
-      "pillarPoints": {
-        "popularity": 1.7949790794979084,
-        "activity": 18.541190768243588,
-        "growth": 15.707819239361525,
-        "health": 12.094961252411867,
-        "impact": 10.190412178264754
+        "popularity": 11.10041841004184,
+        "activity": 15.750855216517198,
+        "growth": 11.56342555883518,
+        "health": 15.01953643259436,
+        "impact": 8.749059523888228
       }
     },
     {
       "fullName": "f/prompts.chat",
-      "rank": 98,
-      "score": 58.12577327722301,
-      "stars": 174618,
-      "forks": 22307,
+      "rank": 77,
+      "score": 62.17458342489559,
+      "stars": 175606,
+      "forks": 22407,
       "pillarPoints": {
-        "popularity": 14.642259414225942,
-        "activity": 12.579043358457339,
-        "growth": 15.246944604172644,
-        "health": 9.270602175124596,
-        "impact": 6.386923725242492
+        "popularity": 14.669456066945607,
+        "activity": 13.458531771892716,
+        "growth": 14.74642699491778,
+        "health": 12.889466125125434,
+        "impact": 6.410702466014043
+      }
+    },
+    {
+      "fullName": "langflow-ai/langflow",
+      "rank": 78,
+      "score": 62.0795018056066,
+      "stars": 156259,
+      "forks": 10310,
+      "pillarPoints": {
+        "popularity": 10.472803347280335,
+        "activity": 17.314208902540436,
+        "growth": 7.645761638410346,
+        "health": 14.42384621290141,
+        "impact": 12.222881704474071
+      }
+    },
+    {
+      "fullName": "shadcn-ui/ui",
+      "rank": 79,
+      "score": 61.726261512536,
+      "stars": 127179,
+      "forks": 11995,
+      "pillarPoints": {
+        "popularity": 10.135983263598328,
+        "activity": 16.246115167594315,
+        "growth": 12.231951771799665,
+        "health": 12.071463293889806,
+        "impact": 11.040748015653884
+      }
+    },
+    {
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "rank": 80,
+      "score": 61.689483197833844,
+      "stars": 76348,
+      "forks": 13521,
+      "pillarPoints": {
+        "popularity": 4.142259414225942,
+        "activity": 17.30465082990918,
+        "growth": 18.62314021471593,
+        "health": 12.376773835126349,
+        "impact": 9.242658903856444
+      }
+    },
+    {
+      "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "rank": 81,
+      "score": 61.29619708485647,
+      "stars": 144138,
+      "forks": 15257,
+      "pillarPoints": {
+        "popularity": 10.138075313807533,
+        "activity": 11.053576934015949,
+        "growth": 14.732018865636181,
+        "health": 16.020113449018066,
+        "impact": 9.352412522378744
+      }
+    },
+    {
+      "fullName": "NationalSecurityAgency/ghidra",
+      "rank": 82,
+      "score": 61.283575131854846,
+      "stars": 97041,
+      "forks": 10970,
+      "pillarPoints": {
+        "popularity": 8.510460251046027,
+        "activity": 15.79444219843443,
+        "growth": 16.03121925374595,
+        "health": 12.157044061479603,
+        "impact": 8.790409367148829
+      }
+    },
+    {
+      "fullName": "mui/material-ui",
+      "rank": 83,
+      "score": 61.19949398061111,
+      "stars": 99298,
+      "forks": 32516,
+      "pillarPoints": {
+        "popularity": 12.753138075313808,
+        "activity": 16.40926938798764,
+        "growth": 6.09470755764165,
+        "health": 13.989696804579463,
+        "impact": 11.952682155088553
+      }
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "rank": 84,
+      "score": 61.19205468931439,
+      "stars": 102073,
+      "forks": 13264,
+      "pillarPoints": {
+        "popularity": 7.510460251046027,
+        "activity": 15.635772638175254,
+        "growth": 14.313500565663432,
+        "health": 13.301783800497846,
+        "impact": 10.430537433931832
+      }
+    },
+    {
+      "fullName": "avelino/awesome-go",
+      "rank": 85,
+      "score": 60.71191855919705,
+      "stars": 191671,
+      "forks": 13692,
+      "pillarPoints": {
+        "popularity": 14.962343096234312,
+        "activity": 11.338873875606009,
+        "growth": 10.37693752820332,
+        "health": 17.032918086640674,
+        "impact": 7.000845972512741
+      }
+    },
+    {
+      "fullName": "opencv/opencv",
+      "rank": 86,
+      "score": 59.89049138571403,
+      "stars": 91410,
+      "forks": 57077,
+      "pillarPoints": {
+        "popularity": 12.707112970711295,
+        "activity": 16.259637737211488,
+        "growth": 7.537487363234456,
+        "health": 12.644998084431267,
+        "impact": 10.741255230125525
+      }
+    },
+    {
+      "fullName": "koala73/worldmonitor",
+      "rank": 87,
+      "score": 59.44321925864473,
+      "stars": 90007,
+      "forks": 13903,
+      "pillarPoints": {
+        "popularity": 6.468619246861924,
+        "activity": 20.198388129466096,
+        "growth": 8.40874005092141,
+        "health": 12.181816240172807,
+        "impact": 12.185655591222496
+      }
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "rank": 88,
+      "score": 59.420475956274124,
+      "stars": 107918,
+      "forks": 9630,
+      "pillarPoints": {
+        "popularity": 6.054393305439332,
+        "activity": 13.65042965016835,
+        "growth": 19.538075313807536,
+        "health": 11.666190290446583,
+        "impact": 8.511387396412324
+      }
+    },
+    {
+      "fullName": "2dust/v2rayN",
+      "rank": 89,
+      "score": 59.368421697666946,
+      "stars": 119799,
+      "forks": 16252,
+      "pillarPoints": {
+        "popularity": 10.242677824267782,
+        "activity": 14.163957210450368,
+        "growth": 10.228605719395691,
+        "health": 14.874554584254836,
+        "impact": 9.858626359298267
+      }
+    },
+    {
+      "fullName": "modelcontextprotocol/servers",
+      "rank": 90,
+      "score": 59.36686461173017,
+      "stars": 91742,
+      "forks": 11906,
+      "pillarPoints": {
+        "popularity": 8.133891213389122,
+        "activity": 17.835148220933633,
+        "growth": 11.42567260921019,
+        "health": 11.363699711181162,
+        "impact": 10.608452857016069
+      }
+    },
+    {
+      "fullName": "Leonxlnx/taste-skill",
+      "rank": 91,
+      "score": 59.31569995217471,
+      "stars": 108417,
+      "forks": 7305,
+      "pillarPoints": {
+        "popularity": 5.338912133891214,
+        "activity": 13.790014012777,
+        "growth": 19.54979079497908,
+        "health": 12.911826850577365,
+        "impact": 7.725156159950057
+      }
+    },
+    {
+      "fullName": "nilbuild/developer-roadmap",
+      "rank": 92,
+      "score": 59.03789682423835,
+      "stars": 371062,
+      "forks": 45178,
+      "pillarPoints": {
+        "popularity": 18.292887029288703,
+        "activity": 10.80096101975968,
+        "growth": 7.4010729568976625,
+        "health": 13.561720705504987,
+        "impact": 8.981255112787318
+      }
+    },
+    {
+      "fullName": "bitcoin/bitcoin",
+      "rank": 93,
+      "score": 59.02344679247325,
+      "stars": 90588,
+      "forks": 39437,
+      "pillarPoints": {
+        "popularity": 12.158995815899583,
+        "activity": 16.874481844405352,
+        "growth": 5.778197525880022,
+        "health": 13.702482903359423,
+        "impact": 10.509288702928872
+      }
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "rank": 94,
+      "score": 58.6382416287244,
+      "stars": 66327,
+      "forks": 5800,
+      "pillarPoints": {
+        "popularity": 2.175732217573222,
+        "activity": 16.391002236962656,
+        "growth": 13.465818858293396,
+        "health": 17.253875442968646,
+        "impact": 9.351812872926471
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "rank": 95,
+      "score": 58.51150585797264,
+      "stars": 112713,
+      "forks": 11800,
+      "pillarPoints": {
+        "popularity": 7.895397489539749,
+        "activity": 15.272500009955547,
+        "growth": 13.420781355305609,
+        "health": 13.30806251464797,
+        "impact": 8.614764488523765
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "rank": 96,
+      "score": 58.49307072846652,
+      "stars": 311025,
+      "forks": 27677,
+      "pillarPoints": {
+        "popularity": 13.416317991631802,
+        "activity": 11.657728638334572,
+        "growth": 13.990833818552979,
+        "health": 10.0057851567195,
+        "impact": 9.422405123227659
+      }
+    },
+    {
+      "fullName": "spring-projects/spring-boot",
+      "rank": 97,
+      "score": 58.36727054609919,
+      "stars": 81730,
+      "forks": 43465,
+      "pillarPoints": {
+        "popularity": 11.410041841004187,
+        "activity": 18.275232207797824,
+        "growth": 5.757275920952736,
+        "health": 12.992335639105947,
+        "impact": 9.932384937238496
+      }
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "rank": 98,
+      "score": 58.34525019766533,
+      "stars": 92637,
+      "forks": 6327,
+      "pillarPoints": {
+        "popularity": 4.041841004184101,
+        "activity": 18.37556462126419,
+        "growth": 15.642860261792668,
+        "health": 10.480190793523942,
+        "impact": 9.804793516900423
+      }
+    },
+    {
+      "fullName": "astral-sh/uv",
+      "rank": 99,
+      "score": 58.33781076550467,
+      "stars": 91460,
+      "forks": 3743,
+      "pillarPoints": {
+        "popularity": 4.899581589958159,
+        "activity": 18.746529004643484,
+        "growth": 8.701558074916244,
+        "health": 14.667281298528167,
+        "impact": 11.322860797458613
       }
     },
     {
       "fullName": "jaywcjlove/awesome-mac",
-      "rank": 99,
-      "score": 57.88880803393654,
-      "stars": 117075,
-      "forks": 9715,
-      "pillarPoints": {
-        "popularity": 10.715481171548117,
-        "activity": 13.946504076319075,
-        "growth": 13.707157061197952,
-        "health": 12.764432685756358,
-        "impact": 6.75523303911504
-      }
-    },
-    {
-      "fullName": "python/cpython",
       "rank": 100,
-      "score": 57.85616927538705,
-      "stars": 77772,
-      "forks": 37611,
+      "score": 58.23048992482596,
+      "stars": 117601,
+      "forks": 9938,
       "pillarPoints": {
-        "popularity": 11.004184100418412,
-        "activity": 16.815113727850257,
-        "growth": 6.281684472053471,
-        "health": 13.097530071299229,
-        "impact": 10.657656903765691
+        "popularity": 10.694560669456068,
+        "activity": 14.276410140866098,
+        "growth": 13.667860022576825,
+        "health": 12.778750851030571,
+        "impact": 6.8129082408963955
       }
     },
     {
-      "fullName": "redis/redis",
+      "fullName": "iptv-org/iptv",
       "rank": 101,
-      "score": 57.77768996394498,
-      "stars": 77110,
-      "forks": 24908,
+      "score": 57.81313291493427,
+      "stars": 143063,
+      "forks": 8495,
       "pillarPoints": {
-        "popularity": 9.514644351464435,
-        "activity": 14.828416763017835,
-        "growth": 8.575184187348961,
-        "health": 14.617473094028385,
-        "impact": 10.241971568085368
+        "popularity": 10.99581589958159,
+        "activity": 12.690836540545211,
+        "growth": 10.041094624647872,
+        "health": 14.636766057556885,
+        "impact": 9.44861979260271
       }
     },
     {
       "fullName": "puppeteer/puppeteer",
       "rank": 102,
-      "score": 57.646331683959474,
-      "stars": 95745,
-      "forks": 9578,
+      "score": 57.455986813465714,
+      "stars": 95790,
+      "forks": 9599,
       "pillarPoints": {
-        "popularity": 8.334728033472803,
-        "activity": 16.246823832479805,
-        "growth": 7.602388738569163,
-        "health": 15.750035830105832,
-        "impact": 9.712355249331875
+        "popularity": 8.02510460251046,
+        "activity": 16.066812856218036,
+        "growth": 7.607818495342583,
+        "health": 16.103283135804723,
+        "impact": 9.652967723589914
       }
     },
     {
-      "fullName": "code-yeongyu/oh-my-openagent",
+      "fullName": "ripienaar/free-for-dev",
       "rank": 103,
-      "score": 57.5950844946888,
-      "stars": 70347,
-      "forks": 5797,
+      "score": 57.43859151021333,
+      "stars": 141536,
+      "forks": 15169,
       "pillarPoints": {
-        "popularity": 3.2761506276150634,
-        "activity": 21.29651611626973,
-        "growth": 9.119072849397499,
-        "health": 11.212253350098944,
-        "impact": 12.691091551307556
+        "popularity": 13.485355648535565,
+        "activity": 10.658670876879912,
+        "growth": 13.224566639013752,
+        "health": 14.109110181311019,
+        "impact": 5.960888164473081
       }
     },
     {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "fullName": "python/cpython",
       "rank": 104,
-      "score": 57.553082614860685,
-      "stars": 67085,
-      "forks": 55646,
+      "score": 57.32519723903197,
+      "stars": 77794,
+      "forks": 37165,
       "pillarPoints": {
-        "popularity": 6.510460251046026,
-        "activity": 13.82418604914593,
-        "growth": 11.613603053262885,
-        "health": 14.742586399481159,
-        "impact": 10.862246861924687
-      }
-    },
-    {
-      "fullName": "anthropics/claude-code",
-      "rank": 105,
-      "score": 57.50600661559229,
-      "stars": 153423,
-      "forks": 26046,
-      "pillarPoints": {
-        "popularity": 11.527196652719669,
-        "activity": 14.972009975075329,
-        "growth": 7.747455486954581,
-        "health": 11.152678259614001,
-        "impact": 12.106666241228718
-      }
-    },
-    {
-      "fullName": "rtk-ai/rtk",
-      "rank": 106,
-      "score": 57.36426908247857,
-      "stars": 84601,
-      "forks": 5376,
-      "pillarPoints": {
-        "popularity": 3.5481171548117163,
-        "activity": 17.731716641451754,
-        "growth": 9.609309784483528,
-        "health": 14.462201505412944,
-        "impact": 12.01292399631863
-      }
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "rank": 107,
-      "score": 57.34034934229498,
-      "stars": 65528,
-      "forks": 5688,
-      "pillarPoints": {
-        "popularity": 2.1736401673640167,
-        "activity": 16.404828307977457,
-        "growth": 12.560831897684576,
-        "health": 16.902819288156536,
-        "impact": 9.298229681112396
-      }
-    },
-    {
-      "fullName": "axios/axios",
-      "rank": 108,
-      "score": 57.338734614420716,
-      "stars": 109308,
-      "forks": 11951,
-      "pillarPoints": {
-        "popularity": 10.343096234309623,
-        "activity": 14.128281547418933,
-        "growth": 8.321163548501264,
-        "health": 16.149286698171554,
-        "impact": 8.396906586019345
-      }
-    },
-    {
-      "fullName": "spring-projects/spring-framework",
-      "rank": 109,
-      "score": 56.87748846815758,
-      "stars": 60305,
-      "forks": 38746,
-      "pillarPoints": {
-        "popularity": 9.89121338912134,
-        "activity": 16.463401664752404,
-        "growth": 5.159718146833119,
-        "health": 15.4021510833503,
-        "impact": 9.961004184100418
-      }
-    },
-    {
-      "fullName": "vinta/awesome-python",
-      "rank": 110,
-      "score": 56.79842288648668,
-      "stars": 330377,
-      "forks": 29009,
-      "pillarPoints": {
-        "popularity": 16.778242677824267,
-        "activity": 10.837385573732142,
-        "growth": 13.897141357920223,
-        "health": 9.294761506276151,
-        "impact": 5.990891770733886
-      }
-    },
-    {
-      "fullName": "bitcoin/bitcoin",
-      "rank": 111,
-      "score": 56.60375801849821,
-      "stars": 90496,
-      "forks": 39406,
-      "pillarPoints": {
-        "popularity": 12.292887029288705,
-        "activity": 15.31453668473424,
-        "growth": 4.791028904964642,
-        "health": 13.715598286539915,
-        "impact": 10.489707112970711
-      }
-    },
-    {
-      "fullName": "Stirling-Tools/Stirling-PDF",
-      "rank": 112,
-      "score": 56.479825992167726,
-      "stars": 95051,
-      "forks": 10621,
-      "pillarPoints": {
-        "popularity": 6.619246861924687,
-        "activity": 17.507732118955406,
-        "growth": 7.734466725971971,
-        "health": 13.458956792382622,
-        "impact": 11.159423492933037
-      }
-    },
-    {
-      "fullName": "neovim/neovim",
-      "rank": 113,
-      "score": 55.73647931086588,
-      "stars": 103173,
-      "forks": 7243,
-      "pillarPoints": {
-        "popularity": 8.99163179916318,
-        "activity": 17.6609071738147,
-        "growth": 6.1983776410941696,
-        "health": 13.151150898630714,
-        "impact": 9.734411798163114
-      }
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "rank": 114,
-      "score": 55.6602231745853,
-      "stars": 102925,
-      "forks": 9132,
-      "pillarPoints": {
-        "popularity": 5.623430962343097,
-        "activity": 12.67936045617657,
-        "growth": 18.8198855721442,
-        "health": 10.158614656008282,
-        "impact": 8.378931527913142
-      }
-    },
-    {
-      "fullName": "browser-use/browser-use",
-      "rank": 115,
-      "score": 55.50342767361238,
-      "stars": 119179,
-      "forks": 13245,
-      "pillarPoints": {
-        "popularity": 9.780334728033473,
-        "activity": 13.95785008909048,
-        "growth": 8.81969610282002,
-        "health": 11.449305280670142,
-        "impact": 11.496241472998266
-      }
-    },
-    {
-      "fullName": "2dust/v2rayN",
-      "rank": 116,
-      "score": 55.4242388183394,
-      "stars": 119139,
-      "forks": 16172,
-      "pillarPoints": {
-        "popularity": 10.158995815899582,
-        "activity": 12.698979503975243,
-        "growth": 7.992510913994957,
-        "health": 14.745428592989743,
-        "impact": 9.828323991479872
-      }
-    },
-    {
-      "fullName": "ohmyzsh/ohmyzsh",
-      "rank": 117,
-      "score": 55.415888340533996,
-      "stars": 190168,
-      "forks": 28613,
-      "pillarPoints": {
-        "popularity": 16.493723849372387,
-        "activity": 10.289115710263468,
-        "growth": 4.310383180490632,
-        "health": 16.299927155880418,
-        "impact": 8.022738444527095
+        "popularity": 10.99163179916318,
+        "activity": 16.800700235095185,
+        "growth": 6.261516476477998,
+        "health": 12.652101866370918,
+        "impact": 10.619246861924688
       }
     },
     {
       "fullName": "louislam/uptime-kuma",
-      "rank": 118,
-      "score": 55.095077114911206,
-      "stars": 92937,
-      "forks": 8615,
+      "rank": 105,
+      "score": 57.2713123691048,
+      "stars": 93179,
+      "forks": 8654,
       "pillarPoints": {
-        "popularity": 7.096234309623431,
-        "activity": 14.76596060990914,
-        "growth": 9.319935105892936,
-        "health": 14.964661115629202,
-        "impact": 8.948285973856496
+        "popularity": 6.979079497907952,
+        "activity": 15.307526259934424,
+        "growth": 10.516149717135741,
+        "health": 15.442923810756898,
+        "impact": 9.025633083369792
+      }
+    },
+    {
+      "fullName": "redis/redis",
+      "rank": 106,
+      "score": 57.10509144578859,
+      "stars": 77142,
+      "forks": 25035,
+      "pillarPoints": {
+        "popularity": 9.531380753138075,
+        "activity": 15.018159209867482,
+        "growth": 7.829643048559352,
+        "health": 14.415809668365705,
+        "impact": 10.310098765857976
+      }
+    },
+    {
+      "fullName": "browser-use/browser-use",
+      "rank": 107,
+      "score": 56.85417588355101,
+      "stars": 119833,
+      "forks": 13356,
+      "pillarPoints": {
+        "popularity": 9.711297071129707,
+        "activity": 14.211698594813981,
+        "growth": 9.158461882619987,
+        "health": 12.272668333044255,
+        "impact": 11.50005000194308
+      }
+    },
+    {
+      "fullName": "microsoft/generative-ai-for-beginners",
+      "rank": 108,
+      "score": 56.76419607015141,
+      "stars": 122833,
+      "forks": 65726,
+      "pillarPoints": {
+        "popularity": 12.560669456066945,
+        "activity": 10.229479565180572,
+        "growth": 10.308441619605544,
+        "health": 14.433262333064034,
+        "impact": 9.232343096234311
+      }
+    },
+    {
+      "fullName": "rtk-ai/rtk",
+      "rank": 109,
+      "score": 56.743116883791515,
+      "stars": 85305,
+      "forks": 5458,
+      "pillarPoints": {
+        "popularity": 3.6359832635983262,
+        "activity": 17.45823932371024,
+        "growth": 9.920893215782268,
+        "health": 13.697622260327117,
+        "impact": 12.03037882037356
+      }
+    },
+    {
+      "fullName": "ansible/ansible",
+      "rank": 110,
+      "score": 56.72783926009611,
+      "stars": 71198,
+      "forks": 24477,
+      "pillarPoints": {
+        "popularity": 9.907949790794978,
+        "activity": 13.98109053318968,
+        "growth": 7.08697458849116,
+        "health": 14.403079766975898,
+        "impact": 11.348744580644395
+      }
+    },
+    {
+      "fullName": "code-yeongyu/oh-my-openagent",
+      "rank": 111,
+      "score": 56.67586563363932,
+      "stars": 70614,
+      "forks": 5829,
+      "pillarPoints": {
+        "popularity": 3.1213389121338917,
+        "activity": 21.23037417955618,
+        "growth": 8.861804581722838,
+        "health": 10.736345806849211,
+        "impact": 12.726002153377195
+      }
+    },
+    {
+      "fullName": "tw93/Mole",
+      "rank": 112,
+      "score": 56.6307320870142,
+      "stars": 73627,
+      "forks": 2609,
+      "pillarPoints": {
+        "popularity": 2.1715481171548117,
+        "activity": 17.915510855283497,
+        "growth": 12.757906418904282,
+        "health": 14.485330775169242,
+        "impact": 9.300435920502375
+      }
+    },
+    {
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "rank": 113,
+      "score": 56.54610095358228,
+      "stars": 67448,
+      "forks": 55851,
+      "pillarPoints": {
+        "popularity": 6.514644351464435,
+        "activity": 13.495421075352201,
+        "growth": 11.071076255197775,
+        "health": 14.477314920103437,
+        "impact": 10.987644351464434
+      }
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "rank": 114,
+      "score": 56.48323363120442,
+      "stars": 166047,
+      "forks": 26899,
+      "pillarPoints": {
+        "popularity": 12.564853556485357,
+        "activity": 11.373754852610901,
+        "growth": 12.797620444654036,
+        "health": 11.033698346848064,
+        "impact": 8.713306430606066
+      }
+    },
+    {
+      "fullName": "axios/axios",
+      "rank": 115,
+      "score": 56.4006905491835,
+      "stars": 109312,
+      "forks": 11984,
+      "pillarPoints": {
+        "popularity": 10.200836820083683,
+        "activity": 14.205417731623509,
+        "growth": 7.043354773478512,
+        "health": 16.559561229485137,
+        "impact": 8.391519994512654
+      }
+    },
+    {
+      "fullName": "neovim/neovim",
+      "rank": 116,
+      "score": 56.24231662220255,
+      "stars": 103299,
+      "forks": 7395,
+      "pillarPoints": {
+        "popularity": 8.966527196652722,
+        "activity": 17.62521521379096,
+        "growth": 6.53916911505825,
+        "health": 13.375299866812048,
+        "impact": 9.736105229888572
+      }
+    },
+    {
+      "fullName": "microsoft/TypeScript",
+      "rank": 117,
+      "score": 55.49187508570475,
+      "stars": 111718,
+      "forks": 15448,
+      "pillarPoints": {
+        "popularity": 12.125523012552303,
+        "activity": 16.329747735005327,
+        "growth": 5.563115097276613,
+        "health": 13.06701810587512,
+        "impact": 8.406471134995384
+      }
+    },
+    {
+      "fullName": "colbymchenry/codegraph",
+      "rank": 118,
+      "score": 55.36687579547843,
+      "stars": 76220,
+      "forks": 5065,
+      "pillarPoints": {
+        "popularity": 1.711297071129707,
+        "activity": 18.232363533752032,
+        "growth": 12.390447284355178,
+        "health": 12.781478172383668,
+        "impact": 10.251289733857838
       }
     },
     {
       "fullName": "upstash/context7",
       "rank": 119,
-      "score": 55.08407062166949,
-      "stars": 63709,
-      "forks": 3141,
+      "score": 55.20169930963419,
+      "stars": 64080,
+      "forks": 3200,
       "pillarPoints": {
-        "popularity": 1.5188284518828452,
-        "activity": 16.417786286583553,
-        "growth": 11.565553806348044,
-        "health": 15.778808388115632,
-        "impact": 9.803093688739418
-      }
-    },
-    {
-      "fullName": "TheAlgorithms/Python",
-      "rank": 120,
-      "score": 54.9035632562328,
-      "stars": 225530,
-      "forks": 51221,
-      "pillarPoints": {
-        "popularity": 17.895397489539754,
-        "activity": 8.974659956840686,
-        "growth": 2.8861207033212044,
-        "health": 15.97325282454434,
-        "impact": 9.174132281986811
-      }
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "rank": 121,
-      "score": 54.90300838595265,
-      "stars": 110648,
-      "forks": 11556,
-      "pillarPoints": {
-        "popularity": 7.7573221757322175,
-        "activity": 12.040083418539933,
-        "growth": 12.989701058765505,
-        "health": 13.560562182169585,
-        "impact": 8.555339550745416
-      }
-    },
-    {
-      "fullName": "scikit-learn/scikit-learn",
-      "rank": 122,
-      "score": 54.79269701563171,
-      "stars": 67928,
-      "forks": 27587,
-      "pillarPoints": {
-        "popularity": 9.94142259414226,
-        "activity": 13.9727656648172,
-        "growth": 6.685797301877214,
-        "health": 13.357313965255289,
-        "impact": 10.83539748953975
-      }
-    },
-    {
-      "fullName": "golang/go",
-      "rank": 123,
-      "score": 54.552624709139565,
-      "stars": 139610,
-      "forks": 21547,
-      "pillarPoints": {
-        "popularity": 14.665271966527197,
-        "activity": 11.964528432394065,
-        "growth": 7.775698109069043,
-        "health": 14.05163142925181,
-        "impact": 6.095494771897447
-      }
-    },
-    {
-      "fullName": "excalidraw/excalidraw",
-      "rank": 124,
-      "score": 54.43000278434658,
-      "stars": 134578,
-      "forks": 15844,
-      "pillarPoints": {
-        "popularity": 10.820083682008367,
-        "activity": 12.39895161112362,
-        "growth": 10.430141576684173,
-        "health": 10.953497577278332,
-        "impact": 9.827328337252085
-      }
-    },
-    {
-      "fullName": "tauri-apps/tauri",
-      "rank": 125,
-      "score": 54.39891576251655,
-      "stars": 112205,
-      "forks": 4116,
-      "pillarPoints": {
-        "popularity": 7.966527196652722,
-        "activity": 15.782099915165126,
-        "growth": 6.944262574648589,
-        "health": 15.19052875056678,
-        "impact": 8.515497325483336
-      }
-    },
-    {
-      "fullName": "Fission-AI/OpenSpec",
-      "rank": 126,
-      "score": 54.34578006843378,
-      "stars": 73021,
-      "forks": 4989,
-      "pillarPoints": {
-        "popularity": 2.6192468619246863,
-        "activity": 15.383381737274245,
-        "growth": 9.735289606954572,
-        "health": 16.426439713358715,
-        "impact": 10.181422148921566
-      }
-    },
-    {
-      "fullName": "Alishahryar1/free-claude-code",
-      "rank": 127,
-      "score": 54.32961379386263,
-      "stars": 63608,
-      "forks": 9942,
-      "pillarPoints": {
-        "popularity": 2.673640167364017,
-        "activity": 16.175440195418847,
-        "growth": 12.976639034602202,
-        "health": 11.779668777637482,
-        "impact": 10.724225618840078
-      }
-    },
-    {
-      "fullName": "ansible/ansible",
-      "rank": 128,
-      "score": 54.17660651031423,
-      "stars": 71122,
-      "forks": 24340,
-      "pillarPoints": {
-        "popularity": 9.95397489539749,
-        "activity": 13.302960762680913,
-        "growth": 6.332795118611354,
-        "health": 13.534041430048758,
-        "impact": 11.052834303575718
-      }
-    },
-    {
-      "fullName": "oven-sh/bun",
-      "rank": 129,
-      "score": 54.05026172804151,
-      "stars": 96416,
-      "forks": 5150,
-      "pillarPoints": {
-        "popularity": 7.280334728033473,
-        "activity": 18.564329508016392,
-        "growth": 4.115596105527807,
-        "health": 12.707342601033341,
-        "impact": 11.3826587854305
-      }
-    },
-    {
-      "fullName": "ripienaar/free-for-dev",
-      "rank": 130,
-      "score": 54.042882909400014,
-      "stars": 140055,
-      "forks": 14860,
-      "pillarPoints": {
-        "popularity": 13.430962343096237,
-        "activity": 10.776857906960585,
-        "growth": 9.947266699178714,
-        "health": 13.968524407252442,
-        "impact": 5.919271552912044
-      }
-    },
-    {
-      "fullName": "torvalds/linux",
-      "rank": 131,
-      "score": 53.7568321459452,
-      "stars": 253523,
-      "forks": 67401,
-      "pillarPoints": {
-        "popularity": 19.171548117154813,
-        "activity": 10.922098133015325,
-        "growth": 9.569953061990093,
-        "health": 9.094092050209207,
-        "impact": 4.999140783575759
-      }
-    },
-    {
-      "fullName": "usestrix/strix",
-      "rank": 132,
-      "score": 53.68207814185798,
-      "stars": 72016,
-      "forks": 8052,
-      "pillarPoints": {
-        "popularity": 2.560669456066946,
-        "activity": 14.538975210766816,
-        "growth": 16.192748604812383,
-        "health": 11.234621922786852,
-        "impact": 9.155062947424979
-      }
-    },
-    {
-      "fullName": "fatedier/frp",
-      "rank": 133,
-      "score": 53.27189949563836,
-      "stars": 110135,
-      "forks": 15257,
-      "pillarPoints": {
-        "popularity": 9.96652719665272,
-        "activity": 12.505364562911645,
-        "growth": 11.242217978085737,
-        "health": 12.20528180910923,
-        "impact": 7.35250794887902
+        "popularity": 1.4937238493723852,
+        "activity": 16.54973723056351,
+        "growth": 11.99742026116521,
+        "health": 15.285367825145372,
+        "impact": 9.875450143387713
       }
     },
     {
       "fullName": "D4Vinci/Scrapling",
-      "rank": 134,
-      "score": 53.239635601140385,
-      "stars": 89803,
-      "forks": 9287,
+      "rank": 120,
+      "score": 55.08775569124438,
+      "stars": 92378,
+      "forks": 9748,
       "pillarPoints": {
-        "popularity": 4.062761506276151,
-        "activity": 13.951248300922678,
-        "growth": 13.829429352673866,
-        "health": 13.645803269593962,
-        "impact": 7.7503931716737275
-      }
-    },
-    {
-      "fullName": "ai-job-search-dev/ai-job-search",
-      "rank": 135,
-      "score": 53.01069361915062,
-      "stars": 66049,
-      "forks": 20746,
-      "pillarPoints": {
-        "popularity": 4.355648535564854,
-        "activity": 14.650811916812842,
-        "growth": 7.37995224740066,
-        "health": 15.804475408553015,
-        "impact": 10.819805510819249
-      }
-    },
-    {
-      "fullName": "TauricResearch/TradingAgents",
-      "rank": 136,
-      "score": 52.99151844677982,
-      "stars": 115310,
-      "forks": 22193,
-      "pillarPoints": {
-        "popularity": 9.297071129707113,
-        "activity": 11.388543934093361,
-        "growth": 12.660058348694756,
-        "health": 11.05822287767492,
-        "impact": 8.58762215660967
-      }
-    },
-    {
-      "fullName": "eternity4719/HowToLiveBetter",
-      "rank": 137,
-      "score": 52.680508867806005,
-      "stars": 69352,
-      "forks": 6011,
-      "pillarPoints": {
-        "popularity": 1.3472803347280335,
-        "activity": 13.710035473483453,
-        "growth": 16.605391226262842,
-        "health": 12.206386599615227,
-        "impact": 8.811415233716446
-      }
-    },
-    {
-      "fullName": "microsoft/generative-ai-for-beginners",
-      "rank": 138,
-      "score": 52.66832922936113,
-      "stars": 122200,
-      "forks": 64916,
-      "pillarPoints": {
-        "popularity": 12.539748953974893,
-        "activity": 8.770169204899886,
-        "growth": 8.519991412382211,
-        "health": 13.628294135091586,
-        "impact": 9.210125523012552
-      }
-    },
-    {
-      "fullName": "django/django",
-      "rank": 139,
-      "score": 51.90606713513396,
-      "stars": 91660,
-      "forks": 36491,
-      "pillarPoints": {
-        "popularity": 12.460251046025107,
-        "activity": 10.521316231141627,
-        "growth": 7.934642117381455,
-        "health": 13.10902092050209,
-        "impact": 7.880836820083682
-      }
-    },
-    {
-      "fullName": "microsoft/terminal",
-      "rank": 140,
-      "score": 51.74923835915473,
-      "stars": 105243,
-      "forks": 9685,
-      "pillarPoints": {
-        "popularity": 9.263598326359833,
-        "activity": 13.63633004813685,
-        "growth": 6.440303269174501,
-        "health": 12.415045078106147,
-        "impact": 9.993961637377407
-      }
-    },
-    {
-      "fullName": "odysseus-dev/odysseus",
-      "rank": 141,
-      "score": 51.663886480006546,
-      "stars": 94467,
-      "forks": 1764,
-      "pillarPoints": {
-        "popularity": 5.527196652719666,
-        "activity": 12.792187794986418,
-        "growth": 11.714528703508126,
-        "health": 11.330421776553399,
-        "impact": 10.299551552238938
-      }
-    },
-    {
-      "fullName": "tailwindlabs/tailwindcss",
-      "rank": 142,
-      "score": 51.65399081650661,
-      "stars": 98123,
-      "forks": 7653,
-      "pillarPoints": {
-        "popularity": 7.330543933054394,
-        "activity": 10.092582840448502,
-        "growth": 11.009770747995576,
-        "health": 12.733177048483455,
-        "impact": 10.487916246524676
-      }
-    },
-    {
-      "fullName": "Snailclimb/JavaGuide",
-      "rank": 143,
-      "score": 51.6468550894684,
-      "stars": 159267,
-      "forks": 46126,
-      "pillarPoints": {
-        "popularity": 16.02092050209205,
-        "activity": 8.615306721504652,
-        "growth": 6.948094503687398,
-        "health": 12.0356911877856,
-        "impact": 8.026842174398702
-      }
-    },
-    {
-      "fullName": "localsend/localsend",
-      "rank": 144,
-      "score": 51.56215204512703,
-      "stars": 95706,
-      "forks": 5389,
-      "pillarPoints": {
-        "popularity": 5.602510460251047,
-        "activity": 13.514553085086478,
-        "growth": 12.920668925575448,
-        "health": 10.70419127043121,
-        "impact": 8.820228303782846
-      }
-    },
-    {
-      "fullName": "microsoft/markitdown",
-      "rank": 145,
-      "score": 51.41712166266182,
-      "stars": 192290,
-      "forks": 14368,
-      "pillarPoints": {
-        "popularity": 11.322175732217572,
-        "activity": 12.571336991044458,
-        "growth": 7.137906905753614,
-        "health": 11.105287840561331,
-        "impact": 9.280414193084843
-      }
-    },
-    {
-      "fullName": "calesthio/OpenMontage",
-      "rank": 146,
-      "score": 51.359141973342204,
-      "stars": 72051,
-      "forks": 9353,
-      "pillarPoints": {
-        "popularity": 3.071129707112971,
-        "activity": 9.462562539268351,
-        "growth": 18.922175732217575,
-        "health": 12.156012599006011,
-        "impact": 7.747261395737294
-      }
-    },
-    {
-      "fullName": "krahets/hello-algo",
-      "rank": 147,
-      "score": 51.204469577688336,
-      "stars": 131244,
-      "forks": 15524,
-      "pillarPoints": {
-        "popularity": 10.497907949790795,
-        "activity": 7.0636736278357635,
-        "growth": 12.472003318676968,
-        "health": 12.71921417479763,
-        "impact": 8.451670506587176
+        "popularity": 4.493723849372386,
+        "activity": 13.54182299949104,
+        "growth": 15.609282581058604,
+        "health": 13.688654673084438,
+        "impact": 7.754271588237921
       }
     },
     {
       "fullName": "microsoft/ai-agents-for-beginners",
-      "rank": 148,
-      "score": 50.78687572895571,
-      "stars": 77912,
-      "forks": 25556,
+      "rank": 121,
+      "score": 54.838428928835484,
+      "stars": 78691,
+      "forks": 25772,
       "pillarPoints": {
-        "popularity": 6.606694560669456,
-        "activity": 9.397004594084612,
-        "growth": 12.246647588875291,
-        "health": 13.72497466441242,
-        "impact": 8.81155432091393
-      }
-    },
-    {
-      "fullName": "unclecode/crawl4ai",
-      "rank": 149,
-      "score": 50.75047027420809,
-      "stars": 86290,
-      "forks": 8976,
-      "pillarPoints": {
-        "popularity": 4.297071129707113,
-        "activity": 13.916234359444521,
-        "growth": 10.075098118377749,
-        "health": 14.51149389101854,
-        "impact": 7.950572775660163
-      }
-    },
-    {
-      "fullName": "Genymobile/scrcpy",
-      "rank": 150,
-      "score": 50.28655595258881,
-      "stars": 153178,
-      "forks": 14050,
-      "pillarPoints": {
-        "popularity": 11.602510460251047,
-        "activity": 12.200742609005157,
-        "growth": 11.250991960440212,
-        "health": 7.917927874888132,
-        "impact": 7.314383048004261
+        "popularity": 6.602510460251048,
+        "activity": 11.11854919271832,
+        "growth": 15.132985851737384,
+        "health": 13.132763119530736,
+        "impact": 8.851620304598
       }
     },
     {
       "fullName": "CyC2018/CS-Notes",
-      "rank": 151,
-      "score": 50.0831875731448,
-      "stars": 186346,
-      "forks": 50663,
+      "rank": 122,
+      "score": 54.81959150405733,
+      "stars": 186430,
+      "forks": 50665,
       "pillarPoints": {
-        "popularity": 15.619246861924688,
-        "activity": 10.58885857587931,
-        "growth": 9.890831557126665,
-        "health": 7.241191273857147,
-        "impact": 6.743059304356986
+        "popularity": 15.602510460251048,
+        "activity": 13.531857992732931,
+        "growth": 10.21802321396857,
+        "health": 8.566033154465982,
+        "impact": 6.901166682638799
       }
     },
     {
-      "fullName": "mermaid-js/mermaid",
-      "rank": 152,
-      "score": 49.76280573479803,
-      "stars": 90875,
-      "forks": 9404,
+      "fullName": "anthropics/claude-code",
+      "rank": 123,
+      "score": 54.62733692703759,
+      "stars": 154261,
+      "forks": 25528,
       "pillarPoints": {
-        "popularity": 7.179916317991632,
-        "activity": 15.125080172837574,
-        "growth": 5.267245480144603,
-        "health": 13.087914338490567,
-        "impact": 9.102649425333661
+        "popularity": 11.443514644351465,
+        "activity": 14.577273081557168,
+        "growth": 6.060698953420221,
+        "health": 10.512176988572502,
+        "impact": 12.03367325913624
       }
     },
     {
-      "fullName": "punkpeye/awesome-mcp-servers",
-      "rank": 153,
-      "score": 49.131855047356595,
-      "stars": 96884,
-      "forks": 18514,
+      "fullName": "Stirling-Tools/Stirling-PDF",
+      "rank": 124,
+      "score": 54.61196135229482,
+      "stars": 95563,
+      "forks": 10013,
       "pillarPoints": {
-        "popularity": 9.84100418410042,
-        "activity": 13.720080839170745,
-        "growth": 7.531674805930113,
-        "health": 9.36142817294282,
-        "impact": 8.677667045212504
+        "popularity": 6.242677824267783,
+        "activity": 17.051215083005943,
+        "growth": 6.545482180698313,
+        "health": 13.74763319802645,
+        "impact": 11.024953066296336
       }
     },
     {
-      "fullName": "denoland/deno",
-      "rank": 154,
-      "score": 49.10474333081957,
-      "stars": 108772,
-      "forks": 6463,
+      "fullName": "oven-sh/bun",
+      "rank": 125,
+      "score": 54.48905151528817,
+      "stars": 96513,
+      "forks": 5288,
       "pillarPoints": {
-        "popularity": 9.577405857740587,
-        "activity": 13.240017452646438,
-        "growth": 3.1302135834869316,
-        "health": 11.911975633993158,
-        "impact": 11.24513080295246
+        "popularity": 7.096234309623431,
+        "activity": 18.330396373653997,
+        "growth": 5.078081903873142,
+        "health": 12.620390927462863,
+        "impact": 11.36394800067474
       }
     },
     {
-      "fullName": "sveltejs/svelte",
-      "rank": 155,
-      "score": 49.04087754605287,
-      "stars": 88465,
-      "forks": 7404,
+      "fullName": "krahets/hello-algo",
+      "rank": 126,
+      "score": 54.45796378283488,
+      "stars": 131881,
+      "forks": 15597,
       "pillarPoints": {
-        "popularity": 6.849372384937238,
-        "activity": 12.962977130858192,
-        "growth": 6.0318510473226254,
-        "health": 12.925292734572395,
-        "impact": 10.271384248362413
+        "popularity": 10.548117154811717,
+        "activity": 9.29681138533975,
+        "growth": 13.7255925393247,
+        "health": 12.365105329063592,
+        "impact": 8.522337374295116
       }
     },
     {
-      "fullName": "gohugoio/hugo",
-      "rank": 156,
-      "score": 48.43233150447574,
-      "stars": 90240,
-      "forks": 8411,
+      "fullName": "golang/go",
+      "rank": 127,
+      "score": 54.22493750905428,
+      "stars": 139738,
+      "forks": 21040,
       "pillarPoints": {
-        "popularity": 7.414225941422595,
-        "activity": 14.120036327986071,
-        "growth": 5.146306757397642,
-        "health": 13.063517240422042,
-        "impact": 8.688245237247397
+        "popularity": 14.589958158995817,
+        "activity": 11.865920503258415,
+        "growth": 6.736374288026424,
+        "health": 14.96659025832816,
+        "impact": 6.066094300445466
       }
     },
     {
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "rank": 157,
-      "score": 48.38173162246769,
-      "stars": 143102,
-      "forks": 21055,
+      "fullName": "scikit-learn/scikit-learn",
+      "rank": 128,
+      "score": 54.222928665129196,
+      "stars": 67967,
+      "forks": 27625,
       "pillarPoints": {
-        "popularity": 11.610878661087867,
-        "activity": 8.452648060575273,
-        "growth": 8.56076352814362,
-        "health": 12.85512695030052,
-        "impact": 6.90231442236041
+        "popularity": 9.92050209205021,
+        "activity": 14.11444007921698,
+        "growth": 5.89151834861989,
+        "health": 13.44299534189484,
+        "impact": 10.853472803347282
       }
     },
     {
-      "fullName": "hugohe3/ppt-master",
-      "rank": 158,
-      "score": 48.069855466016215,
-      "stars": 68666,
-      "forks": 5363,
+      "fullName": "tauri-apps/tauri",
+      "rank": 129,
+      "score": 53.87057912973056,
+      "stars": 112432,
+      "forks": 4150,
       "pillarPoints": {
-        "popularity": 1.1631799163179917,
-        "activity": 12.981851997606434,
-        "growth": 12.350989561865727,
-        "health": 13.823431788531046,
-        "impact": 7.750402201695016
+        "popularity": 7.864016736401674,
+        "activity": 15.427464940489582,
+        "growth": 6.72317364694022,
+        "health": 15.311669444508796,
+        "impact": 8.544254361390285
       }
     },
     {
-      "fullName": "expressjs/express",
-      "rank": 159,
-      "score": 47.95956545713253,
-      "stars": 69580,
-      "forks": 25275,
+      "fullName": "ohmyzsh/ohmyzsh",
+      "rank": 130,
+      "score": 53.296504556784264,
+      "stars": 190284,
+      "forks": 28056,
       "pillarPoints": {
-        "popularity": 8.138075313807532,
-        "activity": 11.999426115806115,
-        "growth": 6.5404248571198105,
-        "health": 12.442057580440913,
-        "impact": 8.839581589958158
+        "popularity": 16.485355648535567,
+        "activity": 9.84604621769802,
+        "growth": 3.320001955990165,
+        "health": 15.63656718563223,
+        "impact": 8.008533548928275
       }
     },
     {
-      "fullName": "laravel/laravel",
-      "rank": 160,
-      "score": 47.74916211348191,
-      "stars": 85269,
-      "forks": 26866,
+      "fullName": "vinta/awesome-python",
+      "rank": 131,
+      "score": 53.24841164511631,
+      "stars": 331945,
+      "forks": 29053,
       "pillarPoints": {
-        "popularity": 10.782426778242678,
-        "activity": 8.102892665973998,
-        "growth": 9.354312963717575,
-        "health": 10.80844839609484,
-        "impact": 8.701081309452817
+        "popularity": 16.81171548117155,
+        "activity": 10.080064535553173,
+        "growth": 10.47416510147855,
+        "health": 9.892853556485356,
+        "impact": 5.989612970427688
       }
     },
     {
-      "fullName": "syncthing/syncthing",
-      "rank": 161,
-      "score": 47.70626255539355,
-      "stars": 89766,
-      "forks": 5542,
+      "fullName": "torvalds/linux",
+      "rank": 132,
+      "score": 53.241039108324046,
+      "stars": 254134,
+      "forks": 66946,
       "pillarPoints": {
-        "popularity": 6.066945606694561,
-        "activity": 12.70598659405659,
-        "growth": 9.575714675291833,
-        "health": 11.013434666457625,
-        "impact": 8.344181012892935
+        "popularity": 19.117154811715483,
+        "activity": 10.805243358747834,
+        "growth": 8.06219815320388,
+        "health": 10.257472803347282,
+        "impact": 4.998969981309568
       }
     },
     {
-      "fullName": "massgravel/Microsoft-Activation-Scripts",
-      "rank": 162,
-      "score": 46.396809203460506,
-      "stars": 196204,
-      "forks": 18614,
+      "fullName": "tailwindlabs/tailwindcss",
+      "rank": 133,
+      "score": 53.06272016199141,
+      "stars": 98285,
+      "forks": 7127,
       "pillarPoints": {
-        "popularity": 11.92468619246862,
-        "activity": 6.816439446481833,
-        "growth": 11.06471870249037,
-        "health": 9.311536386542574,
-        "impact": 7.279428475477108
-      }
-    },
-    {
-      "fullName": "awesome-selfhosted/awesome-selfhosted",
-      "rank": 163,
-      "score": 46.38681928489704,
-      "stars": 330569,
-      "forks": 15565,
-      "pillarPoints": {
-        "popularity": 15.907949790794984,
-        "activity": 5.997184124204772,
-        "growth": 11.43664481012505,
-        "health": 7.951464435146444,
-        "impact": 5.09357612462579
-      }
-    },
-    {
-      "fullName": "nvm-sh/nvm",
-      "rank": 164,
-      "score": 44.84883017463401,
-      "stars": 95657,
-      "forks": 10591,
-      "pillarPoints": {
-        "popularity": 8.196652719665272,
-        "activity": 11.751227456978617,
-        "growth": 8.724206765735321,
-        "health": 9.362749915040483,
-        "impact": 6.813993317214316
-      }
-    },
-    {
-      "fullName": "Anduin2017/HowToCook",
-      "rank": 165,
-      "score": 44.81764957515087,
-      "stars": 103174,
-      "forks": 11155,
-      "pillarPoints": {
-        "popularity": 8.418410041841005,
-        "activity": 9.369198839957917,
-        "growth": 10.042381998828894,
-        "health": 10.354198390757052,
-        "impact": 6.633460303765998
+        "popularity": 7.123430962343096,
+        "activity": 11.640518404018744,
+        "growth": 10.902782308013176,
+        "health": 12.953555779219691,
+        "impact": 10.442432708396703
       }
     },
     {
       "fullName": "cathrynlavery/diagram-design",
-      "rank": 166,
-      "score": 44.61303161153242,
-      "stars": 61232,
-      "forks": 3979,
+      "rank": 134,
+      "score": 52.86588991641424,
+      "stars": 64276,
+      "forks": 4241,
       "pillarPoints": {
-        "popularity": 0.8912133891213389,
-        "activity": 13.015199917211373,
-        "growth": 8.496677211488828,
-        "health": 14.68957017818335,
-        "impact": 7.520370915527528
+        "popularity": 0.98326359832636,
+        "activity": 12.475040225169613,
+        "growth": 17.226840739559897,
+        "health": 14.594438888117336,
+        "impact": 7.586306465241031
       }
     },
     {
-      "fullName": "ChatGPTNextWeb/NextChat",
-      "rank": 167,
-      "score": 44.501508622059184,
-      "stars": 88896,
-      "forks": 58715,
+      "fullName": "TauricResearch/TradingAgents",
+      "rank": 135,
+      "score": 52.86487796547867,
+      "stars": 119838,
+      "forks": 22922,
       "pillarPoints": {
-        "popularity": 9.209205020920502,
-        "activity": 7.0923935326289325,
-        "growth": 9.446898626957779,
-        "health": 7.532760395526871,
-        "impact": 11.220251046025103
+        "popularity": 9.694560669456067,
+        "activity": 11.729930486403312,
+        "growth": 11.654998166614977,
+        "health": 11.214987693773063,
+        "impact": 8.570400949231253
       }
     },
     {
-      "fullName": "practical-tutorials/project-based-learning",
-      "rank": 168,
-      "score": 44.33283460306404,
-      "stars": 288034,
-      "forks": 36722,
+      "fullName": "fatedier/frp",
+      "rank": 136,
+      "score": 52.591167126814014,
+      "stars": 110389,
+      "forks": 15302,
       "pillarPoints": {
-        "popularity": 15.322175732217572,
-        "activity": 6.369435401480872,
-        "growth": 10.416044154266354,
-        "health": 5.736651909149989,
-        "impact": 6.488527405949257
+        "popularity": 9.937238493723848,
+        "activity": 12.831671006172549,
+        "growth": 12.00227949461671,
+        "health": 12.112436810931147,
+        "impact": 5.707541321369758
       }
     },
     {
-      "fullName": "hacksider/Deep-Live-Cam",
-      "rank": 169,
-      "score": 43.7925451632328,
-      "stars": 97238,
-      "forks": 14155,
+      "fullName": "Alishahryar1/free-claude-code",
+      "rank": 137,
+      "score": 52.211732234911,
+      "stars": 65859,
+      "forks": 10277,
       "pillarPoints": {
-        "popularity": 7.2447698744769875,
-        "activity": 10.806415058287259,
-        "growth": 5.725343468149844,
-        "health": 12.758924734656954,
-        "impact": 7.257092027661758
+        "popularity": 2.790794979079498,
+        "activity": 14.739026918102368,
+        "growth": 12.124886396748972,
+        "health": 11.803760003206667,
+        "impact": 10.753263937773488
       }
     },
     {
-      "fullName": "github/gitignore",
-      "rank": 170,
-      "score": 43.38397470565204,
-      "stars": 176060,
-      "forks": 82070,
+      "fullName": "odysseus-dev/odysseus",
+      "rank": 138,
+      "score": 51.539476222228906,
+      "stars": 94923,
+      "forks": 1859,
       "pillarPoints": {
-        "popularity": 17.154811715481173,
-        "activity": 4.491176517137974,
-        "growth": 3.1048312080398635,
-        "health": 10.583615516039051,
-        "impact": 8.049539748953976
+        "popularity": 5.539748953974896,
+        "activity": 13.977173161202696,
+        "growth": 10.075381249319236,
+        "health": 11.594366773152714,
+        "impact": 10.352806084579365
       }
     },
     {
-      "fullName": "666ghj/MiroFish",
-      "rank": 171,
-      "score": 42.72024399027744,
-      "stars": 82019,
-      "forks": 12409,
+      "fullName": "calesthio/OpenMontage",
+      "rank": 139,
+      "score": 51.33765979265104,
+      "stars": 74965,
+      "forks": 9870,
       "pillarPoints": {
-        "popularity": 4.2949790794979075,
-        "activity": 6.892806448062292,
-        "growth": 14.863068652082465,
-        "health": 8.863473155595,
-        "impact": 7.8059166550397725
+        "popularity": 3.2426778242677825,
+        "activity": 9.02330207625445,
+        "growth": 19.159832635983264,
+        "health": 12.133939267005832,
+        "impact": 7.7779079891397025
       }
     },
     {
-      "fullName": "sindresorhus/awesome",
-      "rank": 172,
-      "score": 42.61665791424944,
-      "stars": 524932,
-      "forks": 37769,
+      "fullName": "usestrix/strix",
+      "rank": 140,
+      "score": 51.31825632998829,
+      "stars": 73341,
+      "forks": 8261,
       "pillarPoints": {
-        "popularity": 17.753138075313814,
-        "activity": 1.6208761287599733,
-        "growth": 10.022863791442811,
-        "health": 6.779700305918595,
-        "impact": 6.440079612814246
+        "popularity": 2.560669456066946,
+        "activity": 13.608739877517884,
+        "growth": 14.35133364221307,
+        "health": 11.476057889007658,
+        "impact": 9.32145546518273
       }
     },
     {
-      "fullName": "codecrafters-io/build-your-own-x",
-      "rank": 173,
-      "score": 42.588079478798555,
-      "stars": 556333,
-      "forks": 52079,
+      "fullName": "microsoft/terminal",
+      "rank": 141,
+      "score": 51.23571793843766,
+      "stars": 105314,
+      "forks": 9716,
       "pillarPoints": {
-        "popularity": 16.748953974895397,
-        "activity": 1.9839095990706164,
-        "growth": 11.233798049280617,
-        "health": 5.569467421257454,
-        "impact": 7.051950434294467
+        "popularity": 9.046025104602512,
+        "activity": 12.951982316908339,
+        "growth": 6.452213772637203,
+        "health": 12.854632300100668,
+        "impact": 9.930864444188938
       }
     },
     {
-      "fullName": "Egonex-AI/Understand-Anything",
-      "rank": 174,
-      "score": 42.52738222250086,
-      "stars": 88348,
-      "forks": 7455,
+      "fullName": "django/django",
+      "rank": 142,
+      "score": 50.964736929964545,
+      "stars": 91714,
+      "forks": 35997,
       "pillarPoints": {
-        "popularity": 3.556485355648536,
-        "activity": 10.174946550730084,
-        "growth": 9.712575260335647,
-        "health": 10.509881679554562,
-        "impact": 8.57349337623203
+        "popularity": 12.326359832635983,
+        "activity": 10.487466456486098,
+        "growth": 7.164483862599787,
+        "health": 13.088267782426776,
+        "impact": 7.8981589958159
+      }
+    },
+    {
+      "fullName": "TheAlgorithms/Python",
+      "rank": 143,
+      "score": 50.93139115682862,
+      "stars": 225773,
+      "forks": 51265,
+      "pillarPoints": {
+        "popularity": 17.86192468619247,
+        "activity": 6.638851619984443,
+        "growth": 3.3782883296824653,
+        "health": 13.880810465121163,
+        "impact": 9.171516055848075
+      }
+    },
+    {
+      "fullName": "sveltejs/svelte",
+      "rank": 144,
+      "score": 50.87679779305647,
+      "stars": 88528,
+      "forks": 6854,
+      "pillarPoints": {
+        "popularity": 6.648535564853557,
+        "activity": 13.918183574601652,
+        "growth": 7.001235520897396,
+        "health": 13.102200916771615,
+        "impact": 10.206642215932249
+      }
+    },
+    {
+      "fullName": "unclecode/crawl4ai",
+      "rank": 145,
+      "score": 50.81449442102647,
+      "stars": 86772,
+      "forks": 9043,
+      "pillarPoints": {
+        "popularity": 4.267782426778243,
+        "activity": 13.763471181393067,
+        "growth": 10.38725120000726,
+        "health": 14.435733198837786,
+        "impact": 7.960256414010111
+      }
+    },
+    {
+      "fullName": "Fission-AI/OpenSpec",
+      "rank": 146,
+      "score": 50.73896222140171,
+      "stars": 73692,
+      "forks": 5044,
+      "pillarPoints": {
+        "popularity": 2.5230125523012554,
+        "activity": 14.650290331746058,
+        "growth": 8.022988552181133,
+        "health": 15.3072578837541,
+        "impact": 10.23541290141916
+      }
+    },
+    {
+      "fullName": "mermaid-js/mermaid",
+      "rank": 147,
+      "score": 50.427754873787734,
+      "stars": 90977,
+      "forks": 9441,
+      "pillarPoints": {
+        "popularity": 6.891213389121341,
+        "activity": 15.56666758842107,
+        "growth": 7.434736894645471,
+        "health": 11.465792204673617,
+        "impact": 9.069344796926234
+      }
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "rank": 148,
+      "score": 50.04971634233535,
+      "stars": 97193,
+      "forks": 19020,
+      "pillarPoints": {
+        "popularity": 9.87029288702929,
+        "activity": 14.244640890123284,
+        "growth": 7.632502108165751,
+        "health": 9.574181311018132,
+        "impact": 8.728099145998899
+      }
+    },
+    {
+      "fullName": "eternity4719/HowToLiveBetter",
+      "rank": 149,
+      "score": 49.985336052670775,
+      "stars": 72680,
+      "forks": 6374,
+      "pillarPoints": {
+        "popularity": 1.5523012552301259,
+        "activity": 12.035357348686908,
+        "growth": 15.525879638239553,
+        "health": 12.113248406120993,
+        "impact": 8.75854940439319
+      }
+    },
+    {
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "rank": 150,
+      "score": 49.91287887032181,
+      "stars": 62197,
+      "forks": 12149,
+      "pillarPoints": {
+        "popularity": 4.364016736401674,
+        "activity": 19.02427391237673,
+        "growth": 6.7973566181740335,
+        "health": 9.574543219523827,
+        "impact": 10.15268838384555
+      }
+    },
+    {
+      "fullName": "localsend/localsend",
+      "rank": 151,
+      "score": 49.586580505890055,
+      "stars": 97041,
+      "forks": 5512,
+      "pillarPoints": {
+        "popularity": 5.508368200836821,
+        "activity": 13.197098658970432,
+        "growth": 11.933878462855525,
+        "health": 10.090320109716743,
+        "impact": 8.856915073510532
       }
     },
     {
       "fullName": "521xueweihan/HelloGitHub",
-      "rank": 175,
-      "score": 42.471799219972674,
-      "stars": 184632,
-      "forks": 13106,
+      "rank": 152,
+      "score": 48.757366874207676,
+      "stars": 186371,
+      "forks": 13187,
       "pillarPoints": {
-        "popularity": 11.585774058577408,
-        "activity": 6.8680554006384575,
-        "growth": 10.186607808103416,
-        "health": 6.667692360615416,
-        "impact": 7.163669592037972
+        "popularity": 11.556485355648537,
+        "activity": 10.523142917015486,
+        "growth": 12.650490697672875,
+        "health": 6.7951761145264955,
+        "impact": 7.232071789344278
       }
     },
     {
-      "fullName": "labuladong/fucking-algorithm",
-      "rank": 176,
-      "score": 42.21262912183725,
-      "stars": 135972,
-      "forks": 23528,
+      "fullName": "gohugoio/hugo",
+      "rank": 153,
+      "score": 48.401264245332065,
+      "stars": 90326,
+      "forks": 8443,
       "pillarPoints": {
-        "popularity": 11.8326359832636,
-        "activity": 5.563125018792905,
-        "growth": 9.601902833302251,
-        "health": 9.551464435146444,
-        "impact": 5.6635008513320555
+        "popularity": 7.242677824267783,
+        "activity": 14.073601889231801,
+        "growth": 5.294375137506653,
+        "health": 13.148276614048862,
+        "impact": 8.642332780276964
       }
     },
     {
-      "fullName": "anthropics/skills",
-      "rank": 177,
-      "score": 41.99297372950129,
-      "stars": 183889,
-      "forks": 21758,
+      "fullName": "awesome-selfhosted/awesome-selfhosted",
+      "rank": 154,
+      "score": 47.96215807510063,
+      "stars": 333005,
+      "forks": 15688,
       "pillarPoints": {
-        "popularity": 11.435146443514647,
-        "activity": 5.082863003380038,
-        "growth": 12.00912244897699,
-        "health": 4.920999037000726,
-        "impact": 8.544842796628883
+        "popularity": 15.949790794979082,
+        "activity": 6.99903214427627,
+        "growth": 11.91087663053555,
+        "health": 7.951464435146444,
+        "impact": 5.150994070163295
       }
     },
     {
-      "fullName": "sansan0/TrendRadar",
-      "rank": 178,
-      "score": 41.720239323941676,
-      "stars": 63199,
-      "forks": 24900,
+      "fullName": "denoland/deno",
+      "rank": 155,
+      "score": 47.91540612522559,
+      "stars": 108794,
+      "forks": 6482,
       "pillarPoints": {
-        "popularity": 3.6778242677824267,
-        "activity": 7.221683348844338,
-        "growth": 11.329875620985195,
-        "health": 12.259864454530552,
-        "impact": 7.230991631799164
+        "popularity": 9.472803347280337,
+        "activity": 11.691429071355225,
+        "growth": 3.86287983076537,
+        "health": 11.694711826051568,
+        "impact": 11.193582049773081
       }
     },
     {
-      "fullName": "d3/d3",
-      "rank": 179,
-      "score": 41.552525233698766,
-      "stars": 113799,
-      "forks": 22644,
+      "fullName": "Snailclimb/JavaGuide",
+      "rank": 156,
+      "score": 47.89961659004888,
+      "stars": 159390,
+      "forks": 46130,
       "pillarPoints": {
-        "popularity": 11.552301255230127,
-        "activity": 5.834488271457538,
-        "growth": 9.69026448737084,
-        "health": 6.5571492862423835,
-        "impact": 7.918321933397876
+        "popularity": 16.058577405857744,
+        "activity": 6.955413306518872,
+        "growth": 4.954935582935772,
+        "health": 11.921092481053,
+        "impact": 8.009597813683495
       }
     },
     {
-      "fullName": "rasbt/LLMs-from-scratch",
-      "rank": 180,
-      "score": 40.626639799841,
-      "stars": 107316,
-      "forks": 16529,
+      "fullName": "hugohe3/ppt-master",
+      "rank": 157,
+      "score": 47.622744203691646,
+      "stars": 72528,
+      "forks": 5689,
       "pillarPoints": {
-        "popularity": 8.751046025104603,
-        "activity": 4.890219271960458,
-        "growth": 9.540969874705453,
-        "health": 10.159602713855072,
-        "impact": 7.284801914215415
+        "popularity": 1.3096234309623433,
+        "activity": 12.70932259379516,
+        "growth": 12.168619246861928,
+        "health": 13.611562753365986,
+        "impact": 7.8236161787062235
       }
     },
     {
-      "fullName": "jwasham/coding-interview-university",
-      "rank": 181,
-      "score": 40.59213720351765,
-      "stars": 363405,
-      "forks": 85059,
+      "fullName": "github/gitignore",
+      "rank": 158,
+      "score": 47.548495874108916,
+      "stars": 176127,
+      "forks": 82051,
       "pillarPoints": {
-        "popularity": 17.623430962343097,
-        "activity": 1.529874479444051,
-        "growth": 8.584561051183629,
-        "health": 6.024231113140684,
-        "impact": 6.830039597406194
+        "popularity": 17.154811715481173,
+        "activity": 7.650030330624277,
+        "growth": 4.004100693097926,
+        "health": 10.679469452897173,
+        "impact": 8.060083682008369
       }
     },
     {
-      "fullName": "VoltAgent/awesome-design-md",
-      "rank": 182,
-      "score": 40.194845412683804,
-      "stars": 123609,
-      "forks": 13712,
+      "fullName": "excalidraw/excalidraw",
+      "rank": 159,
+      "score": 47.441985666406694,
+      "stars": 135033,
+      "forks": 15969,
       "pillarPoints": {
-        "popularity": 7.94560669456067,
-        "activity": 4.6696821581229475,
-        "growth": 14.392524386216596,
-        "health": 5.818709618971044,
-        "impact": 7.368322554812548
+        "popularity": 10.87029288702929,
+        "activity": 10.417141125408758,
+        "growth": 7.911706931865657,
+        "health": 8.446351939167265,
+        "impact": 9.79649278293572
       }
     },
     {
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "rank": 183,
-      "score": 40.18187849394078,
-      "stars": 224154,
-      "forks": 22431,
+      "fullName": "microsoft/markitdown",
+      "rank": 160,
+      "score": 47.32609962131955,
+      "stars": 193515,
+      "forks": 14516,
       "pillarPoints": {
-        "popularity": 12.192468619246862,
-        "activity": 1.5298825157990248,
-        "growth": 13.132033178584454,
-        "health": 6.003478451882846,
-        "impact": 7.3240157284275895
-      }
-    },
-    {
-      "fullName": "ossu/computer-science",
-      "rank": 184,
-      "score": 40.15172560625029,
-      "stars": 210369,
-      "forks": 26021,
-      "pillarPoints": {
-        "popularity": 14.95397489539749,
-        "activity": 2.189985339520736,
-        "growth": 7.60910052984262,
-        "health": 9.516281989648169,
-        "impact": 5.882382851841268
+        "popularity": 11.326359832635985,
+        "activity": 11.289189041218052,
+        "growth": 6.788553709153883,
+        "health": 8.64098817097658,
+        "impact": 9.281008867335053
       }
     },
     {
       "fullName": "shareAI-lab/learn-claude-code",
+      "rank": 161,
+      "score": 47.25456538186675,
+      "stars": 79755,
+      "forks": 12759,
+      "pillarPoints": {
+        "popularity": 4.2301255230125525,
+        "activity": 7.572586542599499,
+        "growth": 13.595531348812495,
+        "health": 14.681262707769074,
+        "impact": 7.175059259673127
+      }
+    },
+    {
+      "fullName": "hacksider/Deep-Live-Cam",
+      "rank": 162,
+      "score": 46.80296315708555,
+      "stars": 97532,
+      "forks": 14225,
+      "pillarPoints": {
+        "popularity": 7.205020920502092,
+        "activity": 10.011221133431643,
+        "growth": 9.274752710343781,
+        "health": 13.012198788428003,
+        "impact": 7.2997696043800335
+      }
+    },
+    {
+      "fullName": "syncthing/syncthing",
+      "rank": 163,
+      "score": 46.80167872879669,
+      "stars": 90010,
+      "forks": 5579,
+      "pillarPoints": {
+        "popularity": 5.90794979079498,
+        "activity": 12.53894675139408,
+        "growth": 8.785136626050228,
+        "health": 11.266638744485356,
+        "impact": 8.30300681607204
+      }
+    },
+    {
+      "fullName": "laravel/laravel",
+      "rank": 164,
+      "score": 46.69687225760333,
+      "stars": 85220,
+      "forks": 26245,
+      "pillarPoints": {
+        "popularity": 10.677824267782428,
+        "activity": 9.34232127644096,
+        "growth": 7.341622799054657,
+        "health": 10.697988145048816,
+        "impact": 8.637115769276468
+      }
+    },
+    {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 165,
+      "score": 46.211038016030905,
+      "stars": 143740,
+      "forks": 21148,
+      "pillarPoints": {
+        "popularity": 11.648535564853557,
+        "activity": 7.144642361320427,
+        "growth": 7.6863874439946756,
+        "health": 12.867611880871063,
+        "impact": 6.863860764991182
+      }
+    },
+    {
+      "fullName": "expressjs/express",
+      "rank": 166,
+      "score": 46.111564661059546,
+      "stars": 69584,
+      "forks": 25352,
+      "pillarPoints": {
+        "popularity": 8.108786610878662,
+        "activity": 11.715770398173845,
+        "growth": 5.616589861168835,
+        "health": 11.787154192511851,
+        "impact": 8.88326359832636
+      }
+    },
+    {
+      "fullName": "sindresorhus/awesome",
+      "rank": 167,
+      "score": 45.24527141455669,
+      "stars": 529396,
+      "forks": 37995,
+      "pillarPoints": {
+        "popularity": 17.7907949790795,
+        "activity": 1.5329952918349734,
+        "growth": 12.73061085599248,
+        "health": 6.7596166239102295,
+        "impact": 6.4312536637395015
+      }
+    },
+    {
+      "fullName": "Anduin2017/HowToCook",
+      "rank": 168,
+      "score": 45.17054488436817,
+      "stars": 103463,
+      "forks": 11190,
+      "pillarPoints": {
+        "popularity": 8.297071129707113,
+        "activity": 8.27058679548854,
+        "growth": 11.380832385095928,
+        "health": 10.607161494598818,
+        "impact": 6.614893079477769
+      }
+    },
+    {
+      "fullName": "nvm-sh/nvm",
+      "rank": 169,
+      "score": 45.141956100140966,
+      "stars": 95738,
+      "forks": 10734,
+      "pillarPoints": {
+        "popularity": 8.06276150627615,
+        "activity": 11.405224128625063,
+        "growth": 8.78825037317982,
+        "health": 10.09892721477656,
+        "impact": 6.786792877283373
+      }
+    },
+    {
+      "fullName": "anthropics/skills",
+      "rank": 170,
+      "score": 45.08196372585614,
+      "stars": 186637,
+      "forks": 22039,
+      "pillarPoints": {
+        "popularity": 11.600418410041842,
+        "activity": 6.768426005234704,
+        "growth": 13.11007565810249,
+        "health": 5.106221936736556,
+        "impact": 8.496821715740552
+      }
+    },
+    {
+      "fullName": "massgravel/Microsoft-Activation-Scripts",
+      "rank": 171,
+      "score": 44.74561852114046,
+      "stars": 197352,
+      "forks": 18695,
+      "pillarPoints": {
+        "popularity": 11.891213389121338,
+        "activity": 5.852227966487553,
+        "growth": 10.526292965288503,
+        "health": 9.207641385034982,
+        "impact": 7.268242815208083
+      }
+    },
+    {
+      "fullName": "Genymobile/scrcpy",
+      "rank": 172,
+      "score": 44.61630407618376,
+      "stars": 153830,
+      "forks": 14126,
+      "pillarPoints": {
+        "popularity": 11.635983263598327,
+        "activity": 11.822299146080114,
+        "growth": 6.404436426848224,
+        "health": 7.423381360299977,
+        "impact": 7.330203879357124
+      }
+    },
+    {
+      "fullName": "ytdl-org/youtube-dl",
+      "rank": 173,
+      "score": 44.450401499253346,
+      "stars": 141451,
+      "forks": 10680,
+      "pillarPoints": {
+        "popularity": 12.150627615062765,
+        "activity": 6.828854353929705,
+        "growth": 9.924051649309318,
+        "health": 7.519688515587997,
+        "impact": 8.027179365363567
+      }
+    },
+    {
+      "fullName": "VoltAgent/awesome-design-md",
+      "rank": 174,
+      "score": 44.10512163085791,
+      "stars": 125211,
+      "forks": 13886,
+      "pillarPoints": {
+        "popularity": 7.987447698744771,
+        "activity": 6.680345507903347,
+        "growth": 16.220454700294248,
+        "health": 5.812990478332004,
+        "impact": 7.403883245583547
+      }
+    },
+    {
+      "fullName": "practical-tutorials/project-based-learning",
+      "rank": 175,
+      "score": 43.89484632255929,
+      "stars": 288778,
+      "forks": 36790,
+      "pillarPoints": {
+        "popularity": 15.334728033472803,
+        "activity": 6.2807595669830425,
+        "growth": 10.093220908214768,
+        "health": 5.731794592817263,
+        "impact": 6.4543432210714125
+      }
+    },
+    {
+      "fullName": "ChatGPTNextWeb/NextChat",
+      "rank": 176,
+      "score": 43.47482229009813,
+      "stars": 88937,
+      "forks": 58643,
+      "pillarPoints": {
+        "popularity": 9.10878661087866,
+        "activity": 6.0555685463677085,
+        "growth": 9.52623129776908,
+        "health": 7.531223282781423,
+        "impact": 11.253012552301257
+      }
+    },
+    {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "rank": 177,
+      "score": 43.13110291951388,
+      "stars": 558724,
+      "forks": 52277,
+      "pillarPoints": {
+        "popularity": 16.77405857740586,
+        "activity": 2.033374043282174,
+        "growth": 11.658559740858383,
+        "health": 5.542321361580085,
+        "impact": 7.12278919638738
+      }
+    },
+    {
+      "fullName": "getify/You-Dont-Know-JS",
+      "rank": 178,
+      "score": 43.02515224526725,
+      "stars": 184837,
+      "forks": 33357,
+      "pillarPoints": {
+        "popularity": 14.991631799163182,
+        "activity": 5.681941851726929,
+        "growth": 7.493455120599735,
+        "health": 9.506764435146446,
+        "impact": 5.351359038630962
+      }
+    },
+    {
+      "fullName": "sansan0/TrendRadar",
+      "rank": 179,
+      "score": 42.71198526595162,
+      "stars": 63367,
+      "forks": 24921,
+      "pillarPoints": {
+        "popularity": 3.6066945606694567,
+        "activity": 7.980477940885447,
+        "growth": 11.342824864703047,
+        "health": 12.443674092162288,
+        "impact": 7.338313807531381
+      }
+    },
+    {
+      "fullName": "d3/d3",
+      "rank": 180,
+      "score": 41.244264576131215,
+      "stars": 113857,
+      "forks": 22757,
+      "pillarPoints": {
+        "popularity": 11.531380753138077,
+        "activity": 4.5906025168818765,
+        "growth": 10.676921296904817,
+        "health": 6.5571492862423835,
+        "impact": 7.88821072296406
+      }
+    },
+    {
+      "fullName": "rasbt/LLMs-from-scratch",
+      "rank": 181,
+      "score": 41.228733469464366,
+      "stars": 107693,
+      "forks": 16628,
+      "pillarPoints": {
+        "popularity": 8.631799163179917,
+        "activity": 7.163704506278953,
+        "growth": 6.013960184828069,
+        "health": 12.063195437211368,
+        "impact": 7.356074177966058
+      }
+    },
+    {
+      "fullName": "labuladong/fucking-algorithm",
+      "rank": 182,
+      "score": 41.22427168990201,
+      "stars": 136014,
+      "forks": 23533,
+      "pillarPoints": {
+        "popularity": 11.81589958158996,
+        "activity": 4.6094287545232255,
+        "growth": 9.725311487994546,
+        "health": 9.551464435146444,
+        "impact": 5.522167430647831
+      }
+    },
+    {
+      "fullName": "Hack-with-Github/Awesome-Hacking",
+      "rank": 183,
+      "score": 41.131822189086506,
+      "stars": 124400,
+      "forks": 10940,
+      "pillarPoints": {
+        "popularity": 9.573221757322177,
+        "activity": 5.330344064596379,
+        "growth": 14.155073087425189,
+        "health": 7.951464435146444,
+        "impact": 4.121718844596322
+      }
+    },
+    {
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "rank": 184,
+      "score": 40.91403694827733,
+      "stars": 228382,
+      "forks": 22767,
+      "pillarPoints": {
+        "popularity": 12.24686192468619,
+        "activity": 1.4774107692992158,
+        "growth": 13.867777324595954,
+        "health": 5.983394769874478,
+        "impact": 7.3385921598214905
+      }
+    },
+    {
+      "fullName": "Egonex-AI/Understand-Anything",
       "rank": 185,
-      "score": 39.76106211688767,
-      "stars": 79255,
-      "forks": 12676,
+      "score": 40.574140525775555,
+      "stars": 89782,
+      "forks": 7638,
       "pillarPoints": {
-        "popularity": 4.163179916317992,
-        "activity": 4.2958682658643035,
-        "growth": 13.4119089405634,
-        "health": 10.76690925579515,
-        "impact": 7.123195738346828
+        "popularity": 3.5983263598326367,
+        "activity": 8.600894808310395,
+        "growth": 9.469091330210128,
+        "health": 10.325856660236287,
+        "impact": 8.579971367186106
       }
     },
     {
-      "fullName": "datawhalechina/hello-agents",
+      "fullName": "jwasham/coding-interview-university",
       "rank": 186,
-      "score": 39.6306312727729,
-      "stars": 84692,
-      "forks": 10508,
+      "score": 40.21621109278485,
+      "stars": 363692,
+      "forks": 85164,
       "pillarPoints": {
-        "popularity": 4.309623430962344,
-        "activity": 7.594018996914902,
-        "growth": 10.210966727153572,
-        "health": 8.982486506449021,
-        "impact": 8.533535611293058
-      }
-    },
-    {
-      "fullName": "donnemartin/system-design-primer",
-      "rank": 187,
-      "score": 39.43707212148077,
-      "stars": 375637,
-      "forks": 58999,
-      "pillarPoints": {
-        "popularity": 16.64853556485356,
-        "activity": 1.7532937997117704,
-        "growth": 10.200513555429541,
-        "health": 4.29810784913494,
-        "impact": 6.536621352350952
-      }
-    },
-    {
-      "fullName": "AUTOMATIC1111/stable-diffusion-webui",
-      "rank": 188,
-      "score": 39.24295211551393,
-      "stars": 165150,
-      "forks": 32515,
-      "pillarPoints": {
-        "popularity": 14.527196652719669,
-        "activity": 2.2827676498541845,
-        "growth": 5.902749016501866,
-        "health": 5.538686928414085,
-        "impact": 10.991551868024125
+        "popularity": 17.589958158995817,
+        "activity": 1.477405860196922,
+        "growth": 8.091230161725605,
+        "health": 5.994108839768904,
+        "impact": 7.063508072097606
       }
     },
     {
       "fullName": "git/git",
-      "rank": 189,
-      "score": 39.237439854857065,
-      "stars": 64017,
-      "forks": 28602,
+      "rank": 187,
+      "score": 39.7228447383916,
+      "stars": 64119,
+      "forks": 28746,
       "pillarPoints": {
-        "popularity": 9.723849372384938,
-        "activity": 8.545721067629614,
-        "growth": 6.420799958775572,
-        "health": 10.06589790794979,
-        "impact": 4.481171548117156
+        "popularity": 9.698744769874478,
+        "activity": 8.691945889010427,
+        "growth": 6.569302196661504,
+        "health": 10.244776569037658,
+        "impact": 4.518075313807532
       }
     },
     {
       "fullName": "asgeirtj/system_prompts_leaks",
+      "rank": 188,
+      "score": 39.71529005004425,
+      "stars": 70634,
+      "forks": 11447,
+      "pillarPoints": {
+        "popularity": 3.757322175732218,
+        "activity": 9.644923626908888,
+        "growth": 9.916995365489596,
+        "health": 10.119809707919448,
+        "impact": 6.276239173994104
+      }
+    },
+    {
+      "fullName": "danielmiessler/SecLists",
+      "rank": 189,
+      "score": 39.50745558431865,
+      "stars": 74492,
+      "forks": 25203,
+      "pillarPoints": {
+        "popularity": 8.376569037656903,
+        "activity": 11.117730785608321,
+        "growth": 5.089426327354469,
+        "health": 8.166122429762448,
+        "impact": 6.75760700393651
+      }
+    },
+    {
+      "fullName": "donnemartin/system-design-primer",
       "rank": 190,
-      "score": 39.07082246082615,
-      "stars": 70243,
-      "forks": 11379,
+      "score": 39.38270135454019,
+      "stars": 376528,
+      "forks": 59126,
       "pillarPoints": {
-        "popularity": 3.8326359832635983,
-        "activity": 9.239547711772103,
-        "growth": 11.091461361404393,
-        "health": 8.624258434512377,
-        "impact": 6.28291896987368
+        "popularity": 16.665271966527197,
+        "activity": 1.613884189150343,
+        "growth": 10.301197403045517,
+        "health": 4.278024167126572,
+        "impact": 6.524323628690558
       }
     },
     {
-      "fullName": "junegunn/fzf",
+      "fullName": "tensorflow/models",
       "rank": 191,
-      "score": 38.85972513967114,
-      "stars": 83794,
-      "forks": 4693,
+      "score": 39.235614834232074,
+      "stars": 77638,
+      "forks": 44764,
       "pillarPoints": {
-        "popularity": 4.156903765690377,
-        "activity": 11.613234766892358,
-        "growth": 6.626243595518622,
-        "health": 9.955799884636564,
-        "impact": 6.507543126933224
+        "popularity": 10.715481171548118,
+        "activity": 7.055101765909912,
+        "growth": 4.025410645178171,
+        "health": 8.562382757872022,
+        "impact": 8.877238493723851
       }
     },
     {
-      "fullName": "trimstray/the-book-of-secret-knowledge",
+      "fullName": "AUTOMATIC1111/stable-diffusion-webui",
       "rank": 192,
-      "score": 38.843045231091125,
-      "stars": 253358,
-      "forks": 14633,
+      "score": 38.85531982377797,
+      "stars": 165223,
+      "forks": 31916,
       "pillarPoints": {
-        "popularity": 13.146443514644353,
-        "activity": 1.5298744794433645,
-        "growth": 11.75938874014509,
-        "health": 7.718828451882846,
-        "impact": 4.688510044975471
+        "popularity": 14.489539748953979,
+        "activity": 2.1233534042618722,
+        "growth": 5.7509962536858446,
+        "health": 5.5183232443638754,
+        "impact": 10.973107172512401
       }
     },
     {
       "fullName": "vuejs/vue",
       "rank": 193,
-      "score": 38.79100744083834,
-      "stars": 212633,
-      "forks": 33617,
+      "score": 38.78428073314607,
+      "stars": 212498,
+      "forks": 33620,
       "pillarPoints": {
-        "popularity": 16.11715481171548,
-        "activity": 1.5386930050757874,
-        "growth": 4.542259414225942,
-        "health": 7.379443156006109,
-        "impact": 9.213457053815022
+        "popularity": 16.158995815899583,
+        "activity": 1.485869513999733,
+        "growth": 4.611715481171549,
+        "health": 7.359359473997738,
+        "impact": 9.168340448077462
+      }
+    },
+    {
+      "fullName": "trimstray/the-book-of-secret-knowledge",
+      "rank": 194,
+      "score": 38.59028839021802,
+      "stars": 255293,
+      "forks": 14755,
+      "pillarPoints": {
+        "popularity": 13.230125523012553,
+        "activity": 1.4774058601965023,
+        "growth": 11.477891170417596,
+        "health": 7.698744769874477,
+        "impact": 4.706121066716892
+      }
+    },
+    {
+      "fullName": "ossu/computer-science",
+      "rank": 195,
+      "score": 37.600890229195905,
+      "stars": 210656,
+      "forks": 26059,
+      "pillarPoints": {
+        "popularity": 15.00836820083682,
+        "activity": 1.4791604790880155,
+        "growth": 7.813351866026153,
+        "health": 7.618629238368832,
+        "impact": 5.6813804448760825
       }
     },
     {
       "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "rank": 194,
-      "score": 38.18851585638861,
-      "stars": 144266,
-      "forks": 34703,
-      "pillarPoints": {
-        "popularity": 12.374476987447698,
-        "activity": 4.806809032841297,
-        "growth": 8.592040288905794,
-        "health": 4.762330895227887,
-        "impact": 7.652858651965942
-      }
-    },
-    {
-      "fullName": "tensorflow/models",
-      "rank": 195,
-      "score": 38.02679212441803,
-      "stars": 77650,
-      "forks": 44754,
-      "pillarPoints": {
-        "popularity": 10.698744769874478,
-        "activity": 6.994000718605438,
-        "growth": 3.0027932803265758,
-        "health": 8.445730343059239,
-        "impact": 8.8855230125523
-      }
-    },
-    {
-      "fullName": "MunGell/awesome-for-beginners",
       "rank": 196,
-      "score": 37.89648775784285,
-      "stars": 90737,
-      "forks": 8038,
+      "score": 37.330431979207006,
+      "stars": 144418,
+      "forks": 34719,
       "pillarPoints": {
-        "popularity": 6.723849372384938,
-        "activity": 6.026265899117235,
-        "growth": 12.30521645924298,
-        "health": 8.779460378452388,
-        "impact": 4.061695648645312
+        "popularity": 12.334728033472803,
+        "activity": 4.147424207571163,
+        "growth": 8.416793209511464,
+        "health": 4.762330895227887,
+        "impact": 7.6691556334236894
       }
     },
     {
-      "fullName": "sherlock-project/sherlock",
+      "fullName": "realworld-apps/realworld",
       "rank": 197,
-      "score": 37.3661202487194,
-      "stars": 94930,
-      "forks": 11258,
+      "score": 36.392468013681906,
+      "stars": 84361,
+      "forks": 7711,
       "pillarPoints": {
-        "popularity": 8.234309623430963,
-        "activity": 9.845235512751206,
-        "growth": 5.128653832086244,
-        "health": 6.967903592897022,
-        "impact": 7.190017687553965
-      }
-    },
-    {
-      "fullName": "danielmiessler/SecLists",
-      "rank": 198,
-      "score": 36.548953585105316,
-      "stars": 74360,
-      "forks": 25165,
-      "pillarPoints": {
-        "popularity": 8.476987447698745,
-        "activity": 8.669155315615198,
-        "growth": 5.396270112779296,
-        "health": 7.303267943476999,
-        "impact": 6.703272765535076
+        "popularity": 4.861924686192468,
+        "activity": 7.782463408285382,
+        "growth": 9.811723288721026,
+        "health": 8.873890634451529,
+        "impact": 5.0624659960314995
       }
     },
     {
       "fullName": "react/create-react-app",
-      "rank": 199,
-      "score": 36.538479763266466,
-      "stars": 103240,
-      "forks": 26869,
+      "rank": 198,
+      "score": 36.381488297631975,
+      "stars": 103239,
+      "forks": 26876,
       "pillarPoints": {
-        "popularity": 12.376569037656903,
-        "activity": 1.981164750730048,
-        "growth": 4.79133734731415,
-        "health": 7.414800394565596,
-        "impact": 9.974608232999763
+        "popularity": 12.271966527196652,
+        "activity": 2.0317825368326687,
+        "growth": 4.658577405857741,
+        "health": 7.394716712557228,
+        "impact": 10.02444511518769
+      }
+    },
+    {
+      "fullName": "sherlock-project/sherlock",
+      "rank": 199,
+      "score": 36.31361143039948,
+      "stars": 95414,
+      "forks": 11363,
+      "pillarPoints": {
+        "popularity": 8.12133891213389,
+        "activity": 8.940076754515216,
+        "growth": 5.138505759191778,
+        "health": 6.9724234000858445,
+        "impact": 7.141266604472753
       }
     },
     {
       "fullName": "996icu/996.ICU",
       "rank": 200,
-      "score": 35.950371852258385,
-      "stars": 277180,
-      "forks": 20677,
+      "score": 35.83845665163551,
+      "stars": 277211,
+      "forks": 20683,
       "pillarPoints": {
-        "popularity": 15.855648535564857,
-        "activity": 1.5298744794438062,
-        "growth": 5.280489815386978,
-        "health": 6.725803451882846,
-        "impact": 6.558555569979902
-      }
-    },
-    {
-      "fullName": "ytdl-org/youtube-dl",
-      "rank": 201,
-      "score": 35.673041637601905,
-      "stars": 141400,
-      "forks": 10665,
-      "pillarPoints": {
-        "popularity": 12.271966527196652,
-        "activity": 2.354768781180356,
-        "growth": 6.066227914836795,
-        "health": 6.886814046708062,
-        "impact": 8.093264367680044
-      }
-    },
-    {
-      "fullName": "getify/You-Dont-Know-JS",
-      "rank": 202,
-      "score": 35.64801760858198,
-      "stars": 184836,
-      "forks": 33350,
-      "pillarPoints": {
-        "popularity": 15.03765690376569,
-        "activity": 1.5298745731139887,
-        "growth": 4.89061146125827,
-        "health": 8.856103451882847,
-        "impact": 5.333771218561182
-      }
-    },
-    {
-      "fullName": "Chalarangelo/30-seconds-of-code",
-      "rank": 203,
-      "score": 35.08534343096616,
-      "stars": 129339,
-      "forks": 12486,
-      "pillarPoints": {
-        "popularity": 11.72803347280335,
-        "activity": 4.309910541325348,
-        "growth": 3.3906697836471884,
-        "health": 9.388328451882847,
-        "impact": 6.2684011813074285
+        "popularity": 15.882845188284522,
+        "activity": 1.4774058601967723,
+        "growth": 5.232662940535574,
+        "health": 6.705719769874478,
+        "impact": 6.539822892744164
       }
     },
     {
       "fullName": "blader/humanizer",
-      "rank": 204,
-      "score": 35.05406605311136,
-      "stars": 60827,
-      "forks": 4831,
+      "rank": 201,
+      "score": 35.596499826604386,
+      "stars": 63882,
+      "forks": 5053,
       "pillarPoints": {
-        "popularity": 0.8619246861924686,
-        "activity": 10.291256493423978,
-        "growth": 5.36953275013489,
-        "health": 11.721911448926539,
-        "impact": 6.809440674433488
+        "popularity": 0.9121338912133893,
+        "activity": 8.719644599997107,
+        "growth": 10.632635983263599,
+        "health": 8.459070721336772,
+        "impact": 6.8730146307935165
+      }
+    },
+    {
+      "fullName": "papers-we-love/papers-we-love",
+      "rank": 202,
+      "score": 35.52623899741573,
+      "stars": 111125,
+      "forks": 6466,
+      "pillarPoints": {
+        "popularity": 9.037656903765692,
+        "activity": 5.929168229898245,
+        "growth": 7.239761795953218,
+        "health": 8.944849895266797,
+        "impact": 4.374802172531781
+      }
+    },
+    {
+      "fullName": "datawhalechina/hello-agents",
+      "rank": 203,
+      "score": 35.25880245581061,
+      "stars": 85773,
+      "forks": 10676,
+      "pillarPoints": {
+        "popularity": 4.372384937238493,
+        "activity": 6.876627488076712,
+        "growth": 7.800303140395677,
+        "health": 7.598170323119657,
+        "impact": 8.61131656698007
       }
     },
     {
       "fullName": "justjavac/free-programming-books-zh_CN",
+      "rank": 204,
+      "score": 34.954879537530154,
+      "stars": 119485,
+      "forks": 28267,
+      "pillarPoints": {
+        "popularity": 12.581589958158998,
+        "activity": 1.4822978465493413,
+        "growth": 6.539682528203591,
+        "health": 8.898744769874478,
+        "impact": 5.452564434743739
+      }
+    },
+    {
+      "fullName": "Chalarangelo/30-seconds-of-code",
       "rank": 205,
-      "score": 34.95215262594383,
-      "stars": 119367,
-      "forks": 28251,
+      "score": 34.74378705072647,
+      "stars": 129391,
+      "forks": 12510,
       "pillarPoints": {
-        "popularity": 12.656903765690378,
-        "activity": 1.5378827172174494,
-        "growth": 6.40634238991402,
-        "health": 8.918828451882847,
-        "impact": 5.432195301239141
-      }
-    },
-    {
-      "fullName": "DigitalPlatDev/FreeDomain",
-      "rank": 206,
-      "score": 34.29787284467354,
-      "stars": 205862,
-      "forks": 4571,
-      "pillarPoints": {
-        "popularity": 7.615062761506279,
-        "activity": 1.5516247059208943,
-        "growth": 10.302802829838505,
-        "health": 8.216378451882846,
-        "impact": 6.612004095525014
-      }
-    },
-    {
-      "fullName": "PaddlePaddle/PaddleOCR",
-      "rank": 207,
-      "score": 34.22158637725564,
-      "stars": 91699,
-      "forks": 11559,
-      "pillarPoints": {
-        "popularity": 6.868200836820085,
-        "activity": 4.345596304112311,
-        "growth": 4.286672027884902,
-        "health": 8.757045074308035,
-        "impact": 9.964072134130308
+        "popularity": 11.723849372384938,
+        "activity": 4.073927383317504,
+        "growth": 3.2405257652107324,
+        "health": 9.36824476987448,
+        "impact": 6.337239759938811
       }
     },
     {
       "fullName": "trekhleb/javascript-algorithms",
-      "rank": 208,
-      "score": 34.196148032050296,
-      "stars": 196700,
-      "forks": 30990,
+      "rank": 206,
+      "score": 34.568868206322804,
+      "stars": 196718,
+      "forks": 30995,
       "pillarPoints": {
-        "popularity": 15.217573221757322,
-        "activity": 1.5364180012179616,
-        "growth": 4.992488225518619,
-        "health": 6.3053242471947115,
-        "impact": 6.1443443363616845
-      }
-    },
-    {
-      "fullName": "microsoft/ML-For-Beginners",
-      "rank": 209,
-      "score": 33.79902232184708,
-      "stars": 91759,
-      "forks": 22729,
-      "pillarPoints": {
-        "popularity": 8.644351464435147,
-        "activity": 4.688917835331028,
-        "growth": 3.4145643956070497,
-        "health": 9.662495298431201,
-        "impact": 7.388693328042657
-      }
-    },
-    {
-      "fullName": "gin-gonic/gin",
-      "rank": 210,
-      "score": 33.69709371052383,
-      "stars": 89432,
-      "forks": 8795,
-      "pillarPoints": {
-        "popularity": 7.050209205020922,
-        "activity": 6.106695389428286,
-        "growth": 2.8554443300042602,
-        "health": 11.070190730180302,
-        "impact": 6.61455405589006
+        "popularity": 15.196652719665273,
+        "activity": 1.8873444703042281,
+        "growth": 5.068185460462944,
+        "health": 6.294103016034759,
+        "impact": 6.122582539855598
       }
     },
     {
       "fullName": "shanraisshan/claude-code-best-practice",
-      "rank": 211,
-      "score": 33.492194810674626,
-      "stars": 68134,
-      "forks": 6778,
+      "rank": 207,
+      "score": 34.46939929619685,
+      "stars": 68465,
+      "forks": 6815,
       "pillarPoints": {
-        "popularity": 1.9121338912133892,
-        "activity": 9.78275574204828,
-        "growth": 8.43445937282849,
+        "popularity": 1.8158995815899581,
+        "activity": 9.68205224008523,
+        "growth": 9.58106047712922,
         "health": 7.3248000572981375,
-        "impact": 6.038045747286329
+        "impact": 6.065586940094303
+      }
+    },
+    {
+      "fullName": "microsoft/ML-For-Beginners",
+      "rank": 208,
+      "score": 34.431786762655264,
+      "stars": 91949,
+      "forks": 22825,
+      "pillarPoints": {
+        "popularity": 8.447698744769875,
+        "activity": 5.560807143290839,
+        "growth": 3.56927822865981,
+        "health": 9.404615464729009,
+        "impact": 7.4493871812057355
+      }
+    },
+    {
+      "fullName": "DigitalPlatDev/FreeDomain",
+      "rank": 209,
+      "score": 34.174849206610986,
+      "stars": 206804,
+      "forks": 4642,
+      "pillarPoints": {
+        "popularity": 7.615062761506279,
+        "activity": 1.490692242772793,
+        "growth": 10.251520265208423,
+        "health": 8.196294769874479,
+        "impact": 6.621279167249017
+      }
+    },
+    {
+      "fullName": "PaddlePaddle/PaddleOCR",
+      "rank": 210,
+      "score": 34.15705223898923,
+      "stars": 92131,
+      "forks": 11611,
+      "pillarPoints": {
+        "popularity": 6.834728033472803,
+        "activity": 4.096453893987679,
+        "growth": 4.490688917343094,
+        "health": 8.747200715046267,
+        "impact": 9.987980679139385
+      }
+    },
+    {
+      "fullName": "ruanyf/weekly",
+      "rank": 211,
+      "score": 34.14006450781346,
+      "stars": 107431,
+      "forks": 4568,
+      "pillarPoints": {
+        "popularity": 7.535564853556487,
+        "activity": 9.192737373006441,
+        "growth": 7.153185840391936,
+        "health": 4.6991791242039715,
+        "impact": 5.559397316654624
+      }
+    },
+    {
+      "fullName": "openai/whisper",
+      "rank": 212,
+      "score": 33.590184140494465,
+      "stars": 111775,
+      "forks": 13549,
+      "pillarPoints": {
+        "popularity": 8.514644351464435,
+        "activity": 1.7301814172739487,
+        "growth": 9.035861513808678,
+        "health": 6.898744769874478,
+        "impact": 7.410752088072928
       }
     },
     {
       "fullName": "airbnb/javascript",
-      "rank": 212,
-      "score": 33.381606980242715,
-      "stars": 148047,
-      "forks": 26529,
-      "pillarPoints": {
-        "popularity": 14.535564853556487,
-        "activity": 1.529880735990342,
-        "growth": 4.542259414225942,
-        "health": 6.695259816212849,
-        "impact": 6.078642160257091
-      }
-    },
-    {
-      "fullName": "virattt/ai-hedge-fund",
       "rank": 213,
-      "score": 33.2299173628267,
-      "stars": 64262,
-      "forks": 11281,
+      "score": 33.45048771001237,
+      "stars": 148031,
+      "forks": 26535,
       "pillarPoints": {
-        "popularity": 3.573221757322176,
-        "activity": 10.150496330908258,
-        "growth": 5.613521364283469,
-        "health": 6.944693632430502,
-        "impact": 6.947984277882294
+        "popularity": 14.539748953974897,
+        "activity": 1.4774096820820708,
+        "growth": 4.645188284518829,
+        "health": 6.67517613420448,
+        "impact": 6.112964655232086
       }
     },
     {
-      "fullName": "OpenCut-app/OpenCut",
+      "fullName": "bregman-arie/devops-exercises",
       "rank": 214,
-      "score": 32.51871583037652,
-      "stars": 96259,
-      "forks": 9532,
+      "score": 32.92309694654566,
+      "stars": 86396,
+      "forks": 20586,
       "pillarPoints": {
-        "popularity": 5.828451882845188,
-        "activity": 5.331585845485098,
-        "growth": 8.549680252650752,
-        "health": 4.728071609645078,
-        "impact": 8.0809262397504
+        "popularity": 8.058577405857742,
+        "activity": 1.4774058620357569,
+        "growth": 12.268462983745419,
+        "health": 5.374422734368513,
+        "impact": 5.744227960538232
       }
     },
     {
       "fullName": "yangshun/tech-interview-handbook",
       "rank": 215,
-      "score": 32.50171261562862,
-      "stars": 143158,
-      "forks": 16867,
+      "score": 32.064143447917566,
+      "stars": 143192,
+      "forks": 16879,
       "pillarPoints": {
-        "popularity": 12.230125523012553,
-        "activity": 1.545320934654152,
-        "growth": 6.3442712803260735,
-        "health": 7.183446125316589,
-        "impact": 5.1985487523192475
+        "popularity": 12.154811715481172,
+        "activity": 1.892782932273442,
+        "growth": 5.342924211681612,
+        "health": 7.437770110507419,
+        "impact": 5.235854477973922
       }
     },
     {
-      "fullName": "Hack-with-Github/Awesome-Hacking",
+      "fullName": "666ghj/MiroFish",
       "rank": 216,
-      "score": 32.225046727836904,
-      "stars": 123673,
-      "forks": 10876,
+      "score": 32.04479906370151,
+      "stars": 83430,
+      "forks": 12626,
       "pillarPoints": {
-        "popularity": 9.669456066945608,
-        "activity": 1.536432474501203,
-        "growth": 9.595936912526671,
-        "health": 7.318828451882846,
-        "impact": 4.104392821980573
+        "popularity": 4.305439330543933,
+        "activity": 4.26343054087494,
+        "growth": 8.149094439423726,
+        "health": 7.370362942502022,
+        "impact": 7.95647181035689
       }
     },
     {
       "fullName": "jackfrued/Python-100-Days",
       "rank": 217,
-      "score": 31.979420836656715,
-      "stars": 187456,
-      "forks": 55751,
+      "score": 31.96283571395133,
+      "stars": 187643,
+      "forks": 55743,
       "pillarPoints": {
-        "popularity": 14.414225941422595,
-        "activity": 1.5382287981157376,
-        "growth": 6.780908553586832,
-        "health": 3.1468630857146818,
-        "impact": 6.099194457816869
+        "popularity": 14.393305439330545,
+        "activity": 1.4825091943691406,
+        "growth": 6.861966649087801,
+        "health": 3.1256649590966044,
+        "impact": 6.099389472067238
       }
     },
     {
-      "fullName": "deepseek-ai/DeepSeek-V3",
+      "fullName": "virattt/ai-hedge-fund",
       "rank": 218,
-      "score": 31.491219362359026,
-      "stars": 104610,
-      "forks": 16722,
+      "score": 31.691643490942106,
+      "stars": 64432,
+      "forks": 11315,
       "pillarPoints": {
-        "popularity": 8.092050209205022,
-        "activity": 2.624945969542583,
-        "growth": 6.7133792519272015,
-        "health": 6.153892529404622,
-        "impact": 7.906951402279597
+        "popularity": 3.4351464435146446,
+        "activity": 10.426309720804998,
+        "growth": 4.243481286577584,
+        "health": 6.590056396893475,
+        "impact": 6.9966496431514065
+      }
+    },
+    {
+      "fullName": "gin-gonic/gin",
+      "rank": 219,
+      "score": 31.666747283916052,
+      "stars": 89474,
+      "forks": 8926,
+      "pillarPoints": {
+        "popularity": 6.928870292887029,
+        "activity": 5.416635423480916,
+        "growth": 2.102846562017449,
+        "health": 10.572543848283695,
+        "impact": 6.6458511572469625
+      }
+    },
+    {
+      "fullName": "OpenCut-app/OpenCut",
+      "rank": 220,
+      "score": 31.528134380160488,
+      "stars": 97135,
+      "forks": 9666,
+      "pillarPoints": {
+        "popularity": 5.778242677824268,
+        "activity": 4.54427021921527,
+        "growth": 8.394666996108992,
+        "health": 4.708450255421239,
+        "impact": 8.102504231590723
       }
     },
     {
       "fullName": "anuraghazra/github-readme-stats",
-      "rank": 219,
-      "score": 31.413736587580686,
-      "stars": 79856,
-      "forks": 38140,
-      "pillarPoints": {
-        "popularity": 7.7866108786610875,
-        "activity": 2.206919436193773,
-        "growth": 5.184739626800197,
-        "health": 7.7331779429967575,
-        "impact": 8.50228870292887
-      }
-    },
-    {
-      "fullName": "ruanyf/weekly",
-      "rank": 220,
-      "score": 31.27316504622697,
-      "stars": 107002,
-      "forks": 4534,
-      "pillarPoints": {
-        "popularity": 7.6778242677824275,
-        "activity": 8.504805278318699,
-        "growth": 5.035720462873692,
-        "health": 4.507022038036325,
-        "impact": 5.5477929992158295
-      }
-    },
-    {
-      "fullName": "openai/whisper",
       "rank": 221,
-      "score": 30.238001636014197,
-      "stars": 111295,
-      "forks": 13477,
+      "score": 31.350140570604978,
+      "stars": 79861,
+      "forks": 38228,
       "pillarPoints": {
-        "popularity": 8.539748953974897,
-        "activity": 1.8233350802114,
-        "growth": 4.726816631527889,
-        "health": 6.918828451882845,
-        "impact": 8.229272518417167
+        "popularity": 7.761506276150628,
+        "activity": 1.8909867629790098,
+        "growth": 5.542139044545529,
+        "health": 7.71309426098839,
+        "impact": 8.442414225941421
+      }
+    },
+    {
+      "fullName": "Developer-Y/cs-video-courses",
+      "rank": 222,
+      "score": 30.841805915698707,
+      "stars": 84502,
+      "forks": 11609,
+      "pillarPoints": {
+        "popularity": 6.468619246861924,
+        "activity": 7.375630675275641,
+        "growth": 3.928799295866188,
+        "health": 9.083514644351464,
+        "impact": 3.9852420533434927
+      }
+    },
+    {
+      "fullName": "deepseek-ai/DeepSeek-V3",
+      "rank": 223,
+      "score": 30.82801121638137,
+      "stars": 104716,
+      "forks": 16744,
+      "pillarPoints": {
+        "popularity": 7.9581589958159,
+        "activity": 2.493054992056349,
+        "growth": 6.471982205033903,
+        "health": 5.9745452857298815,
+        "impact": 7.930269737745335
       }
     },
     {
       "fullName": "microsoft/Web-Dev-For-Beginners",
-      "rank": 222,
-      "score": 29.684961322674003,
-      "stars": 97019,
-      "forks": 16072,
+      "rank": 224,
+      "score": 30.57301828042805,
+      "stars": 97061,
+      "forks": 16111,
       "pillarPoints": {
-        "popularity": 9.92050209205021,
-        "activity": 4.212193709527157,
-        "growth": 1.552189661599852,
-        "health": 6.96524424281091,
-        "impact": 7.034831616685874
-      }
-    },
-    {
-      "fullName": "papers-we-love/papers-we-love",
-      "rank": 223,
-      "score": 29.550851746717633,
-      "stars": 110912,
-      "forks": 6453,
-      "pillarPoints": {
-        "popularity": 9.112970711297072,
-        "activity": 3.5445046555395967,
-        "growth": 5.502131866965623,
-        "health": 7.043594665141272,
-        "impact": 4.347649847774073
+        "popularity": 9.8744769874477,
+        "activity": 5.060490503437757,
+        "growth": 1.6830941064157385,
+        "health": 6.939589163955995,
+        "impact": 7.015367519170858
       }
     },
     {
       "fullName": "jlevy/the-art-of-command-line",
-      "rank": 224,
-      "score": 29.493192834161064,
-      "stars": 162602,
-      "forks": 14855,
-      "pillarPoints": {
-        "popularity": 12.506276150627615,
-        "activity": 1.5298744794433645,
-        "growth": 5.8950410315842205,
-        "health": 4.991558013428478,
-        "impact": 4.570443159077387
-      }
-    },
-    {
-      "fullName": "deepseek-ai/DeepSeek-R1",
       "rank": 225,
-      "score": 28.64057738613859,
-      "stars": 91958,
-      "forks": 11655,
+      "score": 29.983686432377844,
+      "stars": 162655,
+      "forks": 14970,
       "pillarPoints": {
-        "popularity": 5.523012552301256,
-        "activity": 2.399416655003841,
-        "growth": 5.877361628800918,
-        "health": 7.800331567900932,
-        "impact": 7.040454982131647
-      }
-    },
-    {
-      "fullName": "macrozheng/mall",
-      "rank": 226,
-      "score": 28.63715472188705,
-      "stars": 84965,
-      "forks": 29833,
-      "pillarPoints": {
-        "popularity": 7.753138075313809,
-        "activity": 2.8690864113263577,
-        "growth": 2.741458073092695,
-        "health": 9.358212747928246,
-        "impact": 5.915259414225941
+        "popularity": 12.564853556485357,
+        "activity": 1.4774058601965023,
+        "growth": 6.399905295039554,
+        "health": 4.97147433142011,
+        "impact": 4.570047389236324
       }
     },
     {
       "fullName": "karpathy/autoresearch",
-      "rank": 227,
-      "score": 28.58767135016906,
-      "stars": 98602,
-      "forks": 13615,
+      "rank": 226,
+      "score": 28.487191997530356,
+      "stars": 99074,
+      "forks": 13674,
       "pillarPoints": {
-        "popularity": 6.845188284518828,
-        "activity": 1.5298758598103084,
-        "growth": 8.871214911925136,
-        "health": 4.016222045049031,
-        "impact": 7.325170248865755
+        "popularity": 6.790794979079498,
+        "activity": 1.477406703409943,
+        "growth": 8.946277708973387,
+        "health": 3.9815056793824923,
+        "impact": 7.291206926685036
+      }
+    },
+    {
+      "fullName": "macrozheng/mall",
+      "rank": 227,
+      "score": 28.440090431301286,
+      "stars": 85005,
+      "forks": 29839,
+      "pillarPoints": {
+        "popularity": 7.665271966527197,
+        "activity": 2.6708057169396957,
+        "growth": 2.8276535563915,
+        "health": 9.338129065919878,
+        "impact": 5.938230125523013
       }
     },
     {
       "fullName": "PanJiaChen/vue-element-admin",
       "rank": 228,
-      "score": 28.066116940399468,
-      "stars": 90126,
-      "forks": 30243,
+      "score": 28.061461855329703,
+      "stars": 90127,
+      "forks": 30237,
       "pillarPoints": {
-        "popularity": 9.313807531380753,
-        "activity": 1.529879869122352,
-        "growth": 4.542259414225942,
-        "health": 5.406635618749986,
-        "impact": 7.273534506920436
+        "popularity": 9.196652719665273,
+        "activity": 1.4774110328872623,
+        "growth": 4.681499798359959,
+        "health": 5.3865519367416175,
+        "impact": 7.319346367675589
+      }
+    },
+    {
+      "fullName": "deepseek-ai/DeepSeek-R1",
+      "rank": 229,
+      "score": 27.83123433923991,
+      "stars": 91993,
+      "forks": 11668,
+      "pillarPoints": {
+        "popularity": 5.2887029288702925,
+        "activity": 2.3706221654159614,
+        "growth": 5.3930884005128075,
+        "health": 7.780247885892566,
+        "impact": 6.998572958548283
       }
     },
     {
       "fullName": "goldbergyoni/nodebestpractices",
-      "rank": 229,
-      "score": 28.04983089094207,
-      "stars": 105680,
-      "forks": 10727,
+      "rank": 230,
+      "score": 27.810242355039513,
+      "stars": 105709,
+      "forks": 10747,
       "pillarPoints": {
-        "popularity": 9.368200836820083,
-        "activity": 1.5302660716059684,
-        "growth": 5.345722551323256,
-        "health": 6.590135088527292,
-        "impact": 5.215506342665472
+        "popularity": 9.238493723849373,
+        "activity": 1.477645068891062,
+        "growth": 5.32169370148404,
+        "health": 6.570051406518923,
+        "impact": 5.202358454296118
       }
     },
     {
       "fullName": "iluwatar/java-design-patterns",
-      "rank": 230,
-      "score": 27.62592806721935,
-      "stars": 94820,
-      "forks": 27347,
-      "pillarPoints": {
-        "popularity": 11.556485355648537,
-        "activity": 2.6675066652337023,
-        "growth": 0.9809905535790691,
-        "health": 6.1402665344322465,
-        "impact": 6.280678958325796
-      }
-    },
-    {
-      "fullName": "bregman-arie/devops-exercises",
       "rank": 231,
-      "score": 26.47212689056115,
-      "stars": 84964,
-      "forks": 20415,
+      "score": 26.94152618875509,
+      "stars": 94840,
+      "forks": 27357,
       "pillarPoints": {
-        "popularity": 7.916317991631799,
-        "activity": 1.5298744824542816,
-        "growth": 5.954450323204558,
-        "health": 5.413376195246658,
-        "impact": 5.658107898023854
+        "popularity": 11.422594142259415,
+        "activity": 2.1723419085636984,
+        "growth": 0.9627292353588943,
+        "health": 6.120182852423878,
+        "impact": 6.263678050149206
       }
     },
     {
       "fullName": "florinpop17/app-ideas",
       "rank": 232,
-      "score": 25.287390015743217,
-      "stars": 98332,
-      "forks": 10666,
+      "score": 25.448432002923504,
+      "stars": 98449,
+      "forks": 10689,
       "pillarPoints": {
-        "popularity": 7.640167364016737,
-        "activity": 1.5298744794578645,
-        "growth": 6.213038050714921,
-        "health": 5.778532233238519,
-        "impact": 4.125777888315173
-      }
-    },
-    {
-      "fullName": "ByteByteGoHq/system-design-101",
-      "rank": 233,
-      "score": 24.745200491533446,
-      "stars": 90748,
-      "forks": 10095,
-      "pillarPoints": {
-        "popularity": 5.2970711297071125,
-        "activity": 1.5298744794433645,
-        "growth": 7.585474562829448,
-        "health": 4.87405462129822,
-        "impact": 5.458725698255299
+        "popularity": 7.472803347280335,
+        "activity": 1.4774058602053601,
+        "growth": 6.595920231525347,
+        "health": 5.75844855123015,
+        "impact": 4.14385401268231
       }
     },
     {
       "fullName": "mtdvio/every-programmer-should-know",
-      "rank": 234,
-      "score": 24.309892542203777,
-      "stars": 100563,
-      "forks": 8759,
+      "rank": 233,
+      "score": 24.703767400786425,
+      "stars": 100603,
+      "forks": 8776,
       "pillarPoints": {
-        "popularity": 7.531380753138076,
-        "activity": 1.5298744829547626,
-        "growth": 5.075620667961476,
-        "health": 6.073932781517532,
-        "impact": 4.099083856631932
+        "popularity": 7.506276150627617,
+        "activity": 1.4774058623414816,
+        "growth": 5.548862935816156,
+        "health": 6.053849099509165,
+        "impact": 4.117373352492004
+      }
+    },
+    {
+      "fullName": "ByteByteGoHq/system-design-101",
+      "rank": 234,
+      "score": 24.332325916163423,
+      "stars": 90931,
+      "forks": 10141,
+      "pillarPoints": {
+        "popularity": 5.066945606694561,
+        "activity": 1.4774058601965023,
+        "growth": 7.465716019108813,
+        "health": 4.8539709392898525,
+        "impact": 5.468287490873695
       }
     },
     {
       "fullName": "3b1b/manim",
       "rank": 235,
-      "score": 24.303773580124016,
-      "stars": 95674,
-      "forks": 7843,
+      "score": 23.959077331824,
+      "stars": 96005,
+      "forks": 7893,
       "pillarPoints": {
-        "popularity": 6.782426778242677,
-        "activity": 2.10663793742068,
-        "growth": 4.208594762929428,
-        "health": 5.315939174436144,
-        "impact": 5.890174927095089
-      }
-    },
-    {
-      "fullName": "mlabonne/llm-course",
-      "rank": 236,
-      "score": 23.745728925833642,
-      "stars": 84713,
-      "forks": 9841,
-      "pillarPoints": {
-        "popularity": 4.075313807531381,
-        "activity": 1.5298745274489023,
-        "growth": 8.719391366531825,
-        "health": 4.974830740701205,
-        "impact": 4.446318483620328
+        "popularity": 6.682008368200837,
+        "activity": 2.0430287145004824,
+        "growth": 4.059098327706173,
+        "health": 5.295855492427775,
+        "impact": 5.879086428988727
       }
     },
     {
       "fullName": "ryanmcdermott/clean-code-javascript",
-      "rank": 237,
-      "score": 23.20898395993981,
-      "stars": 94702,
-      "forks": 12533,
+      "rank": 236,
+      "score": 23.820719790356925,
+      "stars": 94692,
+      "forks": 12642,
       "pillarPoints": {
-        "popularity": 7.891213389121339,
-        "activity": 1.5298744794433645,
-        "growth": 4.542259414225942,
-        "health": 5.473669450378624,
-        "impact": 3.771967226770538
+        "popularity": 7.790794979079499,
+        "activity": 1.4774058601965023,
+        "growth": 5.301255230125523,
+        "health": 5.453585768370256,
+        "impact": 3.7976779525851443
+      }
+    },
+    {
+      "fullName": "nvbn/thefuck",
+      "rank": 237,
+      "score": 23.350092985931013,
+      "stars": 97938,
+      "forks": 3987,
+      "pillarPoints": {
+        "popularity": 6.096234309623431,
+        "activity": 1.4775375703305351,
+        "growth": 5.2030592977771235,
+        "health": 5.699831747887664,
+        "impact": 4.873430060312257
       }
     },
     {
       "fullName": "fighting41love/funNLP",
       "rank": 238,
-      "score": 23.092770749639225,
-      "stars": 84164,
-      "forks": 15295,
+      "score": 23.005216986495668,
+      "stars": 84341,
+      "forks": 15303,
       "pillarPoints": {
-        "popularity": 6.100418410041841,
-        "activity": 1.5298744794433645,
-        "growth": 7.099495409955773,
-        "health": 4.568315276783679,
-        "impact": 3.7946671734145667
+        "popularity": 6.066945606694561,
+        "activity": 1.4774058601965023,
+        "growth": 7.0831259780845075,
+        "health": 4.548231594775311,
+        "impact": 3.8295079467447826
       }
     },
     {
-      "fullName": "nvbn/thefuck",
+      "fullName": "MunGell/awesome-for-beginners",
       "rank": 239,
-      "score": 23.05336461134722,
-      "stars": 97925,
-      "forks": 3959,
+      "score": 22.24510105832048,
+      "stars": 90991,
+      "forks": 8061,
       "pillarPoints": {
-        "popularity": 6.1589958158995834,
-        "activity": 1.5300117121419214,
-        "growth": 4.822361944000102,
-        "health": 5.719915429896032,
-        "impact": 4.8220797094095795
+        "popularity": 6.635983263598326,
+        "activity": 1.9079677105870385,
+        "growth": 3.4111095280972386,
+        "health": 6.187635947581726,
+        "impact": 4.102404608456149
       }
     },
     {
-      "fullName": "realworld-apps/realworld",
+      "fullName": "mlabonne/llm-course",
       "rank": 240,
-      "score": 22.606211234163247,
-      "stars": 84322,
-      "forks": 7678,
+      "score": 21.68024462667035,
+      "stars": 84856,
+      "forks": 9872,
       "pillarPoints": {
-        "popularity": 4.92050209205021,
-        "activity": 1.5865161022266556,
-        "growth": 5.303097907691691,
-        "health": 5.724092310574163,
-        "impact": 5.072002821620529
+        "popularity": 3.8640167364016738,
+        "activity": 1.477405889521252,
+        "growth": 6.9192134769212394,
+        "health": 4.954747058692837,
+        "impact": 4.464861465133351
       }
     }
   ]
